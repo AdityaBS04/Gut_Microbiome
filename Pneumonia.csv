@@ -1,0 +1,481 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D011014,Pneumonia,species,1531,[Clostridium] clostridioforme,27.641,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,33038,[Ruminococcus] gnavus,18.4916,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,33039,[Ruminococcus] torques,3.512,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,28111,Bacteroides eggerthii,3.21741,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,658082,Lachnospiraceae bacterium 2_1_58FAA,3.12523,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,2.80941,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,84112,Eggerthella lenta,2.36079,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,853,Faecalibacterium prausnitzii,1.58071,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,1.0183,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,0.98777,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,40520,Blautia obeum,0.71944,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.53293,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1318,Streptococcus parasanguinis,0.48084,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1522,[Clostridium] innocuum,0.44999,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.25238,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1262,Peptostreptococcus sp.,0.20765,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,51123,[Eubacterium] saphenum,0.19804,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,133926,Olsenella uli,0.1938,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,261299,Intestinibacter bartlettii,0.18126,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1304,Streptococcus salivarius,0.18003,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1382,Atopobium parvulum,0.16125,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,626935,Collinsella tanakaei,0.15941,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1535,[Clostridium] leptum,0.13854,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,658657,Erysipelotrichaceae bacterium 21_3,0.10445,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,341694,Peptostreptococcus stomatis,0.09951,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,39488,[Eubacterium] hallii,0.08414,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,358743,[Clostridium] citroniae,0.07794,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,208479,[Clostridium] bolteae,0.05788,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,1680,Bifidobacterium adolescentis,0.05752,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,74426,Collinsella aerofaciens,0.04113,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,-3e-05,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,27.9153,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,23.8585,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,22.7231,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,84111,Eggerthella,5.24033,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,4.91508,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,3.37761,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,816,Bacteroides,3.21741,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,292632,Subdoligranulum,3.14998,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,216851,Faecalibacterium,1.58071,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,0.98777,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1301,Streptococcus,0.66086,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,459786,Oscillibacter,0.53637,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,35832,Bilophila,0.45321,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1257,Peptostreptococcus,0.30716,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,0.28218,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,102106,Collinsella,0.20054,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,133925,Olsenella,0.1938,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,200630,unclassified Peptostreptococcaceae,0.18126,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1380,Atopobium,0.16125,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,1678,Bifidobacterium,0.05752,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,-1e-05,SRR12328910,,China,36,Male,Pneumonia
+D011014,Pneumonia,species,28116,Bacteroides ovatus,43.1865,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,40518,Ruminococcus bromii,8.16379,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,665956,Subdoligranulum sp. 4_3_54A2FAA,4.25254,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1613,Lactobacillus fermentum,3.81266,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,28026,Bifidobacterium pseudocatenulatum,3.21726,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,818,Bacteroides thetaiotaomicron,3.10698,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,169435,Anaerotruncus colihominis,1.6977,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,33038,[Ruminococcus] gnavus,1.62236,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1304,Streptococcus salivarius,1.57008,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,216816,Bifidobacterium longum,1.51755,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,357276,Bacteroides dorei,1.38625,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1535,[Clostridium] leptum,1.34712,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1343,Streptococcus vestibularis,1.22447,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,457412,Ruminococcus sp. 5_1_39BFAA,0.99286,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,154046,Hungatella hathewayi,0.95516,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,166486,Roseburia intestinalis,0.94163,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,853,Faecalibacterium prausnitzii,0.85223,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,28111,Bacteroides eggerthii,0.83657,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39491,[Eubacterium] rectale,0.80406,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39485,[Eubacterium] eligens,0.74659,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,550,Enterobacter cloacae,0.61291,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1512,[Clostridium] symbiosum,0.60075,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,33039,[Ruminococcus] torques,0.5483,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,820,Bacteroides uniformis,0.41639,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,29361,Tyzzerella nexilis,0.41549,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.40687,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,28117,Alistipes putredinis,0.38017,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,573,Klebsiella pneumoniae,0.34972,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,446660,Adlercreutzia equolifaciens,0.33391,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39492,[Eubacterium] siraeum,0.28881,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,47678,Bacteroides caccae,0.27599,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,88431,Dorea longicatena,0.25435,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,0.25389,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,208479,[Clostridium] bolteae,0.24298,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,40520,Blautia obeum,0.23513,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39490,Eubacterium ramulus,0.22492,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,46506,Bacteroides stercoris,0.22366,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,47715,Lactobacillus rhamnosus,0.20493,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39486,Dorea formicigenerans,0.20373,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1328,Streptococcus anginosus,0.19559,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1352,Enterococcus faecium,0.19505,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,33035,Blautia producta,0.18874,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,292800,Flavonifractor plautii,0.15383,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1590,Lactobacillus plantarum,0.12476,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,487174,Barnesiella intestinihominis,0.12078,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,649756,Anaerostipes hadrus,0.11905,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,301301,Roseburia hominis,0.11231,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.11165,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,487175,Parasutterella excrementihominis,0.09176,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.08036,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,821,Bacteroides vulgatus,0.07505,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,37734,Enterococcus casseliflavus,0.07446,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1502,Clostridium perfringens,0.056,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.04836,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.04631,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.04597,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1118060,Enorma massiliensis phI,0.04404,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,0.04156,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1318,Streptococcus parasanguinis,0.0395,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,328814,Alistipes shahii,0.03724,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1309,Streptococcus mutans,0.03615,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,371601,Bacteroides xylanisolvens,0.0295,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,457421,Clostridiales bacterium 1_7_47FAA,0.0276,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,469610,Burkholderiales bacterium 1_1_47,0.02749,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1522,[Clostridium] innocuum,0.02651,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,471189,Gordonibacter pamelaeae,0.02413,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,230143,Scardovia wiggsiae,0.02059,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,39488,[Eubacterium] hallii,0.02034,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,658657,Erysipelotrichaceae bacterium 21_3,0.01584,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.01575,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1379,Gemella haemolysans,0.01558,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,333367,[Clostridium] asparagiforme,0.01474,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1077464,Streptococcus tigurinus,0.01314,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,35833,Bilophila wadsworthia,0.01267,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,261299,Intestinibacter bartlettii,0.01185,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,454154,Paraprevotella clara,0.00975,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,84112,Eggerthella lenta,0.00897,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,638849,Pyramidobacter piscolens,0.00878,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,46503,Parabacteroides merdae,0.00687,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,329854,Bacteroides intestinalis,0.00487,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,291644,Bacteroides salyersiae,0.00471,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,358743,[Clostridium] citroniae,0.00313,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,163665,Dysgonomonas mossii,0.00271,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,674529,Bacteroides faecis,0.00169,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1531,[Clostridium] clostridioforme,0.00135,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,29466,Veillonella parvula,0.0006,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,0.22512,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,816,Bacteroides,49.5482,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1263,Ruminococcus,9.15665,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,292632,Subdoligranulum,9.11463,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1678,Bifidobacterium,4.73481,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1578,Lactobacillus,4.36746,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,3.63672,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1301,Streptococcus,3.09798,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,2.59453,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,2.08471,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,239759,Alistipes,1.72937,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,244127,Anaerotruncus,1.6977,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,841,Roseburia,1.05394,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,459786,Oscillibacter,1.03631,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,216851,Faecalibacterium,0.85223,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,35832,Bilophila,0.8398,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,0.66299,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,547,Enterobacter,0.61291,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,189330,Dorea,0.45807,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,570,Klebsiella,0.34972,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,447020,Adlercreutzia,0.33391,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,0.32613,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1350,Enterococcus,0.26951,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,375288,Parabacteroides,0.17708,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,0.17619,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,0.16012,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,84111,Eggerthella,0.15474,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,946234,Flavonifractor,0.15383,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,397864,Barnesiella,0.12078,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,207244,Anaerostipes,0.11905,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,577309,Paraprevotella,0.10484,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,577310,Parasutterella,0.09176,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,84113,unclassified Coriobacteriaceae,0.04404,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,186813,unclassified Clostridiales,0.0276,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,119065,unclassified Burkholderiales,0.02749,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,644652,Gordonibacter,0.02413,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,196081,Scardovia,0.02059,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,1378,Gemella,0.01558,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,200630,unclassified Peptostreptococcaceae,0.01185,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,638847,Pyramidobacter,0.00878,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,156973,Dysgonomonas,0.00271,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,29465,Veillonella,0.0006,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,-3e-05,SRR12328911,,China,69,Female,Pneumonia
+D011014,Pneumonia,species,1352,Enterococcus faecium,25.8387,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,33038,[Ruminococcus] gnavus,22.8446,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,208479,[Clostridium] bolteae,8.62889,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,328812,Parabacteroides goldsteinii,5.34218,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,821,Bacteroides vulgatus,5.11343,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,357276,Bacteroides dorei,4.79659,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,818,Bacteroides thetaiotaomicron,1.88492,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,33039,[Ruminococcus] torques,1.82163,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,1.72792,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,820,Bacteroides uniformis,1.40562,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,291644,Bacteroides salyersiae,1.40012,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.98028,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,328814,Alistipes shahii,0.37785,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,46503,Parabacteroides merdae,0.35987,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,154046,Hungatella hathewayi,0.34121,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,665956,Subdoligranulum sp. 4_3_54A2FAA,0.2626,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,371601,Bacteroides xylanisolvens,0.26053,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,0.25528,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,28117,Alistipes putredinis,0.22906,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,469610,Burkholderiales bacterium 1_1_47,0.22538,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,573,Klebsiella pneumoniae,0.19879,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,1736,Eubacterium limosum,0.17425,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,84112,Eggerthella lenta,0.16448,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,487175,Parasutterella excrementihominis,0.12427,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,28111,Bacteroides eggerthii,0.11741,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.04314,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,28116,Bacteroides ovatus,0.04231,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,230143,Scardovia wiggsiae,0.01595,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,29466,Veillonella parvula,0.01572,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,333367,[Clostridium] asparagiforme,0.01554,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,823,Parabacteroides distasonis,0.01474,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,35833,Bilophila wadsworthia,0.01415,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,358743,[Clostridium] citroniae,0.01411,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,1590,Lactobacillus plantarum,0.01008,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,876,Desulfovibrio desulfuricans,0.00724,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,387661,Parabacteroides johnsonii,0.00716,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,61171,Holdemania filiformis,0.00669,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,457421,Clostridiales bacterium 1_7_47FAA,0.00578,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00401,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,1282,Staphylococcus epidermidis,0.00376,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,0.00337,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.00079,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,1522,[Clostridium] innocuum,0.00039,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,0.01129,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,1350,Enterococcus,25.8387,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,24.6663,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,816,Bacteroides,15.0209,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,375288,Parabacteroides,14.8442,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,8.99975,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,292632,Subdoligranulum,5.05472,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,2.71221,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,239759,Alistipes,0.69631,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,84111,Eggerthella,0.43087,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,0.39028,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,0.25528,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,119065,unclassified Burkholderiales,0.22538,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,570,Klebsiella,0.19879,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,0.17425,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,35832,Bilophila,0.13177,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,577310,Parasutterella,0.12427,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,207244,Anaerostipes,0.05101,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,0.04768,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,459786,Oscillibacter,0.04177,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,196081,Scardovia,0.02811,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,29465,Veillonella,0.0226,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,1578,Lactobacillus,0.01008,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,872,Desulfovibrio,0.00724,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,61170,Holdemania,0.00669,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,186813,unclassified Clostridiales,0.00578,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,1279,Staphylococcus,0.00376,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,0.01132,SRR12328912,,China,43,Male,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,37.1567,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,818,Bacteroides thetaiotaomicron,27.5002,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,817,Bacteroides fragilis,10.3064,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,39485,[Eubacterium] eligens,3.64223,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,457402,Eubacterium sp. 3_1_31,1.82496,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,853,Faecalibacterium prausnitzii,1.2247,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1531,[Clostridium] clostridioforme,1.19526,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,39486,Dorea formicigenerans,1.10788,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,29466,Veillonella parvula,0.76833,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,360807,Roseburia inulinivorans,0.45483,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,154046,Hungatella hathewayi,0.35889,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1535,[Clostridium] leptum,0.30319,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1685,Bifidobacterium breve,0.25117,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,169435,Anaerotruncus colihominis,0.23465,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,471189,Gordonibacter pamelaeae,0.18555,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1502,Clostridium perfringens,0.18413,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.18335,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,457421,Clostridiales bacterium 1_7_47FAA,0.16908,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,552398,Ruminococcaceae bacterium D16,0.14965,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1318,Streptococcus parasanguinis,0.14373,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.14133,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,658657,Erysipelotrichaceae bacterium 21_3,0.14051,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.12132,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,0.11851,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1304,Streptococcus salivarius,0.11482,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,261299,Intestinibacter bartlettii,0.09941,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,39496,Eubacterium ventriosum,0.09214,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,166486,Roseburia intestinalis,0.072,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,306,Pseudomonas sp.,0.06105,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,29361,Tyzzerella nexilis,0.05395,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,287,Pseudomonas aeruginosa,0.05133,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,208479,[Clostridium] bolteae,0.04601,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,638849,Pyramidobacter piscolens,0.04501,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,106588,Pseudoflavonifractor capillosus,0.04433,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,200,Campylobacter curvus,0.03627,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,39778,Veillonella dispar,0.03432,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,33035,Blautia producta,0.02861,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1613,Lactobacillus fermentum,0.02744,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,39777,Veillonella atypica,0.02522,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,1343,Streptococcus vestibularis,0.02294,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,84026,[Clostridium] methylpentosum,0.01694,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,729,Haemophilus parainfluenzae,0.01015,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,658085,Lachnospiraceae bacterium 5_1_57FAA,0.00939,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,105841,Anaerostipes caccae,0.00367,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,2047,Rothia dentocariosa,0.00274,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,292800,Flavonifractor plautii,0.00165,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,4e-05,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,43.8228,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,816,Bacteroides,37.8066,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,5.55933,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,29465,Veillonella,3.68399,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,2.15836,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,216851,Faecalibacterium,1.2247,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,189330,Dorea,1.10788,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,292632,Subdoligranulum,0.94603,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,459786,Oscillibacter,0.72023,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,841,Roseburia,0.52683,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,0.52168,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1301,Streptococcus,0.2815,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1678,Bifidobacterium,0.25117,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,244127,Anaerotruncus,0.23465,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,0.19274,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,644652,Gordonibacter,0.18555,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,186813,unclassified Clostridiales,0.16908,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,552397,unclassified Ruminococcaceae,0.14965,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,286,Pseudomonas,0.11238,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,200630,unclassified Peptostreptococcaceae,0.09941,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,638847,Pyramidobacter,0.04501,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1017280,Pseudoflavonifractor,0.04433,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,0.04094,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,194,Campylobacter,0.03627,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,0.02861,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,1578,Lactobacillus,0.02744,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,724,Haemophilus,0.01015,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,207244,Anaerostipes,0.00831,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,32207,Rothia,0.00274,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,946234,Flavonifractor,0.00165,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,3e-05,SRR12328913,,China,47,Male,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,20.9552,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,33039,[Ruminococcus] torques,6.13999,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,46506,Bacteroides stercoris,5.7906,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1352,Enterococcus faecium,5.77931,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,208479,[Clostridium] bolteae,5.52183,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,47678,Bacteroides caccae,3.45422,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,328812,Parabacteroides goldsteinii,2.85748,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,28116,Bacteroides ovatus,2.50063,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,329854,Bacteroides intestinalis,2.43789,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,823,Parabacteroides distasonis,2.41611,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,658081,Lachnospiraceae bacterium 1_1_57FAA,2.28404,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,818,Bacteroides thetaiotaomicron,1.79412,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1531,[Clostridium] clostridioforme,1.35285,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1318,Streptococcus parasanguinis,1.35138,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,693988,Bilophila sp. 4_1_30,1.33492,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,33035,Blautia producta,1.16776,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,821,Bacteroides vulgatus,0.95243,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,28117,Alistipes putredinis,0.7757,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,291644,Bacteroides salyersiae,0.66663,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,853,Faecalibacterium prausnitzii,0.44603,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,850,Fusobacterium mortiferum,0.38104,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,230143,Scardovia wiggsiae,0.35672,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,338188,Bacteroides finegoldii,0.3187,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,333367,[Clostridium] asparagiforme,0.30133,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,371601,Bacteroides xylanisolvens,0.23682,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,457421,Clostridiales bacterium 1_7_47FAA,0.20467,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,46503,Parabacteroides merdae,0.20356,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1308,Streptococcus thermophilus,0.19977,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,154046,Hungatella hathewayi,0.1783,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,84112,Eggerthella lenta,0.16816,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,387090,Bacteroides coprophilus,0.16776,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1305,Streptococcus sanguinis,0.16396,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,328813,Alistipes onderdonkii,0.16305,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.1221,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,358743,[Clostridium] citroniae,0.10236,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,552398,Ruminococcaceae bacterium D16,0.09869,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1512,[Clostridium] symbiosum,0.09426,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1624,Lactobacillus salivarius,0.0807,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,817,Bacteroides fragilis,0.07966,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1496,Clostridioides difficile,0.07634,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,469610,Burkholderiales bacterium 1_1_47,0.06967,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1736,Eubacterium limosum,0.06825,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,43675,Rothia mucilaginosa,0.06265,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,328814,Alistipes shahii,0.05879,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,487175,Parasutterella excrementihominis,0.05291,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1535,[Clostridium] leptum,0.04724,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,876,Desulfovibrio desulfuricans,0.04494,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,40520,Blautia obeum,0.03953,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,31971,[Eubacterium] dolichum,0.03915,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.03757,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,820,Bacteroides uniformis,0.03536,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,29361,Tyzzerella nexilis,0.03236,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1522,[Clostridium] innocuum,0.0293,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,0.02574,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,246787,Bacteroides cellulosilyticus,0.01871,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,0.01594,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,1070699,Clostridiaceae bacterium JC118,0.0154,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,169435,Anaerotruncus colihominis,0.0144,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,39483,Faecalitalea cylindroides,0.01357,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,35833,Bilophila wadsworthia,0.01299,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,105841,Anaerostipes caccae,0.01263,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,674529,Bacteroides faecis,0.01145,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00903,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,137591,Weissella cibaria,0.00857,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,626932,Alistipes indistinctus,0.0063,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,29466,Veillonella parvula,0.00549,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.00431,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.00417,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,658085,Lachnospiraceae bacterium 5_1_57FAA,0.00349,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,28123,Porphyromonas asaccharolytica,0.00301,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,387661,Parabacteroides johnsonii,0.00264,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,47715,Lactobacillus rhamnosus,0.00142,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,0.01408,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,28.9398,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,375288,Parabacteroides,19.4726,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,816,Bacteroides,18.465,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,7.63052,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,7.34728,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,1350,Enterococcus,5.77931,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,2.47217,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,292632,Subdoligranulum,2.11548,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,35832,Bilophila,1.8516,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,1301,Streptococcus,1.71511,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,239759,Alistipes,1.00383,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,459786,Oscillibacter,0.55065,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,216851,Faecalibacterium,0.44603,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,196081,Scardovia,0.42685,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,848,Fusobacterium,0.38104,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,84111,Eggerthella,0.27691,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,186813,unclassified Clostridiales,0.20467,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,0.11623,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,552397,unclassified Ruminococcaceae,0.09869,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,1578,Lactobacillus,0.08212,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,0.07961,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,200630,unclassified Peptostreptococcaceae,0.07634,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,119065,unclassified Burkholderiales,0.06967,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,0.06825,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,32207,Rothia,0.06265,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,117563,Granulicatella,0.05713,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,577310,Parasutterella,0.05291,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,872,Desulfovibrio,0.04494,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,207244,Anaerostipes,0.02707,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,189971,unclassified Clostridiaceae,0.0154,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,244127,Anaerotruncus,0.0144,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,283168,Odoribacter,0.01311,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,189330,Dorea,0.00999,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,46255,Weissella,0.00857,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,29465,Veillonella,0.00698,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,836,Porphyromonas,0.00301,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,0.01411,SRR12328914,,China,90,Female,Pneumonia
+D011014,Pneumonia,species,154046,Hungatella hathewayi,40.8576,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1496,Clostridioides difficile,21.5348,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,33945,Enterococcus avium,17.9841,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,33038,[Ruminococcus] gnavus,10.041,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1283,Staphylococcus haemolyticus,4.90315,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,658082,Lachnospiraceae bacterium 2_1_58FAA,1.48636,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,33039,[Ruminococcus] torques,0.79947,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1680,Bifidobacterium adolescentis,0.61828,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,74426,Collinsella aerofaciens,0.44116,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1522,[Clostridium] innocuum,0.26298,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,216816,Bifidobacterium longum,0.15946,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1689,Bifidobacterium dentium,0.1275,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1282,Staphylococcus epidermidis,0.06087,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,562,Escherichia coli,0.05902,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,28026,Bifidobacterium pseudocatenulatum,0.0545,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.02512,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.02507,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1547,Erysipelatoclostridium ramosum,0.01565,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,29466,Veillonella parvula,0.01345,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,1302,Streptococcus gordonii,0.01254,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,328813,Alistipes onderdonkii,0.01057,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,39488,[Eubacterium] hallii,0.00863,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,species,-1,Unknown,1e-05,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1485,Clostridium,40.8576,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,200630,unclassified Peptostreptococcaceae,21.5348,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1350,Enterococcus,17.9841,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,572511,Blautia,10.8405,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1279,Staphylococcus,4.96402,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,186928,unclassified Lachnospiraceae,1.48636,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1678,Bifidobacterium,0.95974,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,102106,Collinsella,0.44116,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,433334,unclassified Erysipelotrichaceae,0.32883,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,561,Escherichia,0.24737,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,84111,Eggerthella,0.23628,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,100883,Coprobacillus,0.06416,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,29465,Veillonella,0.0234,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1301,Streptococcus,0.01254,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,239759,Alistipes,0.01057,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,1730,Eubacterium,0.00863,SRR12328915,,China,52,Male,Pneumonia
+D011014,Pneumonia,genus,-1,Unknown,0.0,SRR12328915,,China,52,Male,Pneumonia

@@ -1,0 +1,420 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D054323,Shiga-Toxigenic Escherichia coli,species,39491,[Eubacterium] rectale,20.0645,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,216816,Bifidobacterium longum,19.8464,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,853,Faecalibacterium prausnitzii,19.4829,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,166486,Roseburia intestinalis,6.83124,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40518,Ruminococcus bromii,6.51575,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46228,Ruminococcus lactaris,3.55813,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39488,[Eubacterium] hallii,3.54345,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,2.48925,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1304,Streptococcus salivarius,1.86985,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,1.69566,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,1.59323,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40520,Blautia obeum,1.51405,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,218538,Dialister invisus,1.46958,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,360807,Roseburia inulinivorans,1.38619,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,261299,Intestinibacter bartlettii,0.75086,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1502,Clostridium perfringens,0.62396,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28126,Prevotella buccae,0.59762,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,239935,Akkermansia muciniphila,0.49176,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33039,[Ruminococcus] torques,0.4015,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,0.34261,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.20951,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29466,Veillonella parvula,0.12932,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658657,Erysipelotrichaceae bacterium 21_3,0.11853,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40519,Ruminococcus callidus,0.10502,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.09704,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28037,Streptococcus mitis,0.09478,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39778,Veillonella dispar,0.06983,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,47678,Bacteroides caccae,0.06503,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28132,Prevotella melaninogenica,0.06098,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,292800,Flavonifractor plautii,0.03532,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.03255,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.03122,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.02385,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1689,Bifidobacterium dentium,0.01735,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,44009,Enterococcus dispar,0.01584,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1382,Atopobium parvulum,0.01539,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,665951,Lachnospiraceae bacterium 8_1_57FAA,0.01399,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28134,Prevotella oralis,0.0138,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33945,Enterococcus avium,0.01264,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,187326,Megasphaera micronuciformis,0.01142,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,649756,Anaerostipes hadrus,0.01129,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1305,Streptococcus sanguinis,0.00903,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,736,Haemophilus paraphrohaemolyticus,0.00812,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39777,Veillonella atypica,0.00732,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1078480,Haemophilus sputorum,0.00647,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1379,Gemella haemolysans,0.00636,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,53345,Enterococcus durans,0.00519,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,137732,Granulicatella elegans,0.00517,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1352,Enterococcus faecium,0.0051,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,154288,Turicibacter sanguinis,0.00383,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84135,Gemella sanguinis,0.00382,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,113107,Streptococcus australis,0.00312,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1505,Paeniclostridium sordellii,0.00189,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1660,Actinomyces odontolyticus,0.00149,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1338,Streptococcus intermedius,0.00131,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1582,Lactobacillus casei,0.00121,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.00107,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,3.67633,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1730,Eubacterium,23.608,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,19.8638,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,216851,Faecalibacterium,19.4829,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1263,Ruminococcus,10.1789,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,841,Roseburia,8.21743,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,4.40481,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,3.57133,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,1.71024,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,39948,Dialister,1.46958,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,1.39081,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,1.35923,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,100883,Coprobacillus,0.68231,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,838,Prevotella,0.6724,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1485,Clostridium,0.62396,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,239934,Akkermansia,0.49176,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,0.34678,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,84108,Slackia,0.182,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,816,Bacteroides,0.06503,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1350,Enterococcus,0.03877,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,946234,Flavonifractor,0.03532,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,117563,Granulicatella,0.03248,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.02462,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1380,Atopobium,0.01539,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,713,Actinobacillus,0.01223,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,906,Megasphaera,0.01142,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,207244,Anaerostipes,0.01129,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,191303,Turicibacter,0.00383,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1654,Actinomyces,0.00149,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1578,Lactobacillus,0.00121,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,1.49081,ERR2270938,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1685,Bifidobacterium breve,58.6105,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,21.2863,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,853,Faecalibacterium prausnitzii,6.30237,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,357276,Bacteroides dorei,3.40214,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,216816,Bifidobacterium longum,2.75251,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28116,Bacteroides ovatus,1.75077,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39488,[Eubacterium] hallii,1.64791,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40545,Sutterella wadsworthensis,0.66127,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29361,Tyzzerella nexilis,0.44097,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28025,Bifidobacterium animalis,0.31036,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33039,[Ruminococcus] torques,0.26561,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1598,Lactobacillus reuteri,0.20381,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.1889,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,818,Bacteroides thetaiotaomicron,0.18281,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39777,Veillonella atypica,0.13332,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1633,Lactobacillus vaginalis,0.09784,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,0.09398,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,0.09151,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,0.09026,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84112,Eggerthella lenta,0.08507,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,187326,Megasphaera micronuciformis,0.06506,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1582,Lactobacillus casei,0.04723,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29466,Veillonella parvula,0.04364,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28037,Streptococcus mitis,0.03877,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,261299,Intestinibacter bartlettii,0.03107,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,68891,Streptococcus peroris,0.02052,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,71452,Enterococcus raffinosus,0.01983,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1694,Bifidobacterium pseudolongum,0.01875,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1308,Streptococcus thermophilus,0.01264,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39778,Veillonella dispar,0.00869,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,43675,Rothia mucilaginosa,0.00777,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,726,Haemophilus haemolyticus,0.00629,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,257758,Streptococcus pseudopneumoniae,0.00589,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1379,Gemella haemolysans,0.00215,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1547,Erysipelatoclostridium ramosum,0.00135,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,649756,Anaerostipes hadrus,0.00053,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,1.07161,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,61.6921,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,21.552,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,216851,Faecalibacterium,6.30237,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,816,Bacteroides,5.33571,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1730,Eubacterium,1.64791,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,40544,Sutterella,0.66127,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,0.51882,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,0.48622,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1485,Clostridium,0.44097,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1578,Lactobacillus,0.34888,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,84111,Eggerthella,0.22119,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,0.1718,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,0.16927,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,0.0978,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,906,Megasphaera,0.06506,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,100883,Coprobacillus,0.03201,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1350,Enterococcus,0.01983,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,32207,Rothia,0.00777,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,841,Roseburia,0.00506,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.00215,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,207244,Anaerostipes,0.00053,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,0.22134,ERR2270939,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,341694,Peptostreptococcus stomatis,34.6122,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33945,Enterococcus avium,13.5962,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1351,Enterococcus faecalis,12.9754,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,71452,Enterococcus raffinosus,7.94274,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,817,Bacteroides fragilis,4.74262,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,4.58203,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46124,Granulicatella adiacens,2.87786,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,2.68989,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1582,Lactobacillus casei,2.06921,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,0.49558,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1512,[Clostridium] symbiosum,0.47669,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1352,Enterococcus faecium,0.2298,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,113107,Streptococcus australis,0.22827,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,154046,Hungatella hathewayi,0.21862,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1502,Clostridium perfringens,0.20938,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33033,Parvimonas micra,0.19624,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29361,Tyzzerella nexilis,0.19259,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1304,Streptococcus salivarius,0.17901,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84135,Gemella sanguinis,0.15534,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,47715,Lactobacillus rhamnosus,0.08329,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,68892,Streptococcus infantis,0.07604,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,457421,Clostridiales bacterium 1_7_47FAA,0.07445,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28037,Streptococcus mitis,0.04737,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,154288,Turicibacter sanguinis,0.04509,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29466,Veillonella parvula,0.04434,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1260,Finegoldia magna,0.04422,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,571,Klebsiella oxytoca,0.04099,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1379,Gemella haemolysans,0.03843,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1354,Enterococcus hirae,0.03684,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1531,[Clostridium] clostridioforme,0.03597,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84112,Eggerthella lenta,0.03123,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,615,Serratia marcescens,0.02852,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,820,Bacteroides uniformis,0.02546,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,481720,Lactobacillus otakiensis,0.02129,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1308,Streptococcus thermophilus,0.01925,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1655,Actinomyces naeslundii,0.0155,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,823,Parabacteroides distasonis,0.01375,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46125,Abiotrophia defectiva,0.01369,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,75612,Pseudomonas mandelii,0.009,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658659,Erysipelotrichaceae bacterium 3_1_53,0.00775,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1311,Streptococcus agalactiae,0.00752,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1305,Streptococcus sanguinis,0.00735,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1681,Bifidobacterium bifidum,0.0043,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,0.0034,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,102148,Solobacterium moorei,0.00104,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1613,Lactobacillus fermentum,0.00054,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,10.5536,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1350,Enterococcus,34.781,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1257,Peptostreptococcus,34.6122,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,6.48718,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,816,Bacteroides,4.76808,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,84111,Eggerthella,3.67188,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,117563,Granulicatella,2.87786,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,100883,Coprobacillus,2.7934,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,2.68989,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1578,Lactobacillus,2.17433,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1485,Clostridium,1.13325,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,1.06038,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,543311,Parvimonas,0.60632,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,0.42508,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.19377,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,191303,Turicibacter,0.16813,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,0.07932,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,570,Klebsiella,0.07773,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,150022,Finegoldia,0.04422,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,375288,Parabacteroides,0.03178,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,286,Pseudomonas,0.02927,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,613,Serratia,0.02852,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1654,Actinomyces,0.0155,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,46123,Abiotrophia,0.01369,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,0.0043,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,0.0034,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,123375,Solobacterium,0.00104,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,1.22845,ERR2270960,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,41.0672,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1304,Streptococcus salivarius,14.7772,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,261299,Intestinibacter bartlettii,6.99023,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,197614,Streptococcus pasteurianus,6.52417,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1502,Clostridium perfringens,5.75923,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,5.45977,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,550,Enterobacter cloacae,3.25102,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,571,Klebsiella oxytoca,1.34774,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,113107,Streptococcus australis,0.51556,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1308,Streptococcus thermophilus,0.4193,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1351,Enterococcus faecalis,0.37045,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28037,Streptococcus mitis,0.22386,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,0.17803,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1358,Lactococcus lactis,0.16482,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,43675,Rothia mucilaginosa,0.09227,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,154288,Turicibacter sanguinis,0.06237,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,216816,Bifidobacterium longum,0.06218,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,59310,Streptococcus macedonicus,0.05882,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1305,Streptococcus sanguinis,0.05845,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,68892,Streptococcus infantis,0.05813,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1660,Actinomyces odontolyticus,0.05315,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,615,Serratia marcescens,0.03984,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46125,Abiotrophia defectiva,0.0368,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1379,Gemella haemolysans,0.03551,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,573,Klebsiella pneumoniae,0.03372,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,61592,Corynebacterium durum,0.03017,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,137732,Granulicatella elegans,0.02816,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1343,Streptococcus vestibularis,0.02562,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1505,Paeniclostridium sordellii,0.02513,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,102148,Solobacterium moorei,0.01995,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46124,Granulicatella adiacens,0.01795,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1655,Actinomyces naeslundii,0.01392,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1382,Atopobium parvulum,0.01257,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,853,Faecalibacterium prausnitzii,0.01095,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84135,Gemella sanguinis,0.00748,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1352,Enterococcus faecium,0.00723,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,150055,Streptococcus lutetiensis,0.00619,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,0.00242,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,102684,Streptococcus infantarius,0.00231,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,12.1501,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,51.9674,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,28.1294,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1485,Clostridium,5.75923,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,547,Enterobacter,3.25102,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,570,Klebsiella,2.26078,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1350,Enterococcus,0.37769,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,117563,Granulicatella,0.21643,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,0.17803,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1357,Lactococcus,0.16482,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,191303,Turicibacter,0.11792,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,32207,Rothia,0.09227,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.07576,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1654,Actinomyces,0.06707,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,0.06218,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,613,Serratia,0.03984,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,46123,Abiotrophia,0.0368,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,53335,Pantoea,0.03056,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,0.03029,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1716,Corynebacterium,0.03017,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,100883,Coprobacillus,0.02431,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,0.02017,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,123375,Solobacterium,0.01995,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1380,Atopobium,0.01257,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,216851,Faecalibacterium,0.01095,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,0.00242,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,7.02198,ERR2270961,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,27.6066,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29361,Tyzzerella nexilis,21.0715,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1685,Bifidobacterium breve,13.4154,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,357276,Bacteroides dorei,4.2976,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,261299,Intestinibacter bartlettii,2.96951,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,853,Faecalibacterium prausnitzii,2.71768,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29466,Veillonella parvula,2.67864,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1308,Streptococcus thermophilus,2.51331,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1304,Streptococcus salivarius,2.24483,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1531,[Clostridium] clostridioforme,1.99162,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1686,Bifidobacterium catenulatum,1.79208,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1512,[Clostridium] symbiosum,1.53343,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,820,Bacteroides uniformis,1.4928,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,1.01666,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,47715,Lactobacillus rhamnosus,0.87271,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658657,Erysipelotrichaceae bacterium 21_3,0.54563,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39777,Veillonella atypica,0.46292,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,0.40358,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,0.35139,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28116,Bacteroides ovatus,0.29354,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39778,Veillonella dispar,0.25608,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33945,Enterococcus avium,0.24039,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,105841,Anaerostipes caccae,0.24036,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,154046,Hungatella hathewayi,0.23929,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33039,[Ruminococcus] torques,0.23865,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.21759,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1338,Streptococcus intermedius,0.15753,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28026,Bifidobacterium pseudocatenulatum,0.14831,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1351,Enterococcus faecalis,0.12791,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,187326,Megasphaera micronuciformis,0.12047,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1547,Erysipelatoclostridium ramosum,0.09855,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28025,Bifidobacterium animalis,0.09393,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33035,Blautia producta,0.08815,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28037,Streptococcus mitis,0.06137,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.05817,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,0.04915,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,194326,Lactobacillus versmoldensis,0.03337,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,208479,[Clostridium] bolteae,0.02885,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1343,Streptococcus vestibularis,0.02702,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,457421,Clostridiales bacterium 1_7_47FAA,0.01747,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1582,Lactobacillus casei,0.00366,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1379,Gemella haemolysans,0.00359,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,7.17872,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,27.9334,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1485,Clostridium,24.8647,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,15.4497,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,816,Bacteroides,6.08394,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,5.35546,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,4.86514,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,100883,Coprobacillus,3.74093,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,216851,Faecalibacterium,2.71768,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,207244,Anaerostipes,1.70576,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,1.30432,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1578,Lactobacillus,0.90974,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1350,Enterococcus,0.36831,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,0.17659,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,906,Megasphaera,0.12047,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,0.04915,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.03959,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,84111,Eggerthella,0.00463,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,4.31048,ERR2270962,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40518,Ruminococcus bromii,14.7519,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1686,Bifidobacterium catenulatum,12.4747,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,216816,Bifidobacterium longum,11.209,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39488,[Eubacterium] hallii,11.1664,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,457412,Ruminococcus sp. 5_1_39BFAA,10.0841,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39491,[Eubacterium] rectale,6.55282,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,446660,Adlercreutzia equolifaciens,3.91645,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1681,Bifidobacterium bifidum,3.32509,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,218538,Dialister invisus,2.59619,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40520,Blautia obeum,2.38893,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,853,Faecalibacterium prausnitzii,2.29452,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28026,Bifidobacterium pseudocatenulatum,2.11343,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,751585,Coprococcus sp. ART55/1,2.05868,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1683,Bifidobacterium angulatum,0.96547,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33039,[Ruminococcus] torques,0.94271,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,261299,Intestinibacter bartlettii,0.93164,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,88431,Dorea longicatena,0.84665,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1304,Streptococcus salivarius,0.64194,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39486,Dorea formicigenerans,0.53743,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,239935,Akkermansia muciniphila,0.5024,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1680,Bifidobacterium adolescentis,0.34143,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.29697,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,821,Bacteroides vulgatus,0.25974,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39485,[Eubacterium] eligens,0.11782,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,29466,Veillonella parvula,0.10888,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,820,Bacteroides uniformis,0.10124,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,471189,Gordonibacter pamelaeae,0.10114,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,33038,[Ruminococcus] gnavus,0.07845,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,649756,Anaerostipes hadrus,0.07807,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,562,Escherichia coli,0.07757,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.07672,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84112,Eggerthella lenta,0.07408,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,360807,Roseburia inulinivorans,0.05865,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,729,Haemophilus parainfluenzae,0.05804,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39490,Eubacterium ramulus,0.04465,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,40519,Ruminococcus callidus,0.04052,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,39778,Veillonella dispar,0.03227,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1305,Streptococcus sanguinis,0.02801,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,1318,Streptococcus parasanguinis,0.02637,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,61592,Corynebacterium durum,0.01564,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,46503,Parabacteroides merdae,0.01508,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,47678,Bacteroides caccae,0.01036,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,28116,Bacteroides ovatus,0.00852,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,84135,Gemella sanguinis,0.0074,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,species,-1,Unknown,7.64198,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1678,Bifidobacterium,30.4291,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1263,Ruminococcus,24.8765,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1730,Eubacterium,17.8817,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,292632,Subdoligranulum,4.30851,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,447020,Adlercreutzia,3.91645,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,572511,Blautia,3.41009,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,84111,Eggerthella,2.83774,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,39948,Dialister,2.59619,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,216851,Faecalibacterium,2.29452,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,33042,Coprococcus,2.05868,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,189330,Dorea,1.38408,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1301,Streptococcus,0.69631,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,239934,Akkermansia,0.5024,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,29465,Veillonella,0.38756,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,816,Bacteroides,0.37986,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,561,Escherichia,0.24879,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,841,Roseburia,0.11938,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,644652,Gordonibacter,0.10114,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,286,Pseudomonas,0.08124,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,207244,Anaerostipes,0.07807,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,724,Haemophilus,0.05804,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1716,Corynebacterium,0.01564,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,375288,Parabacteroides,0.01508,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,32207,Rothia,0.01023,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,1378,Gemella,0.0074,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli
+D054323,Shiga-Toxigenic Escherichia coli,genus,-1,Unknown,1.30533,ERR2271236,,Italy,,,Shiga-Toxigenic Escherichia coli

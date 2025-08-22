@@ -1,0 +1,1540 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D013851,Thinness,species,218538,Dialister invisus,30.2419,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,15.0162,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,28026,Bifidobacterium pseudocatenulatum,9.49873,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,8.75487,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,742723,Lachnospiraceae bacterium 2_1_46FAA,8.17346,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,4.94676,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,3.01829,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,2.8064,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,2.44706,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,2.02925,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,1.22003,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.94112,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,649724,Clostridium sp. ATCC BAA-442,0.61516,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.58283,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.55804,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,0.422,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.37999,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,0.36771,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,0.28103,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,0.28016,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658085,Lachnospiraceae bacterium 5_1_57FAA,0.27622,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.26749,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.26059,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1531,[Clostridium] clostridioforme,0.25338,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1547,Erysipelatoclostridium ramosum,0.24909,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.24448,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,0.22445,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,187326,Megasphaera micronuciformis,0.22258,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.20471,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.20274,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,40545,Sutterella wadsworthensis,0.14718,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.11695,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,626929,Bacteroides clarus,0.10653,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.09582,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.08484,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.07261,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.07227,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.06844,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.06788,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.06658,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.05693,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.05451,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.04754,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.04568,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.04261,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.04185,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.04063,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.03959,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.03664,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.02997,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.02933,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.02911,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,39777,Veillonella atypica,0.02783,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.0245,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.02434,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.02421,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.01961,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.01922,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1382,Atopobium parvulum,0.01685,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658657,Erysipelotrichaceae bacterium 21_3,0.01406,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,33035,Blautia producta,0.01348,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.01322,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1522,[Clostridium] innocuum,0.01131,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1070699,Clostridiaceae bacterium JC118,0.01099,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,36773,Burkholderia sp.,0.01088,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,46124,Granulicatella adiacens,0.01049,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1736,Eubacterium limosum,0.01028,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,29347,[Clostridium] scindens,0.00973,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.00885,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.00759,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.00628,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,59310,Streptococcus macedonicus,0.00627,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,626932,Alistipes indistinctus,0.00477,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.00424,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,84026,[Clostridium] methylpentosum,0.00413,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.0039,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00387,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.00374,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,447456,candidate division TM7 single-cell isolate TM7c,0.00306,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.00195,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.00191,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,55565,Actinomyces graevenitzii,0.00161,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,150055,Streptococcus lutetiensis,0.00132,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.00127,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,0.00127,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,105841,Anaerostipes caccae,0.00118,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.00112,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00044,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,46125,Abiotrophia defectiva,0.00039,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.00039,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,28111,Bacteroides eggerthii,0.00033,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,84135,Gemella sanguinis,0.00027,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.0002,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,-1,Unknown,0.00395,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,39948,Dialister,30.2419,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,16.4545,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,186928,unclassified Lachnospiraceae,11.9391,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,9.49873,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,8.75487,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,5.8673,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,4.94676,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,2.28421,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,1.90698,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,1.5802,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,1.37466,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.94347,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.65578,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.55138,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,0.53864,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,0.36771,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,433334,unclassified Erysipelotrichaceae,0.29831,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.26059,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,906,Megasphaera,0.22258,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.2156,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.20274,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,0.16542,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,40544,Sutterella,0.14718,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.11452,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.09386,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.06844,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,200630,unclassified Peptostreptococcaceae,0.06658,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.03959,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.02933,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.0245,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.02421,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.02001,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,186813,unclassified Clostridiales,0.01922,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1380,Atopobium,0.01685,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,189971,unclassified Clostridiaceae,0.01099,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,32008,Burkholderia,0.01088,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.01049,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.01029,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.00739,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1284678,unclassified Clostridiales Family XIII. Incertae Sedis,0.00334,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1654,Actinomyces,0.00161,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,0.00144,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.00112,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,46123,Abiotrophia,0.00039,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2e-05,ERR1620335,,China,13,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,45.1683,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,12.8061,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,218538,Dialister invisus,4.69146,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,4.04602,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,3.89309,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,3.40439,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,2.90823,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,1.41191,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,239935,Akkermansia muciniphila,1.33441,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,1.2217,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,1.20633,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,1.09954,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,0.99448,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,0.9715,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.90813,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.73838,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.70576,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.70251,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,46228,Ruminococcus lactaris,0.70001,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,0.58952,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,665956,Subdoligranulum sp. 4_3_54A2FAA,0.57489,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.50873,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.37714,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.3282,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.31007,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,0.30892,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,0.295,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,850,Fusobacterium mortiferum,0.28781,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.28779,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.26968,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.21486,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.21,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.19569,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,0.1886,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.18845,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.17291,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,665951,Lachnospiraceae bacterium 8_1_57FAA,0.15715,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.13995,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.11762,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.11441,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.10708,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.0789,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.06405,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1531,[Clostridium] clostridioforme,0.06167,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.045,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,552398,Ruminococcaceae bacterium D16,0.04108,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.03587,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658085,Lachnospiraceae bacterium 5_1_57FAA,0.03428,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.03094,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1070699,Clostridiaceae bacterium JC118,0.02871,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.028,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.02564,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.02465,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.02309,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1547,Erysipelatoclostridium ramosum,0.02263,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,576,Klebsiella sp.,0.02206,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.01998,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.01396,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.01039,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.01012,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.00999,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.00859,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.00849,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,626929,Bacteroides clarus,0.00808,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,573,Klebsiella pneumoniae,0.00803,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1736,Eubacterium limosum,0.00781,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,33035,Blautia producta,0.00775,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.00762,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.00697,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.00587,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.00528,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.00269,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1522,[Clostridium] innocuum,0.00261,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,552395,Lachnospiraceae bacterium 4_1_37FAA,0.00198,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.00144,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,33945,Enterococcus avium,0.00121,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.00083,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.00074,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.00054,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,29347,[Clostridium] scindens,0.00028,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,-1,Unknown,0.00184,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,70.5368,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,39948,Dialister,4.69146,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,4.04602,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,3.31825,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,2.36026,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,2.07865,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,1.4031,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,1.36665,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,239934,Akkermansia,1.33441,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,1.3082,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,1.06252,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,186928,unclassified Lachnospiraceae,1.02594,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.99448,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.97116,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.90516,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,0.44372,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.34799,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.33981,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,333046,unclassified Bacteroidales,0.295,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,848,Fusobacterium,0.28781,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.18845,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.1195,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.11762,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,200630,unclassified Peptostreptococcaceae,0.11441,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.0522,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,552397,unclassified Ruminococcaceae,0.04108,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,186813,unclassified Clostridiales,0.03587,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,433334,unclassified Erysipelotrichaceae,0.03563,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.03198,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,570,Klebsiella,0.03008,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.02965,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,189971,unclassified Clostridiaceae,0.02871,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.02611,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.00697,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00564,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.00528,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.005,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1507525,unclassified Sutterellaceae,0.00302,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.00269,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1350,Enterococcus,0.00121,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.00093,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,0.00054,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2e-05,ERR1620336,,China,13,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,20.5882,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1681,Bifidobacterium bifidum,15.7536,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,5.85994,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,4.71953,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,4.57524,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,4.54903,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,310297,Bacteroides plebeius,4.53421,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,3.81208,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,3.52871,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,2.87076,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28026,Bifidobacterium pseudocatenulatum,2.7268,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,1.95262,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,1.18094,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,1.17842,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,1.16453,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,1.14862,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,1.06517,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,1.04538,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,1.03275,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,1.01745,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,1.01081,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.87443,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.86123,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.79228,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.74802,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.70566,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.66528,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,100886,Catenibacterium mitsuokai,0.62819,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,204516,Bacteroides massiliensis,0.60663,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,0.55397,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,469588,Bacteroides sp. 2_1_22,0.52076,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.46609,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,491921,Megamonas rupellensis,0.42873,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,573,Klebsiella pneumoniae,0.37919,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.33362,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,158847,Megamonas hypermegale,0.32148,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,0.31341,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,239935,Akkermansia muciniphila,0.30305,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.28008,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.23319,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.22785,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,751585,Coprococcus sp. ART55/1,0.17616,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.13191,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.12703,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1352,Enterococcus faecium,0.12691,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.11404,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.10572,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.09554,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.088,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39777,Veillonella atypica,0.08323,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.0822,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.07892,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,97478,Lactobacillus mucosae,0.07819,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.04517,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.04065,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.03866,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.03708,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.03706,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,550,Enterobacter cloacae,0.03159,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.0275,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.02723,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,76113,Thauera terpenica,0.02543,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,386414,Prevotella timonensis,0.02503,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,310298,Bacteroides coprocola,0.02436,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,626935,Collinsella tanakaei,0.02395,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,76517,Campylobacter hominis,0.01825,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,665951,Lachnospiraceae bacterium 8_1_57FAA,0.0182,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.01785,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,218538,Dialister invisus,0.01783,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.01778,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.01329,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.00902,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,501496,Porphyromonas bennonis,0.0087,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.00825,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.0082,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,33031,Peptoniphilus lacrimalis,0.00776,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1264,Ruminococcus albus,0.00711,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,469610,Burkholderiales bacterium 1_1_47,0.00564,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,0.0056,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,901,Desulfovibrio piger,0.00538,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,847,Oxalobacter formigenes,0.00487,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.00486,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.00478,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.00451,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,0.0043,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,487175,Parasutterella excrementihominis,0.00418,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.00408,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.00391,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00375,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1522,[Clostridium] innocuum,0.00372,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.0037,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.00365,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28123,Porphyromonas asaccharolytica,0.00332,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,34028,Comamonas sp.,0.003,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1305,Streptococcus sanguinis,0.00295,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,52226,Mitsuokella multacida,0.00252,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1604,Lactobacillus amylovorus,0.00152,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,137732,Granulicatella elegans,0.00145,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,876,Desulfovibrio desulfuricans,0.00135,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.00103,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,338188,Bacteroides finegoldii,0.00097,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.00096,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,28141,Cronobacter sakazakii,0.00095,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1382,Atopobium parvulum,0.00084,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.00061,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.00052,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.00039,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1265,Ruminococcus flavefaciens,0.00032,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,187326,Megasphaera micronuciformis,0.00024,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,1287640,Anaerococcus obesiensis,0.00023,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00021,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,131111,Actinomyces turicensis,0.00019,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,-1,Unknown,0.0007,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,26.3606,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,25.9002,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,18.0188,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,4.57524,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,4.50451,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,3.04531,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,1.96938,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,1.57142,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,1.46862,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,1.45368,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,1.29106,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,1.2476,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,1.20489,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,1.05958,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,1.03275,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,0.98023,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.9402,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,135858,Catenibacterium,0.62819,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,186928,unclassified Lachnospiraceae,0.39298,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,570,Klebsiella,0.37919,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.32521,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,239934,Akkermansia,0.30305,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.28266,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.13191,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,200630,unclassified Peptostreptococcaceae,0.12703,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1350,Enterococcus,0.12691,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,133925,Olsenella,0.1126,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,52225,Mitsuokella,0.09676,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.09554,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1578,Lactobacillus,0.07971,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,186813,unclassified Clostridiales,0.04065,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,547,Enterobacter,0.03159,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,33057,Thauera,0.02543,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,0.02503,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,194,Campylobacter,0.01825,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,39948,Dialister,0.01783,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.01778,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.0174,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,433334,unclassified Erysipelotrichaceae,0.016,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,836,Porphyromonas,0.01203,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.01041,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.00825,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00788,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,162289,Peptoniphilus,0.00776,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,872,Desulfovibrio,0.00673,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,119065,unclassified Burkholderiales,0.00564,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,846,Oxalobacter,0.00487,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.00478,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,577310,Parasutterella,0.00418,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.00365,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,283,Comamonas,0.003,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.00103,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,413496,Cronobacter,0.00095,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1380,Atopobium,0.00084,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.00069,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1507525,unclassified Sutterellaceae,0.00067,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,906,Megasphaera,0.00024,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,165779,Anaerococcus,0.00023,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.00022,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,1654,Actinomyces,0.00019,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2e-05,ERR1620338,,China,13,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,23.6825,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,17.6645,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,11.6007,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,6.31618,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,4.77239,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,3.03229,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,2.77244,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,2.65594,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,850,Fusobacterium mortiferum,2.04995,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,1.98214,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,1.93236,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,1.89211,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,1.74953,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,491921,Megamonas rupellensis,1.67658,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,1.41257,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,1.27893,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.82876,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,100884,Coprobacillus cateniformis,0.67844,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.61131,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.5852,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.51381,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,649724,Clostridium sp. ATCC BAA-442,0.44423,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,901,Desulfovibrio piger,0.32607,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.31295,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.30964,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.29489,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,0.23291,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.21601,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,0.16739,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.13332,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.11415,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.10781,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,0.10531,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.09325,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.08286,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.07031,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.06902,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.06584,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.06078,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.05676,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.05218,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.05049,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.04738,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.04658,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.04488,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.03865,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658085,Lachnospiraceae bacterium 5_1_57FAA,0.03525,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.02734,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1118060,Enorma massiliensis phI,0.02588,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.02551,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.02118,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,457402,Eubacterium sp. 3_1_31,0.01933,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.01774,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.01713,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,0.01654,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1531,[Clostridium] clostridioforme,0.01641,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.01358,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.01087,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.00823,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,1522,[Clostridium] innocuum,0.00502,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.00402,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,552398,Ruminococcaceae bacterium D16,0.00366,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658083,Lachnospiraceae bacterium 6_1_63FAA,0.0033,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,552395,Lachnospiraceae bacterium 4_1_37FAA,0.00282,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.0023,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.0023,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.00183,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00182,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,158847,Megamonas hypermegale,0.00119,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.00071,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,-1,Unknown,0.00886,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,53.5502,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,17.8387,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,5.91918,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,5.2862,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,3.74794,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,3.20197,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,848,Fusobacterium,2.04995,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,2.02356,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,1.74953,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.92675,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.67844,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.49323,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,0.48035,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,872,Desulfovibrio,0.32607,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,0.29489,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,186928,unclassified Lachnospiraceae,0.26854,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,0.23291,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.18053,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.15516,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.11056,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.09325,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.08286,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.07031,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,200630,unclassified Peptostreptococcaceae,0.05775,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.04658,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.02734,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,84113,unclassified Coriobacteriaceae,0.02588,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,186813,unclassified Clostridiales,0.01713,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,0.01654,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.01358,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.01026,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,1284678,unclassified Clostridiales Family XIII. Incertae Sedis,0.0088,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,433334,unclassified Erysipelotrichaceae,0.00686,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,552397,unclassified Ruminococcaceae,0.00366,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.0023,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,543311,Parvimonas,0.00155,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.00071,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2e-05,ERR1620351,,China,16,Male,Underweight
+D013851,Thinness,species,165179,Prevotella copri,52.3662,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,4.44,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,3.70276,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,3.69661,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,2.89497,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,2.85508,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,2.72047,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,2.70719,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,469588,Bacteroides sp. 2_1_22,1.28101,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,1.2258,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,1.20493,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,1.13633,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,1.02037,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,437897,Megamonas funiformis,0.7767,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.73041,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.71334,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.5588,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.54868,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,0.50271,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,0.463,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.45537,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,0.43116,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,0.39399,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.37832,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,328812,Parabacteroides goldsteinii,0.36683,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.32235,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,100884,Coprobacillus cateniformis,0.31913,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,850,Fusobacterium mortiferum,0.28902,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.27255,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,665956,Subdoligranulum sp. 4_3_54A2FAA,0.22873,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,0.21951,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.20103,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.17389,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.15279,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.14383,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.14355,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,0.13673,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.12984,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.12712,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,0.12391,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.1103,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.10891,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.10792,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.08245,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.07806,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,457402,Eubacterium sp. 3_1_31,0.07485,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.07339,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,0.07328,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,131111,Actinomyces turicensis,0.07299,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.06626,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.06175,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.06123,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.05513,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,552398,Ruminococcaceae bacterium D16,0.05221,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.05091,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.04666,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.04238,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.04064,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,626932,Alistipes indistinctus,0.04013,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.03835,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.03102,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.03016,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.02992,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.02945,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.02783,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.02686,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.02506,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.02456,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.02426,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,0.02269,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,28125,Prevotella bivia,0.0217,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,847,Oxalobacter formigenes,0.02152,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,546,Citrobacter freundii,0.01719,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,76113,Thauera terpenica,0.01635,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.01547,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.01542,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.01484,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1070699,Clostridiaceae bacterium JC118,0.01331,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.01315,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,36773,Burkholderia sp.,0.01179,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.00982,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.00951,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,187327,Acidaminococcus intestini,0.0094,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,341694,Peptostreptococcus stomatis,0.00812,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.00748,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1305,Streptococcus sanguinis,0.00733,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.00639,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,0.00547,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.00545,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.00505,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,214853,Anaerofustis stercorihominis,0.00436,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.00436,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,310297,Bacteroides plebeius,0.00429,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,851,Fusobacterium nucleatum,0.00417,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,29391,Gemella morbillorum,0.00387,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1262,Peptostreptococcus sp.,0.00341,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.00336,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00306,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1309,Streptococcus mutans,0.0028,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,501496,Porphyromonas bennonis,0.00271,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,76517,Campylobacter hominis,0.0025,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,638849,Pyramidobacter piscolens,0.00237,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,84135,Gemella sanguinis,0.0023,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1382,Atopobium parvulum,0.00228,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.00224,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,29347,[Clostridium] scindens,0.00218,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,46124,Granulicatella adiacens,0.00189,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,386414,Prevotella timonensis,0.00187,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,310298,Bacteroides coprocola,0.00166,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,28127,Prevotella buccalis,0.00152,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,1379,Gemella haemolysans,0.00132,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,905,Acidaminococcus fermentans,0.00113,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.00109,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.0009,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,33035,Blautia producta,0.00069,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,491921,Megamonas rupellensis,0.00033,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,35517,[Eubacterium] brachy,0.00024,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,33031,Peptoniphilus lacrimalis,0.00024,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,-1,Unknown,0.06305,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,52.3913,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,12.8159,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,4.44791,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,4.44,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,4.02201,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,3.56814,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,3.0805,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,906,Megasphaera,1.97229,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,186928,unclassified Lachnospiraceae,1.36848,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,1.3644,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,1.20493,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,1.18585,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,1.13704,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,0.89088,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,0.76335,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.75351,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.72792,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.63253,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.47839,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,0.39079,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.34928,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.31913,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,848,Fusobacterium,0.2932,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,0.21951,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.15279,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.14355,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,0.10891,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.10792,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.09446,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1654,Actinomyces,0.07299,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,552397,unclassified Ruminococcaceae,0.05221,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.0479,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,186813,unclassified Clostridiales,0.04238,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,200630,unclassified Peptostreptococcaceae,0.03102,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,433334,unclassified Erysipelotrichaceae,0.02943,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.02783,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.0261,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,544,Citrobacter,0.02354,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,846,Oxalobacter,0.02152,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,33057,Thauera,0.01635,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1507525,unclassified Sutterellaceae,0.01444,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,189971,unclassified Clostridiaceae,0.01331,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,32008,Burkholderia,0.01179,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1257,Peptostreptococcus,0.01153,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.01118,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,904,Acidaminococcus,0.01053,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,543311,Parvimonas,0.01028,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.00982,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.00958,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.00748,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00479,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,264995,Anaerofustis,0.00436,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.00394,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1284678,unclassified Clostridiales Family XIII. Incertae Sedis,0.00388,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,836,Porphyromonas,0.00271,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,194,Campylobacter,0.0025,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,638847,Pyramidobacter,0.00237,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,1380,Atopobium,0.00228,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,66831,Facklamia,0.00127,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,84108,Slackia,0.0008,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,162289,Peptoniphilus,0.00024,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2.84217e-14,ERR1620369,,China,17,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,11.4102,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,9.14988,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,8.41206,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,8.38472,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,5.62462,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,5.02618,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,4.17387,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,3.48374,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,3.32644,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,3.00078,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,2.46982,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,2.41769,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,2.37121,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,2.05805,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,751585,Coprococcus sp. ART55/1,1.99319,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,1.55864,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,1.54159,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,1.21595,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,1.12586,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,1.12359,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,1.12163,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39492,[Eubacterium] siraeum,1.10822,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,1.05636,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.87938,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,0.86714,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,46228,Ruminococcus lactaris,0.77916,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.7087,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.6685,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,0.61857,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.61152,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.56067,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.55065,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,469588,Bacteroides sp. 2_1_22,0.54519,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,0.47357,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.449,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.35028,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.31433,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,0.30913,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,338188,Bacteroides finegoldii,0.30762,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.30401,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,0.2719,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,626931,Bacteroides oleiciplenus,0.26392,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1211813,Candidatus Alistipes marseilloanorexicus AP11,0.26171,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,0.22282,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,0.22278,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.21903,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1502,Clostridium perfringens,0.18473,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39777,Veillonella atypica,0.16979,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.15402,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1095771,Ruminococcus sp. JC304,0.12106,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.09096,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,0.08968,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.08726,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.0725,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.06122,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.06099,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1309,Streptococcus mutans,0.04999,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.04957,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,218538,Dialister invisus,0.04276,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1343,Streptococcus vestibularis,0.03567,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.03221,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.03074,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1352,Enterococcus faecium,0.03013,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.02078,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,548,[Enterobacter] aerogenes,0.02025,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.01884,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,43675,Rothia mucilaginosa,0.01849,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,137591,Weissella cibaria,0.01793,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1302,Streptococcus gordonii,0.01719,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.01671,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.01651,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1308,Streptococcus thermophilus,0.01568,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1099853,Coprobacter fastidiosus,0.0148,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.01334,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.013,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.0124,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.00963,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28123,Porphyromonas asaccharolytica,0.00906,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.00821,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00716,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.00681,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,84135,Gemella sanguinis,0.00666,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.0065,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.00519,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,97478,Lactobacillus mucosae,0.00505,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1077464,Streptococcus tigurinus,0.00503,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28037,Streptococcus mitis,0.00473,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,214851,Subdoligranulum variabile,0.00426,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,45634,Streptococcus cristatus,0.00324,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,28127,Prevotella buccalis,0.00274,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1254,Pediococcus acidilactici,0.00261,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,45634,Streptococcus cristatus,0.00231,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1382,Atopobium parvulum,0.00207,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,2047,Rothia dentocariosa,0.00181,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1305,Streptococcus sanguinis,0.00166,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,36841,Terrisporobacter glycolicus,0.00159,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1338,Streptococcus intermedius,0.00096,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.00096,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.00082,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,55565,Actinomyces graevenitzii,0.00062,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,68891,Streptococcus peroris,0.0006,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.00052,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,33043,Coprococcus eutactus,0.00049,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,1660,Actinomyces odontolyticus,0.00034,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,-1,Unknown,4.40527,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,19.683,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,11.4102,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,10.7645,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,10.5915,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,10.4425,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,7.29341,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,4.16385,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,3.20654,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,3.00078,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,2.63111,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,2.56899,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,2.41769,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,1.9408,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,1.43596,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.7087,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,0.47357,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.30401,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.27793,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.09096,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.0725,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.04957,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,39948,Dialister,0.04276,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.04172,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.03552,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,46255,Weissella,0.03135,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1350,Enterococcus,0.03013,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,32207,Rothia,0.02031,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,547,Enterobacter,0.02025,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1348911,Coprobacter,0.0148,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.0124,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.00963,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,836,Porphyromonas,0.00906,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.00793,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.00681,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1578,Lactobacillus,0.00505,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.00456,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,0.00274,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1253,Pediococcus,0.00261,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,570,Klebsiella,0.00247,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.00246,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1380,Atopobium,0.00207,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,133925,Olsenella,0.00206,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,1654,Actinomyces,0.00096,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00095,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,191303,Turicibacter,0.00045,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,6.16292,ERR589542,,China,48,Male,Underweight
+D013851,Thinness,species,310298,Bacteroides coprocola,28.2803,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,14.7383,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,13.3998,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,11.7022,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,5.97773,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,626940,Phascolarctobacterium succinatutens,3.74246,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,2.41582,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,2.04039,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,28026,Bifidobacterium pseudocatenulatum,1.37527,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,1.35641,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,239935,Akkermansia muciniphila,1.28631,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,1.12068,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,1.03937,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,0.85752,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,0.84459,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.83936,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.70801,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,0.64739,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,0.5675,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.55419,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,454154,Paraprevotella clara,0.36622,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.35625,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.35443,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,0.31285,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,469610,Burkholderiales bacterium 1_1_47,0.30309,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,850,Fusobacterium mortiferum,0.3014,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.24849,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,487175,Parasutterella excrementihominis,0.23486,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.22621,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,0.20905,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,0.20287,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.19648,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.17951,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.17654,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.15632,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.14517,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.13457,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.10712,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.10548,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,338188,Bacteroides finegoldii,0.09243,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.07879,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,363265,Prevotella stercorea,0.0594,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.0584,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1686,Bifidobacterium catenulatum,0.05178,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.04903,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.04256,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.03858,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.0295,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.028,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.02335,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,328812,Parabacteroides goldsteinii,0.02105,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.02094,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.01702,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1099853,Coprobacter fastidiosus,0.01671,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,31971,[Eubacterium] dolichum,0.01665,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.01578,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1070699,Clostridiaceae bacterium JC118,0.0146,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.01172,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.01164,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.01132,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.01085,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,454155,Paraprevotella xylaniphila,0.00968,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1689,Bifidobacterium dentium,0.00838,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.00546,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.00542,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,665951,Lachnospiraceae bacterium 8_1_57FAA,0.00537,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00472,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.00444,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1583,Weissella confusa,0.00399,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.00383,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.00347,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,28037,Streptococcus mitis,0.00248,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1625,Lactobacillus sanfranciscensis,0.00228,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1305,Streptococcus sanguinis,0.00225,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.00185,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,165179,Prevotella copri,0.00181,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.00145,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.00141,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.00126,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.00093,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,204516,Bacteroides massiliensis,0.00088,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,43675,Rothia mucilaginosa,0.0007,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.00069,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,552395,Lachnospiraceae bacterium 4_1_37FAA,0.00067,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1613,Lactobacillus fermentum,0.00064,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,658088,Lachnospiraceae bacterium 9_1_43BFAA,0.00053,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,1547,Erysipelatoclostridium ramosum,0.00019,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,-1,Unknown,1.39461,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,63.0933,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,11.9112,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,5.97773,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,33024,Phascolarctobacterium,3.74246,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,3.43923,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,239934,Akkermansia,1.28631,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,1.12068,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,577309,Paraprevotella,1.10942,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,1.09901,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,1.01802,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,1.0159,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,0.77277,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.6496,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,0.5675,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,0.46621,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,0.40274,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,0.35919,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,848,Fusobacterium,0.3014,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.29752,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,577310,Parasutterella,0.23486,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.17951,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.10712,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.06903,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.06389,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,0.0612,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.0584,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.04256,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.02109,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1348911,Coprobacter,0.01671,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.01378,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.00604,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.00566,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.00546,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.00543,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.00542,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,46255,Weissella,0.00399,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,1578,Lactobacillus,0.00292,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,32207,Rothia,0.0007,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,0.46607,ERR589733,,China,36,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,16.6886,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,13.9995,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,13.7061,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,6.96364,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,6.08578,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,5.90807,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,5.84631,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,4.00411,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,3.37398,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,2.68789,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,2.14563,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,2.06301,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,338188,Bacteroides finegoldii,1.87957,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,1.66735,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,1.43306,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.9972,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.9869,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.97223,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,0.84854,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.83064,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.59722,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.39587,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.30684,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.26025,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.25995,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,0.25842,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,291644,Bacteroides salyersiae,0.24037,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.17341,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.17173,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.16259,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.15785,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.13028,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,208479,[Clostridium] bolteae,0.12524,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,0.11689,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658655,Lachnospiraceae bacterium 1_4_56FAA,0.11676,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.10728,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.10077,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.08409,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.08252,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.07181,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1099853,Coprobacter fastidiosus,0.06668,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.06287,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,469588,Bacteroides sp. 2_1_22,0.05917,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.04112,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.03174,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.0314,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,457402,Eubacterium sp. 3_1_31,0.02573,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,154046,Hungatella hathewayi,0.02371,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1512,[Clostridium] symbiosum,0.02298,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39777,Veillonella atypica,0.02273,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.0225,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.02158,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,658657,Erysipelotrichaceae bacterium 21_3,0.01872,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.01757,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.01729,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,552398,Ruminococcaceae bacterium D16,0.01657,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1078480,Haemophilus sputorum,0.01537,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,218538,Dialister invisus,0.01443,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.01382,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1343,Streptococcus vestibularis,0.01382,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.0132,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,0.01147,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.01132,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1547,Erysipelatoclostridium ramosum,0.01107,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.00816,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.00791,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1522,[Clostridium] innocuum,0.00736,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,571,Klebsiella oxytoca,0.00688,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1531,[Clostridium] clostridioforme,0.00678,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1308,Streptococcus thermophilus,0.00624,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,552396,Erysipelotrichaceae bacterium 5_2_54FAA,0.0058,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39492,[Eubacterium] siraeum,0.00562,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.00492,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,165179,Prevotella copri,0.00477,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.00453,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.00386,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.00365,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1736,Eubacterium limosum,0.00294,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1305,Streptococcus sanguinis,0.0027,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,133926,Olsenella uli,0.00256,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,28125,Prevotella bivia,0.00218,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1260,Finegoldia magna,0.00211,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,469610,Burkholderiales bacterium 1_1_47,0.00205,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,28037,Streptococcus mitis,0.00169,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.00159,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1264,Ruminococcus albus,0.00132,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,876,Desulfovibrio desulfuricans,0.00106,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.0008,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,341694,Peptostreptococcus stomatis,0.00061,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,1261,Peptostreptococcus anaerobius,0.00051,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,46124,Granulicatella adiacens,0.0005,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.00026,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,84135,Gemella sanguinis,0.00018,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,-1,Unknown,2.28525,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,39.2454,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,13.9995,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,13.7061,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,6.96497,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,6.50086,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,5.84631,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,3.59314,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,1.82077,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,1.14474,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.92671,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,0.50627,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,100883,Coprobacillus,0.42542,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,0.42101,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.41124,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.37154,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.30684,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.13468,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.13028,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.12913,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.12488,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.12119,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.10737,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.09981,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.09153,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.07181,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1348911,Coprobacter,0.06668,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.03174,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.0314,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,39948,Dialister,0.01443,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,543311,Parvimonas,0.01428,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,713,Actinobacillus,0.01319,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,0.00809,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00717,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,0.00695,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,570,Klebsiella,0.00688,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,830,Butyrivibrio,0.00458,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.00365,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1257,Peptostreptococcus,0.00285,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,133925,Olsenella,0.00256,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,150022,Finegoldia,0.00211,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.0019,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,872,Desulfovibrio,0.00106,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,2.57887,ERR589809,,China,54,Male,Underweight
+D013851,Thinness,species,218538,Dialister invisus,22.8712,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,33043,Coprococcus eutactus,9.09586,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,5.95984,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,5.48507,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,165179,Prevotella copri,3.14421,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,363265,Prevotella stercorea,3.06567,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1161942,Ruminococcus champanellensis,2.82105,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,2.51072,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,45851,Butyrivibrio crossotus,2.41355,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,2.25451,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,28111,Bacteroides eggerthii,1.95643,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,1.95004,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,1.85547,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,1.45914,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,1.40011,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1681,Bifidobacterium bifidum,1.37643,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,40520,Blautia obeum,1.28773,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,1.24937,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,1.24137,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,1.23654,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,239935,Akkermansia muciniphila,1.15955,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1735,Holdemanella biformis,1.12674,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,1.07272,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,1.06061,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,40545,Sutterella wadsworthensis,1.04083,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.95198,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.91428,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,0.82548,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.80598,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,0.69581,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.67091,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,0.66013,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,0.58639,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,0.5652,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,0.54714,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.51562,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,411489,Clostridium sp. L2-50,0.45855,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,158847,Megamonas hypermegale,0.42853,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,328812,Parabacteroides goldsteinii,0.42068,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.35421,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.35157,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,0.3224,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1623,Lactobacillus ruminis,0.32236,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.30987,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.26797,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.25214,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,626934,Slackia piriformis,0.22737,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.22704,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.16998,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.15769,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,0.15043,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.14054,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,491921,Megamonas rupellensis,0.12742,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,626932,Alistipes indistinctus,0.11095,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.10898,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,0.10066,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,28026,Bifidobacterium pseudocatenulatum,0.09854,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,665950,Lachnospiraceae bacterium 3_1_46FAA,0.09049,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,310297,Bacteroides plebeius,0.08321,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,100886,Catenibacterium mitsuokai,0.08175,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.07381,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.06648,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,292800,Flavonifractor plautii,0.05905,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39492,[Eubacterium] siraeum,0.04793,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.04457,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.04418,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1535,[Clostridium] leptum,0.04257,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.0343,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39777,Veillonella atypica,0.03387,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,905,Acidaminococcus fermentans,0.03337,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.02957,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,847,Oxalobacter formigenes,0.02654,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.02359,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.02116,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,187327,Acidaminococcus intestini,0.01523,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,35833,Bilophila wadsworthia,0.01492,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.01424,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,876,Desulfovibrio desulfuricans,0.01308,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.01247,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.01196,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.01065,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.01042,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.00882,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,169435,Anaerotruncus colihominis,0.00681,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.00559,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,487175,Parasutterella excrementihominis,0.00519,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00485,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39778,Veillonella dispar,0.00437,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,358743,[Clostridium] citroniae,0.00417,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,437897,Megamonas funiformis,0.00296,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1689,Bifidobacterium dentium,0.00293,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,638849,Pyramidobacter piscolens,0.00234,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,457421,Clostridiales bacterium 1_7_47FAA,0.00211,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.0018,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.00131,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,333367,[Clostridium] asparagiforme,0.0009,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,1624,Lactobacillus salivarius,0.00084,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,-1,Unknown,6.064,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,39948,Dialister,22.8712,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,816,Bacteroides,11.9306,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,33042,Coprococcus,9.86498,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,838,Prevotella,6.20988,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,5.95984,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,5.26291,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1730,Eubacterium,5.24119,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,3.50261,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,3.26347,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,572511,Blautia,2.71142,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,841,Roseburia,2.45246,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,830,Butyrivibrio,2.41355,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,397864,Barnesiella,1.95004,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,158846,Megamonas,1.61296,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,189330,Dorea,1.32161,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,239934,Akkermansia,1.15955,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,283168,Odoribacter,1.06061,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,40544,Sutterella,1.04083,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,0.98589,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,102106,Collinsella,0.82548,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,239759,Alistipes,0.71501,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,906,Megasphaera,0.6536,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,561,Escherichia,0.51966,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.5075,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.44625,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.41436,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1578,Lactobacillus,0.3232,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.24744,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,84108,Slackia,0.22737,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.22704,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.11714,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,135858,Catenibacterium,0.08175,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,946234,Flavonifractor,0.05905,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,904,Acidaminococcus,0.0486,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.04457,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.0343,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.03363,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,846,Oxalobacter,0.02654,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,872,Desulfovibrio,0.01308,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.01065,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,577310,Parasutterella,0.00519,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,638847,Pyramidobacter,0.00234,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.0018,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,133925,Olsenella,0.00157,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,genus,-1,Unknown,3.59727,ERR589814,,China,47,Female,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,15.4595,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,13.9161,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,310297,Bacteroides plebeius,13.8996,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28111,Bacteroides eggerthii,6.88877,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,310298,Bacteroides coprocola,6.65861,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,204516,Bacteroides massiliensis,5.23008,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,5.14116,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,3.99008,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,2.93206,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,2.85271,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,2.69483,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,751585,Coprococcus sp. ART55/1,1.90456,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,1.61314,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,0.97318,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.83182,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.77932,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28118,Odoribacter splanchnicus,0.75538,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,0.74755,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,0.59641,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.59437,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,301301,Roseburia hominis,0.54909,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.50975,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,246787,Bacteroides cellulosilyticus,0.43529,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,0.3852,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.37824,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,491921,Megamonas rupellensis,0.37286,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.36538,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,0.35999,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,0.32671,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.29858,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,0.29386,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,357276,Bacteroides dorei,0.2801,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.25978,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.25583,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,158847,Megamonas hypermegale,0.25158,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,100886,Catenibacterium mitsuokai,0.23176,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,0.20883,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,371601,Bacteroides xylanisolvens,0.20856,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1211813,Candidatus Alistipes marseilloanorexicus AP11,0.18694,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,0.18551,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1099853,Coprobacter fastidiosus,0.18494,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,2173,Methanobrevibacter smithii,0.17194,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.16384,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,0.1522,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.13476,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,487175,Parasutterella excrementihominis,0.13279,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,469610,Burkholderiales bacterium 1_1_47,0.12026,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.1177,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,291644,Bacteroides salyersiae,0.11114,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.10452,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,328812,Parabacteroides goldsteinii,0.08779,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.08327,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,0.06654,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.05981,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,0.05016,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39490,Eubacterium ramulus,0.04923,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.044,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,33038,[Ruminococcus] gnavus,0.04115,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,0.04114,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.04103,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,261299,Intestinibacter bartlettii,0.03582,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.03048,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.02862,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.024,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1680,Bifidobacterium adolescentis,0.02264,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,154288,Turicibacter sanguinis,0.01847,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,29361,Tyzzerella nexilis,0.01597,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.01175,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1502,Clostridium perfringens,0.01052,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28037,Streptococcus mitis,0.00945,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.00938,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.00879,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,638849,Pyramidobacter piscolens,0.00826,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,546,Citrobacter freundii,0.00681,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.00655,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,1265,Ruminococcus flavefaciens,0.00536,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.00412,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.00389,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,291645,Bacteroides nordii,0.00384,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,658086,Lachnospiraceae bacterium 3_1_57FAA_CT1,0.00318,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.00275,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.00227,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,39483,Faecalitalea cylindroides,0.00225,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,626929,Bacteroides clarus,0.00188,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,847,Oxalobacter formigenes,0.00166,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,28123,Porphyromonas asaccharolytica,0.00153,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,552398,Ruminococcaceae bacterium D16,0.00111,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,501496,Porphyromonas bennonis,0.00094,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,97478,Lactobacillus mucosae,0.00067,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,76517,Campylobacter hominis,0.00067,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,-1,Unknown,2.9551,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,39.9465,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,19.097,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,13.9161,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,9.68033,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,4.11542,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,2.21791,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,158846,Megamonas,1.8754,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,1.27411,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,1.2046,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,0.75707,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.75538,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,0.74755,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,0.66978,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.66251,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,0.44478,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.29858,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,135858,Catenibacterium,0.23176,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,2172,Methanobrevibacter,0.18559,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1348911,Coprobacter,0.18494,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,577310,Parasutterella,0.13279,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,191303,Turicibacter,0.07647,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.06551,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.05861,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.04664,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,0.04114,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.03048,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,0.02649,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.01283,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,544,Citrobacter,0.01086,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.00973,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,638847,Pyramidobacter,0.00826,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.00712,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,244127,Anaerotruncus,0.0066,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.00595,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,830,Butyrivibrio,0.00569,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.00389,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.00275,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,836,Porphyromonas,0.00247,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,846,Oxalobacter,0.00166,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,1578,Lactobacillus,0.00067,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,194,Campylobacter,0.00067,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,1.17739,ERR589846,,China,36,Male,Underweight
+D013851,Thinness,species,165179,Prevotella copri,28.192,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39491,[Eubacterium] rectale,12.8159,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,853,Faecalibacterium prausnitzii,11.9744,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,626940,Phascolarctobacterium succinatutens,10.8026,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,363265,Prevotella stercorea,5.44863,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39485,[Eubacterium] eligens,5.2619,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,166486,Roseburia intestinalis,2.54211,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,411489,Clostridium sp. L2-50,2.47902,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,821,Bacteroides vulgatus,2.06185,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,88431,Dorea longicatena,1.26474,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,410072,Coprococcus comes,1.2558,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,360807,Roseburia inulinivorans,1.08297,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,457412,Ruminococcus sp. 5_1_39BFAA,1.06497,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,40518,Ruminococcus bromii,0.95799,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1735,Holdemanella biformis,0.89927,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,46503,Parabacteroides merdae,0.69565,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,820,Bacteroides uniformis,0.63659,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39486,Dorea formicigenerans,0.60522,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,329854,Bacteroides intestinalis,0.48461,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,33039,[Ruminococcus] torques,0.44047,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,40520,Blautia obeum,0.39437,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,338188,Bacteroides finegoldii,0.32333,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,310298,Bacteroides coprocola,0.31161,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,818,Bacteroides thetaiotaomicron,0.28563,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,729,Haemophilus parainfluenzae,0.23994,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,43675,Rothia mucilaginosa,0.22925,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,28026,Bifidobacterium pseudocatenulatum,0.22243,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,204516,Bacteroides massiliensis,0.22233,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,28116,Bacteroides ovatus,0.20261,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,40519,Ruminococcus callidus,0.15696,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,454154,Paraprevotella clara,0.15559,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,328814,Alistipes shahii,0.15252,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,487174,Barnesiella intestinihominis,0.15174,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,116085,Coprococcus catus,0.14179,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1304,Streptococcus salivarius,0.11931,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,113107,Streptococcus australis,0.11751,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,573,Klebsiella pneumoniae,0.11354,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,658081,Lachnospiraceae bacterium 1_1_57FAA,0.11271,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.10809,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1328,Streptococcus anginosus,0.10669,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,74426,Collinsella aerofaciens,0.09777,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,823,Parabacteroides distasonis,0.0914,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,216816,Bifidobacterium longum,0.09135,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39488,[Eubacterium] hallii,0.08525,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,291644,Bacteroides salyersiae,0.08515,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,214856,Alistipes finegoldii,0.0811,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,550,Enterobacter cloacae,0.06229,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1118061,Alistipes obesi,0.05635,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,562,Escherichia coli,0.04852,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,68892,Streptococcus infantis,0.04647,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1288121,Alistipes senegalensis,0.03741,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,2173,Methanobrevibacter smithii,0.03288,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39492,[Eubacterium] siraeum,0.03118,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,471189,Gordonibacter pamelaeae,0.02634,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,328813,Alistipes onderdonkii,0.02621,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1343,Streptococcus vestibularis,0.02408,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,446660,Adlercreutzia equolifaciens,0.02247,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,46506,Bacteroides stercoris,0.02123,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,28117,Alistipes putredinis,0.02068,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,28037,Streptococcus mitis,0.01784,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,665951,Lachnospiraceae bacterium 8_1_57FAA,0.01783,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,39496,Eubacterium ventriosum,0.01538,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,674529,Bacteroides faecis,0.01411,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,47678,Bacteroides caccae,0.01285,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,860,Fusobacterium periodonticum,0.01221,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,29466,Veillonella parvula,0.01167,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,454155,Paraprevotella xylaniphila,0.00954,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,658089,Lachnospiraceae bacterium 5_1_63FAA,0.0079,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,817,Bacteroides fragilis,0.00581,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,46124,Granulicatella adiacens,0.00554,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,341694,Peptostreptococcus stomatis,0.00243,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,102148,Solobacterium moorei,0.00238,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,214851,Subdoligranulum variabile,0.00159,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,649756,Anaerostipes hadrus,0.00154,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1318,Streptococcus parasanguinis,0.00143,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,84135,Gemella sanguinis,0.001,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,1352,Enterococcus faecium,0.00086,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,84112,Eggerthella lenta,0.00068,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,61171,Holdemania filiformis,0.00061,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,species,-1,Unknown,4.03404,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,838,Prevotella,33.6407,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1730,Eubacterium,18.2096,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,216851,Faecalibacterium,11.9744,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,33024,Phascolarctobacterium,10.8026,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,816,Bacteroides,4.6677,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,841,Roseburia,4.65613,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1485,Clostridium,2.47902,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1263,Ruminococcus,2.17992,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,189330,Dorea,1.86996,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,292632,Subdoligranulum,1.60054,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,33042,Coprococcus,1.3976,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,572511,Blautia,0.83483,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,375288,Parabacteroides,0.78706,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,577309,Paraprevotella,0.50097,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1301,Streptococcus,0.43332,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,239759,Alistipes,0.31792,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1678,Bifidobacterium,0.31379,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,459786,Oscillibacter,0.26186,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,724,Haemophilus,0.23994,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,32207,Rothia,0.22925,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,397864,Barnesiella,0.15174,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,570,Klebsiella,0.11354,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,102106,Collinsella,0.09777,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,29465,Veillonella,0.07431,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,547,Enterobacter,0.06229,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,561,Escherichia,0.04852,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,2172,Methanobrevibacter,0.03288,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,117563,Granulicatella,0.02748,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,644652,Gordonibacter,0.02634,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,35832,Bilophila,0.02492,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,447020,Adlercreutzia,0.02247,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,283168,Odoribacter,0.02035,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,848,Fusobacterium,0.01221,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1378,Gemella,0.01098,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1257,Peptostreptococcus,0.00762,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,61170,Holdemania,0.00681,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,84111,Eggerthella,0.00601,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,123375,Solobacterium,0.00238,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,207244,Anaerostipes,0.00154,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,1350,Enterococcus,0.00086,ERR589866,,China,47,Male,Underweight
+D013851,Thinness,genus,-1,Unknown,1.85194,ERR589866,,China,47,Male,Underweight

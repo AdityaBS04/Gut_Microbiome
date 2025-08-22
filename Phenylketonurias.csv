@@ -1,0 +1,1624 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D010661,Phenylketonurias,species,1755626,Faecalibacterium sp. MC_41,29.8774,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,821,Bacteroides vulgatus,19.7831,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,820,Bacteroides uniformis,3.70933,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28116,Bacteroides ovatus,2.3462,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,351091,Oscillibacter valericigenes,2.12831,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,261299,Intestinibacter bartlettii,1.85973,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,454154,Paraprevotella clara,1.69251,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,218538,Dialister invisus,1.33273,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,397865,Barnesiella viscericola,1.06922,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,823,Parabacteroides distasonis,1.02361,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,69825,[Clostridium] indolis,0.734773,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,818,Bacteroides thetaiotaomicron,0.729705,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40520,Blautia obeum,0.704368,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1264,Ruminococcus albus,0.684098,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,216816,Bifidobacterium longum,0.582751,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39485,[Eubacterium] eligens,0.562481,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1515,Ruminiclostridium thermocellum,0.557414,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,47678,Bacteroides caccae,0.547279,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,329854,Bacteroides intestinalis,0.516874,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33043,Coprococcus eutactus,0.511807,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,536633,Blautia glucerasea,0.445931,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,437898,Sutterella parvirubra,0.440863,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1685,Bifidobacterium breve,0.435796,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40519,Ruminococcus callidus,0.400324,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,487175,Parasutterella excrementihominis,0.395257,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1680,Bifidobacterium adolescentis,0.385122,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,239935,Akkermansia muciniphila,0.359785,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,817,Bacteroides fragilis,0.329381,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,301301,Roseburia hominis,0.324313,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,44749,Sporobacter termitidis,0.293909,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28118,Odoribacter splanchnicus,0.2331,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28125,Prevotella bivia,0.228033,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29348,[Clostridium] spiroforme,0.212831,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1308,Streptococcus thermophilus,0.212831,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35833,Bilophila wadsworthia,0.182426,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28117,Alistipes putredinis,0.177359,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1512,[Clostridium] symbiosum,0.177359,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,169435,Anaerotruncus colihominis,0.172291,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,357276,Bacteroides dorei,0.172291,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328813,Alistipes onderdonkii,0.162157,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39950,Dialister pneumosintes,0.13682,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626930,Bacteroides fluxus,0.13682,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40518,Ruminococcus bromii,0.131752,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39497,Eubacterium xylanophilum,0.126685,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,288965,[Clostridium] clariflavum,0.126685,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,53443,Blautia hydrogenotrophica,0.121618,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,214856,Alistipes finegoldii,0.106415,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,309120,Dialister micraerophilus,0.106415,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84026,[Clostridium] methylpentosum,0.101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1465754,Alistipes timonensis,0.0912131,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39484,Eubacterium desmolans,0.0861457,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1161942,Ruminococcus champanellensis,0.0861457,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166486,Roseburia intestinalis,0.0861457,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,410072,Coprococcus comes,0.0810783,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28127,Prevotella buccalis,0.0810783,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84030,[Clostridium] saccharolyticum,0.0810783,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626932,Alistipes indistinctus,0.0760109,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35760,Bifidobacterium choerinum,0.0760109,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1535,[Clostridium] leptum,0.0709435,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28025,Bifidobacterium animalis,0.0658762,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,762210,Bifidobacterium saguini,0.0658762,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,310300,Bacteroides pyogenes,0.0608088,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29448,Bradyrhizobium elkanii,0.0608088,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,204516,Bacteroides massiliensis,0.0557414,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39490,Eubacterium ramulus,0.050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39486,Dorea formicigenerans,0.0456066,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,47770,Lactobacillus crispatus,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,371601,Bacteroides xylanisolvens,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,273168,Novosphingobium naphthalenivorans,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,246787,Bacteroides cellulosilyticus,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39496,Eubacterium ventriosum,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,78342,Bifidobacterium gallicum,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,52787,Anaerofilum pentosovorans,0.0354718,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,43131,Tissierella praeacuta,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39492,[Eubacterium] siraeum,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,100884,Coprobacillus cateniformis,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,270498,Catabacter hongkongensis,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36847,[Clostridium] neopropionicum,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,61171,Holdemania filiformis,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1260,Finegoldia magna,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,208479,[Clostridium] bolteae,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39491,[Eubacterium] rectale,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341225,[Clostridium] saccharogumia,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29360,Cellulosilyticum lentocellum,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33034,Anaerococcus prevotii,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28446,[Clostridium] propionicum,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29375,[Clostridium] xylanolyticum,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28026,Bifidobacterium pseudocatenulatum,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,106588,Pseudoflavonifractor capillosus,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33035,Blautia producta,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1265,Ruminococcus flavefaciens,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626937,Christensenella minuta,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,237258,Cloacibacterium normanense,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341694,Peptostreptococcus stomatis,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,187327,Acidaminococcus intestini,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39488,[Eubacterium] hallii,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,143393,[Eubacterium] sulci,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1507,Clostridium sp. ATCC 29733,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1304,Streptococcus salivarius,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29363,Clostridium paraputrificum,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,38304,Corynebacterium tuberculostearicum,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36834,Clostridium celatum,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,45851,Butyrivibrio crossotus,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,54911,Brevibacillus choshinensis,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1532,Blautia coccoides,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1541,Terrisporobacter mayombei,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,290053,Bacteroides helcogenes,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328814,Alistipes shahii,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84032,[Clostridium] thermosuccinogenes,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,574375,Bacillus gaemokensis,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33905,Bifidobacterium thermophilum,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33939,[Bacillus] thermocloacae,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,338188,Bacteroides finegoldii,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46228,Ruminococcus lactaris,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1522,[Clostridium] innocuum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,503170,Salisaeta longa,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,876,Desulfovibrio desulfuricans,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33039,[Ruminococcus] torques,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39482,[Eubacterium] contortum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,562,Escherichia coli,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1134405,Melioribacter roseus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,155617,Enterococcus moraviensis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,48466,Prosthecobacter vanneervenii,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36835,[Clostridium] colinum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,165179,Prevotella copri,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1133319,Bacteroides reticulotermitis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1559,Clostridium tertium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29354,[Clostridium] celerecrescens,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,356829,Bifidobacterium tsurumiense,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,253245,Owenweeksia hongkongensis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1113650,Sphingobacterium sp. NBRC 15340,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29356,Clostridium chartatabidum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,386414,Prevotella timonensis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84109,Slackia exigua,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28037,Streptococcus mitis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,151276,Bacteroides coprosuis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1303,Streptococcus oralis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,552810,Dehalogenimonas lykanthroporepellens,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1646,Renibacterium salmoninarum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,78344,Bifidobacterium gallinarum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,99807,Corynebacterium auriscanis,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2751,Carnobacterium maltaromaticum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1604,Lactobacillus amylovorus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,376806,Bacteroides gallinarum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46506,Bacteroides stercoris,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,38303,Corynebacterium pseudogenitalium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,591197,Ignavibacterium album,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,167964,Anaerolinea thermophila,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,831,Butyrivibrio fibrisolvens,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,187145,Caldithrix abyssi,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,310298,Bacteroides coprocola,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,682179,Bacillus luteolus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29370,[Clostridium] sphenoides,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1827099,Peptoniphilus sp. JCM 8141,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39778,Veillonella dispar,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,78343,Bifidobacterium boum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,312279,Emticicia oligotrophica,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755607,Bacteroides sp. MC_16,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29355,[Clostridium] cellobioparum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,732242,Bacteroides paurosaccharolyticus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1692,Bifidobacterium magnum,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,392838,Bacteroides propionicifaciens,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,-1,Unknown,19.7527,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,216851,Faecalibacterium,29.8774,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,816,Bacteroides,28.5244,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,459786,Oscillibacter,2.12831,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505657,Intestinibacter,1.85973,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1678,Bifidobacterium,1.70265,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,577309,Paraprevotella,1.69251,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,39948,Dialister,1.57596,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1263,Ruminococcus,1.32766,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,572511,Blautia,1.30739,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,397864,Barnesiella,1.06922,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506553,Lachnoclostridium,1.04895,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,375288,Parabacteroides,1.02361,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1508657,Ruminiclostridium,0.901997,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1730,Eubacterium,0.795581,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,239759,Alistipes,0.62329,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,33042,Coprococcus,0.592885,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,40544,Sutterella,0.440863,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,841,Roseburia,0.410459,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,577310,Parasutterella,0.395257,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,239934,Akkermansia,0.359785,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,838,Prevotella,0.319246,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,44748,Sporobacter,0.293909,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505663,Erysipelatoclostridium,0.243235,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1301,Streptococcus,0.2331,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,283168,Odoribacter,0.2331,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,35832,Bilophila,0.182426,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,244127,Anaerotruncus,0.172291,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,374,Bradyrhizobium,0.0608088,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1485,Clostridium,0.050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1578,Lactobacillus,0.0456066,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,189330,Dorea,0.0456066,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,165696,Novosphingobium,0.0405392,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,52784,Anaerofilum,0.0354718,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,41273,Tissierella,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,100883,Coprobacillus,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,270497,Catabacter,0.0304044,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,698776,Cellulosilyticum,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,61170,Holdemania,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,150022,Finegoldia,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,165779,Anaerococcus,0.025337,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1716,Corynebacterium,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1017280,Pseudoflavonifractor,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,990721,Christensenella,0.0202696,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1386,Bacillus,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,501783,Cloacibacterium,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,904,Acidaminococcus,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,830,Butyrivibrio,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1257,Peptostreptococcus,0.0152022,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,55080,Brevibacillus,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505652,Terrisporobacter,0.0101348,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1350,Enterococcus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,670486,Dehalogenimonas,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,84108,Slackia,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,233189,Anaerolinea,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1134403,Melioribacter,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,187144,Caldithrix,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,561,Escherichia,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,795750,Ignavibacterium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,29465,Veillonella,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,312278,Emticicia,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1645,Renibacterium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,48463,Prosthecobacter,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,689697,Salisaeta,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506577,Tyzzerella,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,162289,Peptoniphilus,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,28453,Sphingobacterium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2747,Carnobacterium,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,872,Desulfovibrio,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,267986,Owenweeksia,0.0050674,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,-1,Unknown,19.7983,ERR1250559,,United Kingdom,36.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755626,Faecalibacterium sp. MC_41,20.0618,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,218538,Dialister invisus,6.22566,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33043,Coprococcus eutactus,2.47295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,165179,Prevotella copri,2.43586,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39484,Eubacterium desmolans,1.94745,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28116,Bacteroides ovatus,1.79907,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,823,Parabacteroides distasonis,1.5085,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40520,Blautia obeum,1.32303,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39485,[Eubacterium] eligens,1.30448,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39492,[Eubacterium] siraeum,1.26739,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84032,[Clostridium] thermosuccinogenes,1.14374,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1515,Ruminiclostridium thermocellum,1.03864,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,536633,Blautia glucerasea,0.945904,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,69825,[Clostridium] indolis,0.896445,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,47678,Bacteroides caccae,0.853168,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328812,Parabacteroides goldsteinii,0.834621,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,44749,Sporobacter termitidis,0.710974,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,246787,Bacteroides cellulosilyticus,0.680062,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,301301,Roseburia hominis,0.64915,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,820,Bacteroides uniformis,0.62442,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36835,[Clostridium] colinum,0.581144,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39497,Eubacterium xylanophilum,0.562597,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,818,Bacteroides thetaiotaomicron,0.531685,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,288965,[Clostridium] clariflavum,0.451314,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,410072,Coprococcus comes,0.445131,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1561,Clostridium baratii,0.432767,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1535,[Clostridium] leptum,0.432767,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29348,[Clostridium] spiroforme,0.370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28128,Prevotella corporis,0.352396,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,208479,[Clostridium] bolteae,0.352396,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,261299,Intestinibacter bartlettii,0.340031,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28117,Alistipes putredinis,0.333849,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,487175,Parasutterella excrementihominis,0.284389,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1308,Streptococcus thermophilus,0.228748,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28127,Prevotella buccalis,0.222566,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1265,Ruminococcus flavefaciens,0.204019,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,574375,Bacillus gaemokensis,0.197836,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33035,Blautia producta,0.160742,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,41976,Porphyromonas catoniae,0.123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46228,Ruminococcus lactaris,0.123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84026,[Clostridium] methylpentosum,0.123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,821,Bacteroides vulgatus,0.123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,106588,Pseudoflavonifractor capillosus,0.117465,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84112,Eggerthella lenta,0.111283,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40518,Ruminococcus bromii,0.1051,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166486,Roseburia intestinalis,0.1051,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84030,[Clostridium] saccharolyticum,0.1051,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,52787,Anaerofilum pentosovorans,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,358742,[Clostridium] aldenense,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626930,Bacteroides fluxus,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39496,Eubacterium ventriosum,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1260,Finegoldia magna,0.0865533,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,44742,Desulfovibrio fairfieldensis,0.0803709,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29370,[Clostridium] sphenoides,0.0803709,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166501,Thermobaculum terrenum,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1502,Clostridium perfringens,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28118,Odoribacter splanchnicus,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28037,Streptococcus mitis,0.0618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33029,Anaerococcus hydrogenalis,0.0556414,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1671366,Ruminococcus sp. DSM 100440,0.0556414,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39778,Veillonella dispar,0.0556414,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1303,Streptococcus oralis,0.049459,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,351091,Oscillibacter valericigenes,0.0432767,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46506,Bacteroides stercoris,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,371601,Bacteroides xylanisolvens,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,839,Prevotella ruminicola,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341225,[Clostridium] saccharogumia,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1027,Microscilla marina,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1512,[Clostridium] symbiosum,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,357276,Bacteroides dorei,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33039,[Ruminococcus] torques,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28129,Prevotella denticola,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,847,Oxalobacter formigenes,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,61435,Dehalococcoides mccartyi,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1827099,Peptoniphilus sp. JCM 8141,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,169435,Anaerotruncus colihominis,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,309120,Dialister micraerophilus,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33034,Anaerococcus prevotii,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29355,[Clostridium] cellobioparum,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40519,Ruminococcus callidus,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,167964,Anaerolinea thermophila,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,502558,Eggerthella sp. YY7918,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28135,Prevotella oris,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,204516,Bacteroides massiliensis,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,143393,[Eubacterium] sulci,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35785,Clostridium maximum,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,471189,Gordonibacter pamelaeae,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29375,[Clostridium] xylanolyticum,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1280,Staphylococcus aureus,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29389,Streptococcus alactolyticus,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,180164,Blautia schinkii,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28133,Prevotella nigrescens,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33037,Anaerococcus vaginalis,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,76517,Campylobacter hominis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1264,Ruminococcus albus,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,589436,Prevotella fusca,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1428,Bacillus thuringiensis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1559,Clostridium tertium,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39491,[Eubacterium] rectale,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755629,Victivallis sp. MC_44,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,99807,Corynebacterium auriscanis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1532,Blautia coccoides,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,214853,Anaerofustis stercorihominis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,61171,Holdemania filiformis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,645466,Anaerostipes butyraticus,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1404,Bacillus megaterium,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,208480,Actinomyces nasicola,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29356,Clostridium chartatabidum,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,54006,Peptoniphilus ivorii,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1520,Clostridium beijerinckii,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,477666,Bacteroides graminisolvens,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1736,Eubacterium limosum,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29466,Veillonella parvula,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1254,Pediococcus acidilactici,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1313,Streptococcus pneumoniae,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,185293,Prevotella oryzae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,89153,[Clostridium] hylemonae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33987,Exiguobacterium aurantiacum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1379,Gemella haemolysans,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,282402,Prevotella multiformis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84031,Clostridium sartagoforme,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1553,Clostridium tetanomorphum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1305,Streptococcus sanguinis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28136,Prevotella oulorum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1249,Weissella paramesenteroides,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1531,[Clostridium] clostridioforme,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1282,Staphylococcus epidermidis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,415956,Sphingobacterium composti Yoo et al. 2007,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,701529,Peptoniphilus sp. JCM 8143,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1307,Streptococcus suis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,100884,Coprobacillus cateniformis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46503,Parabacteroides merdae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328813,Alistipes onderdonkii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33953,Clostridium aminobutyricum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,574930,Parabacteroides gordonii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,729,Haemophilus parainfluenzae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,273164,Pontibacillus marinus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,990,Cytophaga xylanolytica,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39482,[Eubacterium] contortum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1590,Lactobacillus plantarum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,851,Fusobacterium nucleatum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,37637,Corynebacterium pseudodiphtheriticum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35825,Pseudobacteroides cellulosolvens,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,122355,Pseudomonas psychrophila,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35517,[Eubacterium] brachy,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,329854,Bacteroides intestinalis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29354,[Clostridium] celerecrescens,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28091,Neisseria weaveri,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39490,Eubacterium ramulus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,589437,Prevotella scopos,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29347,[Clostridium] scindens,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,132919,Rhodococcus jostii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2130,Ureaplasma urealyticum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341694,Peptostreptococcus stomatis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39777,Veillonella atypica,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,860,Fusobacterium periodonticum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39488,[Eubacterium] hallii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1582,Lactobacillus casei,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,133453,Caldilinea aerophila,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36874,Porphyromonas cangingivalis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1364,Lactococcus piscium,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,228603,Prevotella shahii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1465754,Alistipes timonensis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,86664,Bacillus flexus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,118967,Anaerorhabdus furcosa,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1584,Lactobacillus delbrueckii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,310298,Bacteroides coprocola,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,187145,Caldithrix abyssi,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,37919,Rhodococcus opacus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,37930,Glutamicibacter protophormiae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,185294,Prevotella paludivivens,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626932,Alistipes indistinctus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,591197,Ignavibacterium album,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36849,Oxobacter pfennigii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1258,Peptoniphilus asaccharolyticus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,488,Neisseria mucosa,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1527,Anaerocolumna aminovalerica,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1655,Actinomyces naeslundii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,216816,Bifidobacterium longum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,105841,Anaerostipes caccae,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28454,Sphingobacterium multivorum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,294710,Proteiniphilum acetatigenes,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,480,Moraxella catarrhalis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,871324,Bacteroides stercorirosoris,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,77095,Prevotella bryantii,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,45851,Butyrivibrio crossotus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28137,Prevotella veroralis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,876,Desulfovibrio desulfuricans,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,38304,Corynebacterium tuberculostearicum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,467210,Lachnoanaerobaculum saburreum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,151276,Bacteroides coprosuis,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,-1,Unknown,41.0201,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,216851,Faecalibacterium,20.0618,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,39948,Dialister,6.25039,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,816,Bacteroides,4.88408,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1508657,Ruminiclostridium,4.48223,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,838,Prevotella,3.18393,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,33042,Coprococcus,2.91808,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,572511,Blautia,2.4915,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,375288,Parabacteroides,2.35549,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1730,Eubacterium,1.99073,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506553,Lachnoclostridium,1.6136,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,841,Roseburia,0.75425,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,44748,Sporobacter,0.710974,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1485,Clostridium,0.581144,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506577,Tyzzerella,0.581144,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1263,Ruminococcus,0.525502,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505663,Erysipelatoclostridium,0.408037,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1301,Streptococcus,0.383308,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,239759,Alistipes,0.352396,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505657,Intestinibacter,0.340031,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,577310,Parasutterella,0.284389,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1386,Bacillus,0.228748,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,84111,Eggerthella,0.136012,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,836,Porphyromonas,0.12983,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1017280,Pseudoflavonifractor,0.117465,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,52784,Anaerofilum,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,165779,Anaerococcus,0.0989181,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,872,Desulfovibrio,0.0865533,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,150022,Finegoldia,0.0865533,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,29465,Veillonella,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,262406,Thermobaculum,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,283168,Odoribacter,0.0741886,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,162289,Peptoniphilus,0.0556414,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,459786,Oscillibacter,0.0432767,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1023,Microscilla,0.0370943,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,61434,Dehalococcoides,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,846,Oxalobacter,0.0309119,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1716,Corynebacterium,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,244127,Anaerotruncus,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,233189,Anaerolinea,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1279,Staphylococcus,0.0247295,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1654,Actinomyces,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,207244,Anaerostipes,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,644652,Gordonibacter,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1578,Lactobacillus,0.0185471,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,61170,Holdemania,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,28453,Sphingobacterium,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,482,Neisseria,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,194,Campylobacter,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,848,Fusobacterium,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,264995,Anaerofustis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,172900,Victivallis,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1827,Rhodococcus,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1253,Pediococcus,0.0123648,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1164882,Lachnoanaerobaculum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2129,Ureaplasma,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,233191,Caldilinea,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,44261,Oxobacter,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,830,Butyrivibrio,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,187144,Caldithrix,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,100883,Coprobacillus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1257,Peptostreptococcus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1678,Bifidobacterium,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,33986,Exiguobacterium,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1378,Gemella,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1486726,Pseudobacteroides,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1742989,Glutamicibacter,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,978,Cytophaga,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,289201,Pontibacillus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,475,Moraxella,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,795750,Ignavibacterium,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,46255,Weissella,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,286,Pseudomonas,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1357,Lactococcus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,118966,Anaerorhabdus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1843210,Anaerocolumna,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,724,Haemophilus,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,294702,Proteiniphilum,0.00618238,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,-1,Unknown,41.0572,ERR1854817,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755626,Faecalibacterium sp. MC_41,21.9559,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,218538,Dialister invisus,4.87603,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,165179,Prevotella copri,4.46842,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40520,Blautia obeum,1.65803,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,536633,Blautia glucerasea,1.64884,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84032,[Clostridium] thermosuccinogenes,1.46189,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39484,Eubacterium desmolans,1.19832,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33043,Coprococcus eutactus,1.16461,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39492,[Eubacterium] siraeum,1.11557,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39485,[Eubacterium] eligens,1.11251,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28116,Bacteroides ovatus,0.870391,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1515,Ruminiclostridium thermocellum,0.852003,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,69825,[Clostridium] indolis,0.784578,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,301301,Roseburia hominis,0.671182,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328812,Parabacteroides goldsteinii,0.628275,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29348,[Clostridium] spiroforme,0.56698,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,288965,[Clostridium] clariflavum,0.539397,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28128,Prevotella corporis,0.465843,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1535,[Clostridium] leptum,0.456649,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,823,Parabacteroides distasonis,0.447455,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,44749,Sporobacter termitidis,0.44439,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,47678,Bacteroides caccae,0.43826,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,261299,Intestinibacter bartlettii,0.43826,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,246787,Bacteroides cellulosilyticus,0.404548,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,820,Bacteroides uniformis,0.395354,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39497,Eubacterium xylanophilum,0.376965,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,36835,[Clostridium] colinum,0.373901,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,410072,Coprococcus comes,0.358577,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28127,Prevotella buccalis,0.334059,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,208479,[Clostridium] bolteae,0.330994,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1561,Clostridium baratii,0.318735,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,818,Bacteroides thetaiotaomicron,0.281958,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46228,Ruminococcus lactaris,0.239051,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40518,Ruminococcus bromii,0.208404,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1265,Ruminococcus flavefaciens,0.205339,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1308,Streptococcus thermophilus,0.205339,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84026,[Clostridium] methylpentosum,0.18695,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84030,[Clostridium] saccharolyticum,0.168562,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,106588,Pseudoflavonifractor capillosus,0.168562,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,821,Bacteroides vulgatus,0.165497,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,487175,Parasutterella excrementihominis,0.159367,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28117,Alistipes putredinis,0.125655,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33035,Blautia producta,0.12259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39496,Eubacterium ventriosum,0.0950075,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,44742,Desulfovibrio fairfieldensis,0.088878,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166486,Roseburia intestinalis,0.088878,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,52787,Anaerofilum pentosovorans,0.0858132,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29356,Clostridium chartatabidum,0.0827485,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1827099,Peptoniphilus sp. JCM 8141,0.076619,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,169435,Anaerotruncus colihominis,0.0674247,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1512,[Clostridium] symbiosum,0.0582304,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,574375,Bacillus gaemokensis,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,358742,[Clostridium] aldenense,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,351091,Oscillibacter valericigenes,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39778,Veillonella dispar,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,61171,Holdemania filiformis,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1502,Clostridium perfringens,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,143393,[Eubacterium] sulci,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1303,Streptococcus oralis,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,309120,Dialister micraerophilus,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,357276,Bacteroides dorei,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,41976,Porphyromonas catoniae,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,589436,Prevotella fusca,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39491,[Eubacterium] rectale,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,839,Prevotella ruminicola,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84112,Eggerthella lenta,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29355,[Clostridium] cellobioparum,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28118,Odoribacter splanchnicus,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166501,Thermobaculum terrenum,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341225,[Clostridium] saccharogumia,0.0429066,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626930,Bacteroides fluxus,0.0429066,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1671366,Ruminococcus sp. DSM 100440,0.0398419,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46506,Bacteroides stercoris,0.0367771,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1264,Ruminococcus albus,0.0367771,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,204516,Bacteroides massiliensis,0.0367771,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28135,Prevotella oris,0.0337123,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29370,[Clostridium] sphenoides,0.0337123,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,228603,Prevotella shahii,0.0337123,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33039,[Ruminococcus] torques,0.0306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1260,Finegoldia magna,0.0306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33029,Anaerococcus hydrogenalis,0.0306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755629,Victivallis sp. MC_44,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,151276,Bacteroides coprosuis,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28037,Streptococcus mitis,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,645466,Anaerostipes butyraticus,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,54006,Peptoniphilus ivorii,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1559,Clostridium tertium,0.0214533,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,282402,Prevotella multiformis,0.0214533,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,167964,Anaerolinea thermophila,0.0214533,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28129,Prevotella denticola,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,105841,Anaerostipes caccae,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,471189,Gordonibacter pamelaeae,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28111,Bacteroides eggerthii,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1541,Terrisporobacter mayombei,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1027,Microscilla marina,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35517,[Eubacterium] brachy,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1113741,Bacillus sp. NBRC 101250,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35785,Clostridium maximum,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,371601,Bacteroides xylanisolvens,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39488,[Eubacterium] hallii,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29354,[Clostridium] celerecrescens,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1307,Streptococcus suis,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28227,Mycoplasma penetrans,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28137,Prevotella veroralis,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,502558,Eggerthella sp. YY7918,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,54911,Brevibacillus choshinensis,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33034,Anaerococcus prevotii,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,61435,Dehalococcoides mccartyi,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,97253,Eubacterium plexicaudatum,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,76517,Campylobacter hominis,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,45851,Butyrivibrio crossotus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,467210,Lachnoanaerobaculum saburreum,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33038,[Ruminococcus] gnavus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,851,Fusobacterium nucleatum,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626937,Christensenella minuta,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,376804,Bacteroides barnesiae,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1349,Streptococcus uberis,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,187327,Acidaminococcus intestini,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,89153,[Clostridium] hylemonae,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626931,Bacteroides oleiciplenus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,496866,Thermoanaerobacter pseudethanolicus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1282,Staphylococcus epidermidis,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28133,Prevotella nigrescens,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,329854,Bacteroides intestinalis,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,591197,Ignavibacterium album,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1258,Peptoniphilus asaccharolyticus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1532,Blautia coccoides,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,216816,Bifidobacterium longum,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29347,[Clostridium] scindens,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,477666,Bacteroides graminisolvens,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,392838,Bacteroides propionicifaciens,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,840,Prevotella loescheii,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,38304,Corynebacterium tuberculostearicum,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,496,Neisseria macacae,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,847,Oxalobacter formigenes,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,239935,Akkermansia muciniphila,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1311,Streptococcus agalactiae,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,133453,Caldilinea aerophila,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,310297,Bacteroides plebeius,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,310298,Bacteroides coprocola,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,701529,Peptoniphilus sp. JCM 8143,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1404,Bacillus megaterium,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,732242,Bacteroides paurosaccharolyticus,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,729,Haemophilus parainfluenzae,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1465754,Alistipes timonensis,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1177728,Varibaculum sp. CCUG 31793,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,40519,Ruminococcus callidus,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,871324,Bacteroides stercorirosoris,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1379,Gemella haemolysans,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2130,Ureaplasma urealyticum,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,38303,Corynebacterium pseudogenitalium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,376806,Bacteroides gallinarum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,187145,Caldithrix abyssi,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1566358,Paenibacillus sp. IHBB 10380,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,115979,Bacillus nealsonii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,363277,Ktedonobacter racemifer,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1018,Capnocytophaga ochracea,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28131,Prevotella intermedia,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,290109,Xenorhabdus innexi,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39490,Eubacterium ramulus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,185293,Prevotella oryzae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1488,Clostridium acetobutylicum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28134,Prevotella oralis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,39482,[Eubacterium] contortum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28454,Sphingobacterium multivorum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1328,Streptococcus anginosus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,166485,Caminicella sporogenes,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1168034,Draconibacterium orientale,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,35760,Bifidobacterium choerinum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2061,Tsukamurella paurometabola,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1305,Streptococcus sanguinis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,317,Pseudomonas syringae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,208480,Actinomyces nasicola,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,232270,Effusibacillus pohliae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,553611,Photobacterium leiognathi,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1542,Clostridium novyi,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,47246,[Clostridium] viride,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,290053,Bacteroides helcogenes,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,97084,Halobacteriovorax marinus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,328813,Alistipes onderdonkii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,649724,Clostridium sp. ATCC BAA-442,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,290055,[Eubacterium] fissicatena,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1736,Eubacterium limosum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,83661,Desulfonispora thiosulfatigenes,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,626933,Odoribacter laneus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,727,Haemophilus influenzae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,146919,Salinibacter ruber,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1161942,Ruminococcus champanellensis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,100884,Coprobacillus cateniformis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,106648,Acinetobacter bereziniae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2047,Rothia dentocariosa,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,817,Bacteroides fragilis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,454154,Paraprevotella clara,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,46503,Parabacteroides merdae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,90730,Desulfosarcina cetonica,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,562,Escherichia coli,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,376805,Bacteroides salanitronis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,486,Neisseria lactamica,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,148814,Lactobacillus kunkeei,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,76020,Amycolatopsis alba,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,51101,Brevibacillus agri,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1727,Corynebacterium variabile,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,77095,Prevotella bryantii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,488,Neisseria mucosa,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1584,Lactobacillus delbrueckii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,702383,Jiangella muralis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1755642,Lachnospiraceae bacterium MC_35,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,59839,Paenibacillus alginolyticus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,253239,Ethanoligenens harbinense,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1133319,Bacteroides reticulotermitis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28090,Acinetobacter lwoffii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,397865,Barnesiella viscericola,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,755731,Clostridium sp. BNL1100,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,34062,Moraxella osloensis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,905,Acidaminococcus fermentans,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,161879,Corynebacterium kroppenstedtii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2718,Cardiobacterium hominis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1313,Streptococcus pneumoniae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,37637,Corynebacterium pseudodiphtheriticum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,884684,Mageeibacillus indolicus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,860,Fusobacterium periodonticum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1689,Bifidobacterium dentium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,267818,Lactobacillus kefiranofaciens,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33953,Clostridium aminobutyricum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,253245,Owenweeksia hongkongensis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,363872,Bacillus panaciterrae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,341220,Lactonifactor longoviformis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1471,Bacillus methanolicus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29362,[Clostridium] papyrosolvens,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,871327,Parabacteroides chinchillae,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,180164,Blautia schinkii,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28091,Neisseria weaveri,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,29375,[Clostridium] xylanolyticum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1391,Aneurinibacillus aneurinilyticus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1280,Staphylococcus aureus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,247,Empedobacter brevis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,58138,Desulfotomaculum acetoxidans,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,78342,Bifidobacterium gallicum,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1134405,Melioribacter roseus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,146817,Dendrosporobacter quercicolus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,584,Proteus mirabilis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,183,Leptonema illini,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33037,Anaerococcus vaginalis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,45254,Dysgonomonas capnocytophagoides,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,58172,Paenibacillus sp.,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,76853,Solibacillus silvestris,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1254,Pediococcus acidilactici,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,28448,Komagataeibacter xylinus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1465521,Lactobacillus sp. JCM 8672,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,552810,Dehalogenimonas lykanthroporepellens,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,2026,Thermoactinomyces vulgaris,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,274,Thermus thermophilus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,1527,Anaerocolumna aminovalerica,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,33069,Pseudomonas viridiflava,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,84031,Clostridium sartagoforme,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,-1,Unknown,43.5012,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,216851,Faecalibacterium,21.9559,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,838,Prevotella,5.5135,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,39948,Dialister,4.92813,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1508657,Ruminiclostridium,4.66456,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,572511,Blautia,3.4785,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,816,Bacteroides,2.86248,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1730,Eubacterium,1.61819,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,33042,Coprococcus,1.52318,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506553,Lachnoclostridium,1.46495,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,375288,Parabacteroides,1.08186,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,841,Roseburia,0.76006,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1263,Ruminococcus,0.738607,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505663,Erysipelatoclostridium,0.609887,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1485,Clostridium,0.50875,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,44748,Sporobacter,0.44439,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505657,Intestinibacter,0.43826,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1506577,Tyzzerella,0.373901,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1301,Streptococcus,0.3218,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1017280,Pseudoflavonifractor,0.168562,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,577310,Parasutterella,0.159367,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,239759,Alistipes,0.134849,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,162289,Peptoniphilus,0.116461,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,872,Desulfovibrio,0.088878,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1386,Bacillus,0.0858132,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,52784,Anaerofilum,0.0858132,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,244127,Anaerotruncus,0.0674247,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,84111,Eggerthella,0.0582304,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,29465,Veillonella,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,459786,Oscillibacter,0.0551656,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,61170,Holdemania,0.0521009,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,283168,Odoribacter,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,836,Porphyromonas,0.0490361,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,262406,Thermobaculum,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,165779,Anaerococcus,0.0459714,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,207244,Anaerostipes,0.0429066,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,150022,Finegoldia,0.0306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,172900,Victivallis,0.0245181,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,233189,Anaerolinea,0.0214533,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1716,Corynebacterium,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1023,Microscilla,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1505652,Terrisporobacter,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,644652,Gordonibacter,0.0183886,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1678,Bifidobacterium,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,482,Neisseria,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,55080,Brevibacillus,0.0153238,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,848,Fusobacterium,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1279,Staphylococcus,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,61434,Dehalococcoides,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1578,Lactobacillus,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,194,Campylobacter,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,904,Acidaminococcus,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2093,Mycoplasma,0.012259,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,830,Butyrivibrio,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,795750,Ignavibacterium,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,990721,Christensenella,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,724,Haemophilus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,44249,Paenibacillus,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1754,Thermoanaerobacter,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1164882,Lachnoanaerobaculum,0.00919428,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,846,Oxalobacter,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,184869,Varibaculum,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1378,Gemella,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,286,Pseudomonas,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,233191,Caldilinea,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,239934,Akkermansia,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,469,Acinetobacter,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2129,Ureaplasma,0.00612952,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,626,Xenorhabdus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,577309,Paraprevotella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,670486,Dehalogenimonas,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,166484,Caminicella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1134403,Melioribacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1813,Amycolatopsis,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2023,Thermoactinomyces,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,561,Escherichia,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,583,Proteus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,146813,Dendrosporobacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1502725,Effusibacillus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,83660,Desulfonispora,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,32205,Leptonema,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1843210,Anaerocolumna,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,363276,Ktedonobacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,253238,Ethanoligenens,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,648800,Solibacillus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2060,Tsukamurella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2717,Cardiobacterium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,59734,Empedobacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,657,Photobacterium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,2299,Desulfosarcina,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,475,Moraxella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,100883,Coprobacillus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,28453,Sphingobacterium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,397864,Barnesiella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,267986,Owenweeksia,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,187144,Caldithrix,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,156973,Dysgonomonas,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1652133,Halobacteriovorax,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,281472,Jiangella,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1654,Actinomyces,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1471399,Draconibacterium,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,32207,Rothia,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,270,Thermus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,146918,Salinibacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,420345,Lactonifactor,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1637257,Mageeibacillus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1253,Pediococcus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1434011,Komagataeibacter,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,1016,Capnocytophaga,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,55079,Aneurinibacillus,0.00306476,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,genus,-1,Unknown,43.6207,ERR2319422,,United States of America,6.0,Male,Phenylketonurias
+D010661,Phenylketonurias,species,165179,Prevotella copri,30.3331,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,820,Bacteroides uniformis,4.69708,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,817,Bacteroides fragilis,4.44523,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28129,Prevotella denticola,2.38415,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,204516,Bacteroides massiliensis,2.19691,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,487175,Parasutterella excrementihominis,2.03685,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,840,Prevotella loescheii,2.03391,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,397865,Barnesiella viscericola,1.94139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,839,Prevotella ruminicola,1.10286,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,818,Bacteroides thetaiotaomicron,1.05293,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28117,Alistipes putredinis,0.930311,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,396812,Fulvivirga kasyanovii,0.887724,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28116,Bacteroides ovatus,0.878178,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,454154,Paraprevotella clara,0.831186,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40520,Blautia obeum,0.767305,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,853,Faecalibacterium prausnitzii,0.754088,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,46506,Bacteroides stercoris,0.726186,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28135,Prevotella oris,0.700487,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,89014,Blautia luti,0.668179,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28118,Odoribacter splanchnicus,0.638809,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,821,Bacteroides vulgatus,0.616047,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,218538,Dialister invisus,0.606501,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28136,Prevotella oulorum,0.581536,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,239935,Akkermansia muciniphila,0.576396,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,371601,Bacteroides xylanisolvens,0.572725,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,189722,Prevotella marshii,0.512515,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,228603,Prevotella shahii,0.507376,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,387661,Parabacteroides johnsonii,0.506641,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,329854,Bacteroides intestinalis,0.49783,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,633701,Prevotella saccharolytica,0.455977,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,310298,Bacteroides coprocola,0.425872,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,850,Fusobacterium mortiferum,0.425872,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,589437,Prevotella scopos,0.350243,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,376804,Bacteroides barnesiae,0.349509,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28119,Bacteroides zoogleoformans,0.346572,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40518,Ruminococcus bromii,0.332621,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,46503,Parabacteroides merdae,0.326747,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,456827,Candidatus Cloacimonas acidaminovorans,0.30839,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,376806,Bacteroides gallinarum,0.283425,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,72022,Methylarcula marina,0.279754,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,47678,Bacteroides caccae,0.270943,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84026,[Clostridium] methylpentosum,0.258461,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,351091,Oscillibacter valericigenes,0.254055,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,228604,Prevotella salivae,0.235698,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,246787,Bacteroides cellulosilyticus,0.235698,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,185293,Prevotella oryzae,0.232761,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,167964,Anaerolinea thermophila,0.230559,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,357276,Bacteroides dorei,0.210733,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1680,Bifidobacterium adolescentis,0.196782,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1297750,Bacteroides luti,0.187237,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,477666,Bacteroides graminisolvens,0.181363,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,146919,Salinibacter ruber,0.178426,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,544645,Butyricimonas virosa,0.171083,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1685,Bifidobacterium breve,0.167412,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,328813,Alistipes onderdonkii,0.152727,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28025,Bifidobacterium animalis,0.152727,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,328814,Alistipes shahii,0.146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,214856,Alistipes finegoldii,0.146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,310300,Bacteroides pyogenes,0.142447,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39492,[Eubacterium] siraeum,0.13437,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29348,[Clostridium] spiroforme,0.129965,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28447,Clavibacter michiganensis,0.12923,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,437898,Sutterella parvirubra,0.128496,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1085,Rhodospirillum rubrum,0.127027,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,44676,Geothrix fermentans,0.121153,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,308994,Dialister propionicifaciens,0.120419,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,81032,Hyphomonas neptunium,0.119685,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,871324,Bacteroides stercorirosoris,0.114545,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,77095,Prevotella bryantii,0.111608,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1559,Clostridium tertium,0.109405,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,536633,Blautia glucerasea,0.108671,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,823,Parabacteroides distasonis,0.100594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39485,[Eubacterium] eligens,0.0895801,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1465754,Alistipes timonensis,0.086643,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40519,Ruminococcus callidus,0.0859088,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28111,Bacteroides eggerthii,0.0859088,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1265,Ruminococcus flavefaciens,0.0785661,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,574963,Wandonia haliotis,0.0770976,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,107580,Bacteroides sp. CIP103040,0.0734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1078480,Haemophilus sputorum,0.072692,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1304,Streptococcus salivarius,0.0719578,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,78343,Bifidobacterium boum,0.0712235,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,78345,Bifidobacterium merycicum,0.0682864,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,77768,Prevotella albensis,0.0646151,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1161942,Ruminococcus champanellensis,0.0631466,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,589537,Prevotella dentasini,0.0631466,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,328812,Parabacteroides goldsteinii,0.0624123,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1684,Bifidobacterium asteroides,0.0580068,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,137732,Granulicatella elegans,0.055804,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28132,Prevotella melaninogenica,0.0543355,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39493,Clostridium tarantellae,0.0536012,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1236906,Neptunomonas sp. BPy-1,0.0484614,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40542,Leptotrichia buccalis,0.0477271,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28134,Prevotella oralis,0.0440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1681,Bifidobacterium bifidum,0.0433215,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,46228,Ruminococcus lactaris,0.0433215,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,905,Acidaminococcus fermentans,0.0425873,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,291645,Bacteroides nordii,0.0425873,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,187327,Acidaminococcus intestini,0.041853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28026,Bifidobacterium pseudocatenulatum,0.0411187,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,169435,Anaerotruncus colihominis,0.0411187,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,173480,Gemmatimonas aurantiaca,0.0396502,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,309120,Dialister micraerophilus,0.0396502,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39777,Veillonella atypica,0.0381817,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1535,[Clostridium] leptum,0.0374474,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,305719,Prevotella baroniae,0.0352446,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1630,Kandleria vitulina,0.0352446,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,545890,Alicyclobacillus aeris,0.0337761,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1689,Bifidobacterium dentium,0.0337761,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,183916,Actinomyces vaccimaxillae,0.0315733,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36835,[Clostridium] colinum,0.0315733,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28125,Prevotella bivia,0.0315733,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,301302,Roseburia faecis,0.0301048,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1311,Streptococcus agalactiae,0.0301048,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,427918,Nitriliruptor alkaliphilus,0.0286363,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1515,Ruminiclostridium thermocellum,0.027902,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1532,Blautia coccoides,0.0271677,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2173,Methanobrevibacter smithii,0.0264335,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1694,Bifidobacterium pseudolongum,0.0264335,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36847,[Clostridium] neopropionicum,0.0249649,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,103892,Veillonella ratti,0.0242307,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,170661,Vibrio xuii,0.0242307,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,393921,Porphyromonas crevioricanis,0.0234964,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,166486,Roseburia intestinalis,0.0234964,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,42256,Rubrobacter radiotolerans,0.0227621,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,637886,Dysgonomonas hofstadii,0.0220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,387090,Bacteroides coprophilus,0.0220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,69825,[Clostridium] indolis,0.0212936,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,216816,Bifidobacterium longum,0.0212936,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28112,Tannerella forsythia,0.0205594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1282,Staphylococcus epidermidis,0.0205594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,41976,Porphyromonas catoniae,0.0205594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,589436,Prevotella fusca,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1529,Clostridium cadaveris,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,671267,Bacteroides sartorii,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,122,Gimesia maris,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84030,[Clostridium] saccharolyticum,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,185294,Prevotella paludivivens,0.0183566,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1203471,Geobacter daltonii,0.0183566,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,948,Anaplasma phagocytophilum,0.0183566,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39486,Dorea formicigenerans,0.0176223,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,692370,Altererythrobacter dongtanensis,0.016888,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1504,Clostridium septicum,0.016888,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1121298,Clostridium amylolyticum,0.016888,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,45851,Butyrivibrio crossotus,0.0161538,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28037,Streptococcus mitis,0.0161538,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29367,Clostridium puniceum,0.0161538,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,901,Desulfovibrio piger,0.0161538,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33905,Bifidobacterium thermophilum,0.0154195,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1307,Streptococcus suis,0.0154195,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,256847,Lentisphaera araneosa,0.0154195,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39491,[Eubacterium] rectale,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1590651,Paenibacillus sp. VKM B-2647,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,729,Haemophilus parainfluenzae,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29501,Mycoplasma haemofelis,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,88431,Dorea longicatena,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,691816,Bacteroides rodentium,0.013951,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,341225,[Clostridium] saccharogumia,0.013951,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28446,[Clostridium] propionicum,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1229909,Candidatus Nitrosopumilus sp. AR2,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,44749,Sporobacter termitidis,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,332163,Candidatus Solibacter usitatus,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,86665,Bacillus halodurans,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,49185,Kineosporia aurantiaca,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29363,Clostridium paraputrificum,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1409,Bacillus sp.,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1735,Holdemanella biformis,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,88058,Treponema primitia,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39496,Eubacterium ventriosum,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,626937,Christensenella minuta,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29466,Veillonella parvula,0.0110139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,654,Aeromonas veronii,0.0110139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,47246,[Clostridium] viride,0.0110139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,76860,Streptococcus constellatus,0.0110139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,288965,[Clostridium] clariflavum,0.0110139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,386414,Prevotella timonensis,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,46355,Spirochaeta africana,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,851,Fusobacterium nucleatum,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,83661,Desulfonispora thiosulfatigenes,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,154046,Hungatella hathewayi,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,74426,Collinsella aerofaciens,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,762212,Bifidobacterium biavatii,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39778,Veillonella dispar,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1459,Sporosarcina globispora,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,115979,Bacillus nealsonii,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,147207,Collinsella intestinalis,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2378,Sporomusa ovata,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,470565,Prevotella histicola,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,310297,Bacteroides plebeius,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1956,Streptomyces diastaticus,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,407188,Pelobacter seleniigenes,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29542,Pelobacter acetylenicus,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,871325,Bacteroides faecichinchillae,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,395922,Coraliomargarita akajimensis,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,453816,Bdellovibrio exovorus,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28137,Prevotella veroralis,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1492,Clostridium butyricum,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,104663,Chitinophaga filiformis,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,61171,Holdemania filiformis,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1134563,Prevotella sp. JCM 6348,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,471189,Gordonibacter pamelaeae,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,301301,Roseburia hominis,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,61635,Acholeplasma brassicae,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,70997,Lewinella nigricans,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,85831,Bacteroides acidifaciens,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,426,Methylosinus trichosporium,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,180311,Hespellia stercorisuis,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,264027,Algoriphagus marincola,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,78448,Bifidobacterium pullorum,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1510,[Clostridium] stercorarium,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,286730,Alkaliflexus imshenetskii,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1691,Bifidobacterium indicum,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1308,Streptococcus thermophilus,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,107709,Opitutus terrae,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84112,Eggerthella lenta,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28127,Prevotella buccalis,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,294710,Proteiniphilum acetatigenes,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,423605,Elusimicrobium minutum,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,208479,[Clostridium] bolteae,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28128,Prevotella corporis,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2350,Haliscomenobacter hydrossis,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,439703,Prevotella maculosa,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,876,Desulfovibrio desulfuricans,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33043,Coprococcus eutactus,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,81028,Treponema brennaborense,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1322,Blautia hansenii,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,727,Haemophilus influenzae,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,358742,[Clostridium] aldenense,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,395961,Cyanothece sp. PCC 7425,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,253256,Soehngenia saccharolytica,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1264,Ruminococcus albus,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,907,Megasphaera elsdenii,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,97253,Eubacterium plexicaudatum,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,290112,Xenorhabdus szentirmaii,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,100884,Coprobacillus cateniformis,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,35519,Mogibacterium timidum,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1686,Bifidobacterium catenulatum,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1537,Romboutsia lituseburensis,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28139,Rikenella microfusus,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1267,Clostridium ventriculi,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,253245,Owenweeksia hongkongensis,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1502,Clostridium perfringens,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,143393,[Eubacterium] sulci,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1512,[Clostridium] symbiosum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39488,[Eubacterium] hallii,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29375,[Clostridium] xylanolyticum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,180195,Herbaspirillum autotrophicum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,360807,Roseburia inulinivorans,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1683,Bifidobacterium angulatum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1124188,Flavobacterium fontis,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,97477,Anaerobaculum mobile,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28126,Prevotella buccae,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1303,Streptococcus oralis,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,31998,Methylobacterium radiotolerans,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,34038,Rahnella aquatilis,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,472113,Geofilum rubicundum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,158787,Bifidobacterium scardovii,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1358,Lactococcus lactis,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1547,Erysipelatoclostridium ramosum,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,70775,Pseudomonas plecoglossicida,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,745368,Gemmiger formicilis,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,214858,Bacteroides sp. DSM 12148,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,290053,Bacteroides helcogenes,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,70995,Lewinella cohaerens,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,410072,Coprococcus comes,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,52229,Hallella seregens,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,183556,Rhodococcus maanshanensis,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1671366,Ruminococcus sp. DSM 100440,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,35833,Bilophila wadsworthia,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39484,Eubacterium desmolans,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,136241,Mycoplasma haemocanis,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36745,Clostridium saccharoperbutylacetonicum,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1167604,Streptomyces catbensis,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,51,Chondromyces apiculatus,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28130,Prevotella disiens,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,100176,Papillibacter cinnamivorans,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,330214,Nitrospira defluvii,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33038,[Ruminococcus] gnavus,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,180164,Blautia schinkii,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,483,Neisseria cinerea,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,44742,Desulfovibrio fairfieldensis,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,367336,Rhodobacterales bacterium HTCC2255,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,52226,Mitsuokella multacida,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1122943,Pedobacter oryzae,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,229204,Flavobacterium frigoris,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,24,Shewanella putrefaciens,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,187491,Corynebacterium glaucum,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,234908,Sutterella stercoricanis,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,191579,Fluviicola taffensis,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36834,Clostridium celatum,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,35785,Clostridium maximum,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,673862,Candidatus Babela massiliensis,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,58134,[Desulfotomaculum] guttoideum,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33039,[Ruminococcus] torques,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,623280,Parapedobacter luteus,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1404,Bacillus megaterium,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2088,Anaeroplasma bactoclasticum,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40324,Stenotrophomonas maltophilia,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,132920,Exiguobacterium antarcticum,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,160660,Acidihalobacter prosperus,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,35621,Streptomyces mobaraensis,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,332249,Truepera radiovictrix,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,94624,Bordetella petrii,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,219571,Rhodanobacter fulvus,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,367806,Blattabacterium sp. (Blatta orientalis),0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,31971,[Eubacterium] dolichum,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,983706,Bifidobacterium reuteri,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84110,Slackia heliotrinireducens,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,185300,Paludibacter propionicigenes,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1343,Streptococcus vestibularis,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,187145,Caldithrix abyssi,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,225324,Enhydrobacter aerosaccus,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,688867,Ohtaekwangia koreensis,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1336,Streptococcus equi,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1520,Clostridium beijerinckii,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1365,Lactococcus plantarum,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29389,Streptococcus alactolyticus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1428,Bacillus thuringiensis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1005741,Saprospiraceae bacterium KMM 9006,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,55209,Pantoea cypripedii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,360185,Amphibacillus sediminis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1305,Streptococcus sanguinis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28122,Fibrobacter intestinalis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,755731,Clostridium sp. BNL1100,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,644,Aeromonas hydrophila,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,69395,Caulobacter henricii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1162717,Streptobacillus hongkongensis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29552,Acholeplasma axanthum,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,69710,Treponema vincentii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1605,Lactobacillus animalis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,137662,Nonomuraea terrinata,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40214,Acinetobacter johnsonii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,165813,Sporanaerobacter acetigenes,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1598,Lactobacillus reuteri,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,114,Gemmata obscuriglobus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33032,Anaerococcus lactolyticus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,38986,Acholeplasma palmae,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1354,Enterococcus hirae,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,470842,Streptomyces sp. YIM C513,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,148,Spirochaeta bajacaliforniensis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,35517,[Eubacterium] brachy,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2189,Methanotorris igneus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29371,[Clostridium] termitidis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36874,Porphyromonas cangingivalis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,157463,Fructobacillus ficulneus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,591197,Ignavibacterium album,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1338,Streptococcus intermedius,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,626947,Parasutterella secunda,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,899,Desulfomicrobium baculatum,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,67315,Streptomyces lavenduligriseus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1583,Weissella confusa,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1530,Clostridium carnis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,743722,Sphingobacterium sp. 21,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,375750,Synergistes sp. RMA 14551,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,157688,Leptotrichia hofstadii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,68909,Deinococcus geothermalis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33031,Peptoniphilus lacrimalis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,518643,Bifidobacterium mongoliense,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,552357,Shewanella fodinae,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1507,Clostridium sp. ATCC 29733,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,76517,Campylobacter hominis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,72556,Achromobacter piechaudii,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2736,Verrucomicrobium spinosum,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1402,Bacillus licheniformis,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,54565,Desulfovibrio simplex,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,220714,Fructobacillus pseudoficulneus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,736,Haemophilus paraphrohaemolyticus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,146938,Azovibrio restrictus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,133453,Caldilinea aerophila,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,833,Fibrobacter succinogenes,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,158847,Megamonas hypermegale,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,732242,Bacteroides paurosaccharolyticus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,202604,Moorella mulderi,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39489,Clostridium moniliforme,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2130,Ureaplasma urealyticum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,669,Vibrio harveyi,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1173263,Synechococcus sp. PCC 7502,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,310514,Prevotella multisaccharivorax,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,407019,Sphingomonas astaxanthinifaciens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,174709,Allobaculum stercoricanis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1219,Prochlorococcus marinus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,204470,Alicyclobacillus pomorum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,64178,Coleofasciculus chthonoplastes,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,75294,Saccharomonospora xinjiangensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,86177,Pseudomonas halophila,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,46124,Granulicatella adiacens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1168034,Draconibacterium orientale,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,43669,Brachybacterium faecium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,164,Treponema pectinovorum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29524,Porphyromonas circumdentaria,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,443143,Geobacter sp. M18,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2148,Acholeplasma laidlawii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,649841,Sulfuricella denitrificans,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29533,Flavobacterium pectinovorum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,155617,Enterococcus moraviensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,384638,[Bacteroides] pectinophilus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,980254,Roseimaritima ulvae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,40543,Sneathia sanguinegens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,138595,Olsenella profusa,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,48256,[Clostridium] hungatei,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1337,Streptococcus hyointestinalis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1260,Finegoldia magna,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,633813,Rhodothermus profundi,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,217031,Bacillus galactosidilyticus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,53418,Treponema lecithinolyticum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,153491,Alysiella crassa,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1173264,Leptolyngbya sp. PCC 6406,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,224719,Methanobrevibacter sp. AbM4,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,163011,Pseudomonas lini,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,166485,Caminicella sporogenes,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39950,Dialister pneumosintes,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1660,Actinomyces odontolyticus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,572010,Slackia isoflavoniconvertens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33959,Lactobacillus johnsonii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1582,Lactobacillus casei,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,147802,Lactobacillus iners,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,341220,Lactonifactor longoviformis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33034,Anaerococcus prevotii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,151276,Bacteroides coprosuis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,884684,Mageeibacillus indolicus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2100,Mycoplasma hyorhinis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,47671,Lautropia mirabilis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33992,Rickettsia rhipicephali,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,103,Flectobacillus major,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,717785,Hyphomicrobium sp. MC1,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2047,Rothia dentocariosa,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1261,Peptostreptococcus anaerobius,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1421,Lysinibacillus sphaericus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,280093,Flavobacterium granuli,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,419015,Alloscardovia omnicolens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,144185,Leifsonia aquatica,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1365176,Thermofilum sp. 1910b,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1379,Gemella haemolysans,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,673548,Comamonas terrae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,125,Pirellula staleyi,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,503170,Salisaeta longa,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,73098,Kluyvera georgiana,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,246618,Bifidobacterium thermacidophilum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,54915,Brevibacillus reuszeri,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,663,Vibrio alginolyticus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,929426,Bifidobacterium sp. JCM 7042,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,82803,Trichococcus flocculiformis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,421,Methylomonas methanica,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29360,Cellulosilyticum lentocellum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,400668,Marinomonas sp. MWYL1,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1097668,Burkholderia sp. YI23,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,385682,Thermophagus xiamenensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,150172,Flavobacterium tegetincola,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1613,Lactobacillus fermentum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,511435,Candidatus Azobacteroides pseudotrichonymphae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,78346,Bifidobacterium ruminantium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,39029,Megasphaera cerevisiae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,72026,Helcococcus ovis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,96228,Legionella drozanskii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1316444,Blattabacterium sp. (Nauphoeta cinerea),0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,45254,Dysgonomonas capnocytophagoides,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,478,Moraxella nonliquefaciens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,110662,Synechococcus sp. CC9605,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1590,Lactobacillus plantarum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29385,Staphylococcus saprophyticus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,319238,Sediminicola luteus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,29317,Actinomyces sp.,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,2734,Symbiobacterium thermophilum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,85874,Thermacetogenium phaeum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1579,Lactobacillus acidophilus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,94869,Clostridium gasigenes,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,261685,Thermosinus carboxydivorans,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,134536,Paraburkholderia caledonica,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1587,Lactobacillus helveticus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,200475,Brumimicrobium glaciale,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,72,Simonsiella muelleri,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,881,Desulfovibrio vulgaris,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1246,Leuconostoc lactis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84109,Slackia exigua,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,106588,Pseudoflavonifractor capillosus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,163202,Corynebacterium appendicis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1505723,Lactobacillus bombicola,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33943,Kyrpidia tusciae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,103817,Janibacter terrae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1902,Streptomyces coelicolor,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,579160,Halomonas sp. YIM 90512,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,36850,Clostridium quinii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,874454,Pseudoalteromonas arabiensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1493,Clostridium cellulovorans,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,105841,Anaerostipes caccae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,13335,Anaerobiospirillum succiniciproducens,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,76832,Myroides odoratimimus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,52561,Desulfomicrobium norvegicum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,259537,Dechloromonas aromatica,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,319475,Clostridium lundense,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,43990,Corynebacterium segmentosum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,614671,Sphingosinicella vermicomposti,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1676991,Clostridium sp. ATCC 25772,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,676599,Stenotrophomonas panacihumi,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1496,Clostridioides difficile,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,481722,Lactobacillus kisonensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1235990,Candidatus Pantoea carbekii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,128,Isosphaera pallida,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,81468,Aminobacterium colombiense,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,291644,Bacteroides salyersiae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,84158,Oceanimonas doudoroffii,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,33037,Anaerococcus vaginalis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1184387,Mesotoga prima,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,28123,Porphyromonas asaccharolytica,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,214853,Anaerofustis stercorihominis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,1416614,Gloeobacter kilaueensis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,202955,Acinetobacter tjernbergiae,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,76123,Prevotella enoeca,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,363832,Solirubrobacter soli,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,species,-1,Unknown,21.613,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,838,Prevotella,39.9417,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,816,Bacteroides,18.7259,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,577310,Parasutterella,2.03831,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,397864,Barnesiella,1.94139,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,572511,Blautia,1.58527,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,239759,Alistipes,1.46339,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,375288,Parabacteroides,0.996395,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1678,Bifidobacterium,0.939857,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,396811,Fulvivirga,0.887724,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,577309,Paraprevotella,0.831186,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,39948,Dialister,0.767305,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,216851,Faecalibacterium,0.754088,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,283168,Odoribacter,0.638809,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1263,Ruminococcus,0.612375,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,239934,Akkermansia,0.576396,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1508657,Ruminiclostridium,0.489753,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,848,Fusobacterium,0.436152,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,456826,Candidatus Cloacimonas,0.30839,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1485,Clostridium,0.28416,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,72021,Methylarcula,0.279754,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,459786,Oscillibacter,0.254055,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,233189,Anaerolinea,0.230559,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,146918,Salinibacter,0.178426,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,574697,Butyricimonas,0.171083,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1301,Streptococcus,0.165209,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1505663,Erysipelatoclostridium,0.147587,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,40544,Sutterella,0.131433,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1573,Clavibacter,0.12923,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1081,Rhodospirillum,0.127027,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,44675,Geothrix,0.121153,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,85,Hyphomonas,0.119685,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1730,Eubacterium,0.110874,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,724,Haemophilus,0.0947199,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,904,Acidaminococcus,0.0844402,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,29465,Veillonella,0.083706,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1115103,Wandonia,0.0770976,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,841,Roseburia,0.0668179,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1506553,Lachnoclostridium,0.0638809,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,117563,Granulicatella,0.0565382,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,32067,Leptotrichia,0.0491956,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,75687,Neptunomonas,0.0484614,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,836,Porphyromonas,0.0469928,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,244127,Anaerotruncus,0.0411187,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1386,Bacillus,0.0403845,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,173479,Gemmatimonas,0.0396502,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1279388,Kandleria,0.0352446,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,29330,Alicyclobacillus,0.0345104,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1654,Actinomyces,0.0330418,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,189330,Dorea,0.0323076,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1506577,Tyzzerella,0.0315733,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,596499,Nitriliruptor,0.0286363,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,872,Desulfovibrio,0.0271677,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2172,Methanobrevibacter,0.0271677,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,662,Vibrio,0.0256992,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,42255,Rubrobacter,0.0227621,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,156973,Dysgonomonas,0.0227621,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1279,Staphylococcus,0.0212936,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,195950,Tannerella,0.0205594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,157,Treponema,0.0205594,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,102106,Collinsella,0.0198251,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2093,Mycoplasma,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,18,Pelobacter,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,28231,Geobacter,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1649453,Gimesia,0.0190908,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,768,Anaplasma,0.0183566,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1883,Streptomyces,0.0183566,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,361177,Altererythrobacter,0.016888,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,830,Butyrivibrio,0.0161538,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,256846,Lentisphaera,0.0154195,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,44249,Paenibacillus,0.0146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,44748,Sporobacter,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,332162,Candidatus Solibacter,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,338191,Nitrosopumilus,0.0132167,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,49184,Kineosporia,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,642,Aeromonas,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1573535,Holdemanella,0.0124825,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2147,Acholeplasma,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,70994,Lewinella,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,990721,Christensenella,0.0117482,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1569,Sporosarcina,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1649459,Hungatella,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,83660,Desulfonispora,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,146,Spirochaeta,0.0102797,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2375,Sporomusa,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1578,Lactobacillus,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,33042,Coprococcus,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,237,Flavobacterium,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,442430,Coraliomargarita,0.00954542,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,958,Bdellovibrio,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,79328,Chitinophaga,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,61170,Holdemania,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,644652,Gordonibacter,0.00881116,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,241189,Hespellia,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,425,Methylosinus,0.00807689,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,286729,Alkaliflexus,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,246875,Algoriphagus,0.00734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,294702,Proteiniphilum,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,178440,Opitutus,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,423604,Elusimicrobium,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,84111,Eggerthella,0.00660837,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,43988,Cyanothece,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2349,Haliscomenobacter,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,906,Megasphaera,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1357,Lactococcus,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,253255,Soehngenia,0.0058741,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,86331,Mogibacterium,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1501226,Romboutsia,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,100883,Coprobacillus,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,28138,Rikenella,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,626,Xenorhabdus,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,267986,Owenweeksia,0.00513984,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,22,Shewanella,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,963,Herbaspirillum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,407,Methylobacterium,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,49894,Acetomicrobium,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1236988,Geofilum,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1716,Corynebacterium,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,34037,Rahnella,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,286,Pseudomonas,0.00440558,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,35832,Bilophila,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1827,Rhodococcus,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,204475,Gemmiger,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,84108,Slackia,0.00367131,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,482,Neisseria,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,832,Fibrobacter,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,84567,Pedobacter,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,332102,Fluviicola,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1234,Nitrospira,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,165779,Anaerococcus,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,40323,Stenotrophomonas,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,559173,Fructobacillus,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,52225,Mitsuokella,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,100175,Papillibacter,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,50,Chondromyces,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,34098,Blattabacterium,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1551504,Candidatus Babela,0.00293705,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,517,Bordetella,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,33986,Exiguobacterium,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,83681,Nonomuraea,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,187144,Caldithrix,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,346096,Paludibacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1210119,Ohtaekwangia,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,332248,Truepera,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1765964,Acidihalobacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1350,Enterococcus,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,898,Desulfomicrobium,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2086,Anaeroplasma,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,53335,Pantoea,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,416949,Parapedobacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,212791,Enhydrobacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,75309,Rhodanobacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,469,Acinetobacter,0.00220279,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,28453,Sphingobacterium,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,233191,Caldilinea,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2753,Synergistes,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,75,Caulobacter,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,194,Campylobacter,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1298,Deinococcus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,34104,Streptobacillus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2745,Halomonas,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,165812,Sporanaerobacter,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,29331,Amphibacillus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,162289,Peptoniphilus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2735,Verrucomicrobium,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,113,Gemmata,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1129,Synechococcus,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,196119,Methanotorris,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,158846,Megamonas,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,146935,Azovibrio,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,46255,Weissella,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,795750,Ignavibacterium,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,222,Achromobacter,0.00146853,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,283,Comamonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,400634,Lysinibacillus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,207599,Solirubrobacter,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,689697,Salisaeta,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1378,Gemella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,73029,Dechloromonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,935200,Sulfuricella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,47251,Leptolyngbya,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1471399,Draconibacterium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1870884,Clostridioides,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,420345,Lactonifactor,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1637257,Mageeibacillus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,53246,Pseudoalteromonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,669368,Coleofasciculus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1243,Leuconostoc,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,445,Legionella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,33071,Gloeobacter,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,194195,Alysiella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1822464,Paraburkholderia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1017280,Pseudoflavonifractor,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,416,Methylomonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,81,Hyphomicrobium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,419014,Alloscardovia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,511434,Candidatus Azobacteroides,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,28253,Marinomonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,44260,Moorella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,166484,Caminicella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,264995,Anaerofustis,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,475,Moraxella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,129577,Oceanimonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1184396,Mesotoga,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,81466,Aminobacterium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1851,Saccharomonospora,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,101,Flectobacillus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,150022,Finegoldia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,32207,Rothia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,261684,Thermosinus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,76831,Myroides,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1218,Prochlorococcus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,13687,Sphingomonas,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,110932,Leifsonia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,207244,Anaerostipes,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,127,Isosphaera,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,32008,Burkholderia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2129,Ureaplasma,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,698776,Cellulosilyticum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,168808,Sneathia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2268,Thermofilum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,389486,Sediminicola,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,335405,Sphingosinicella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,200473,Brumimicrobium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,123,Pirellula,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,13334,Anaerobiospirillum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,579,Kluyvera,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,29548,Rhodothermus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,174708,Allobaculum,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,43668,Brachybacterium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,133925,Olsenella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,47670,Lautropia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1129704,Kyrpidia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1257,Peptostreptococcus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,2733,Symbiobacterium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1434049,Thermophagus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,71,Simonsiella,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,31983,Helcococcus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,53457,Janibacter,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,1579506,Roseimaritima,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,82802,Trichococcus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,780,Rickettsia,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,140458,Thermacetogenium,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,55080,Brevibacillus,0.000734263,SRR2046234,,Brazil,,,Phenylketonurias
+D010661,Phenylketonurias,genus,-1,Unknown,21.6387,SRR2046234,,Brazil,,,Phenylketonurias

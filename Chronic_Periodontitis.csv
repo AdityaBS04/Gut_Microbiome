@@ -1,0 +1,1426 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,53.1506,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,24.5568,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,4.47639,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,817,Bacteroides fragilis,4.02205,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328813,Alistipes onderdonkii,3.77626,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,1.05765,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,650643,Alistipes sp. RMA 9912,0.767168,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,0.752272,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626930,Bacteroides fluxus,0.707582,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,0.603307,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.50648,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1265,Ruminococcus flavefaciens,0.409653,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,0.320274,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.275585,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,0.245792,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.230895,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,0.193654,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.171309,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,0.141516,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.141516,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39496,Eubacterium ventriosum,0.12662,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.119172,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.111724,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.0968271,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755607,Bacteroides sp. MC_16,0.0893788,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,0.0819306,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.0819306,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.0595859,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,871324,Bacteroides stercorirosoris,0.0595859,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29370,[Clostridium] sphenoides,0.0595859,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35833,Bilophila wadsworthia,0.0521376,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,218538,Dialister invisus,0.0521376,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.0446894,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.0446894,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,851,Fusobacterium nucleatum,0.0446894,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755629,Victivallis sp. MC_44,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,562,Escherichia coli,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,281920,Porphyromonas uenonis,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,309120,Dialister micraerophilus,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,202956,Acinetobacter towneri,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,714549,Hydrotalea flava,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204516,Bacteroides massiliensis,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,876,Desulfovibrio desulfuricans,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,386414,Prevotella timonensis,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1264,Ruminococcus albus,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,310298,Bacteroides coprocola,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28125,Prevotella bivia,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1161942,Ruminococcus champanellensis,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40519,Ruminococcus callidus,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1531,[Clostridium] clostridioforme,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76517,Campylobacter hominis,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35517,[Eubacterium] brachy,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1244,Leuconostoc gelidum,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,59803,Sphingomonas echinoides,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,521157,Weissella sp. KLDS 7.0701,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1308,Streptococcus thermophilus,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,1.74289,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,88.5148,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,4.65515,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,1.05765,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,1.0353,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,0.424549,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.357515,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,0.320274,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,0.290481,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,0.245792,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.230895,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,0.215999,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.119172,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,0.0819306,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,0.0744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,35832,Bilophila,0.0521376,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.0521376,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,848,Fusobacterium,0.0446894,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.0446894,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,172900,Victivallis,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.0372412,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0297929,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,561,Escherichia,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,836,Porphyromonas,0.0223447,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1004300,Hydrotalea,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.0148965,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1243,Leuconostoc,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46255,Weissella,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.00744823,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,1.75034,SRR5942086,,,44,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,14.0729,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,11.8899,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,10.6268,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,9.91282,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,7.05705,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,4.77106,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,3.24707,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,2.05945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33039,[Ruminococcus] torques,1.46221,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,1.33178,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,1.29059,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,218538,Dialister invisus,0.645294,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.590375,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.528592,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.473673,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39496,Eubacterium ventriosum,0.446214,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.41189,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.377566,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1522,[Clostridium] innocuum,0.363836,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36835,[Clostridium] colinum,0.274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.233404,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,0.233404,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.226539,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.19908,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.192215,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,0.192215,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33038,[Ruminococcus] gnavus,0.192215,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.171621,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,562,Escherichia coli,0.164756,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.144161,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.109837,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.102972,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.0961076,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.0892428,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46206,Pseudobutyrivibrio ruminis,0.082378,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,536633,Blautia glucerasea,0.0755131,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39483,Faecalitalea cylindroides,0.0755131,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1304,Streptococcus salivarius,0.0686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,0.0686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,0.0617835,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,0.0617835,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.0617835,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,0.0549187,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,31971,[Eubacterium] dolichum,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28123,Porphyromonas asaccharolytica,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29524,Porphyromonas circumdentaria,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291645,Bacteroides nordii,0.041189,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76517,Campylobacter hominis,0.041189,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33031,Peptoniphilus lacrimalis,0.041189,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35833,Bilophila wadsworthia,0.0343242,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.0343242,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,410072,Coprococcus comes,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29370,[Clostridium] sphenoides,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84112,Eggerthella lenta,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,100884,Coprobacillus cateniformis,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,282125,Sutterella sanguinus,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,281920,Porphyromonas uenonis,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36874,Porphyromonas cangingivalis,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,197614,Streptococcus pasteurianus,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,105841,Anaerostipes caccae,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,290055,[Eubacterium] fissicatena,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28130,Prevotella disiens,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1827099,Peptoniphilus sp. JCM 8141,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29347,[Clostridium] scindens,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69824,[Clostridium] cocleatum,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39482,[Eubacterium] contortum,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755607,Bacteroides sp. MC_16,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,180164,Blautia schinkii,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28111,Bacteroides eggerthii,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1343,Streptococcus vestibularis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38303,Corynebacterium pseudogenitalium,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,358742,[Clostridium] aldenense,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1531,[Clostridium] clostridioforme,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33034,Anaerococcus prevotii,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204516,Bacteroides massiliensis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,592978,Ruminococcus faecis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1308,Streptococcus thermophilus,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39490,Eubacterium ramulus,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,261299,Intestinibacter bartlettii,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1719,Corynebacterium pseudotuberculosis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1382,Atopobium parvulum,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1544,[Clostridium] oroticum,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39029,Megasphaera cerevisiae,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29354,[Clostridium] celerecrescens,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40682,Sphingomonas mali,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1507,Clostridium sp. ATCC 29733,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,584,Proteus mirabilis,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,23.9857,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,36.3424,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,12.0615,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,7.60623,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,5.31338,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,4.77106,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,2.14183,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,1.49653,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,1.42102,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,1.29059,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,0.645294,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506577,Tyzzerella,0.274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,0.233404,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.19908,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.192215,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.178486,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,561,Escherichia,0.164756,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.123567,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,836,Porphyromonas,0.123567,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,0.123567,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.116702,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46205,Pseudobutyrivibrio,0.082378,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1573534,Faecalitalea,0.0755131,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.0755131,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.0617835,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,162289,Peptoniphilus,0.0549187,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,0.0549187,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,0.0480538,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,0.041189,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,35832,Bilophila,0.0343242,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.0274593,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,40544,Sutterella,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,84111,Eggerthella,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,100883,Coprobacillus,0.0205945,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1716,Corynebacterium,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,207244,Anaerostipes,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,0.0137297,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,165779,Anaerococcus,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505657,Intestinibacter,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,906,Megasphaera,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1380,Atopobium,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,583,Proteus,0.00686483,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,23.9857,SRR5942089,,,59,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,32.0837,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,11.2643,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,11.0521,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,9.03509,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328813,Alistipes onderdonkii,4.87801,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,3.68078,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,3.34543,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,3.00846,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,2.96796,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,2.81243,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,1.70269,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,817,Bacteroides fragilis,1.29767,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,650643,Alistipes sp. RMA 9912,0.960697,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,0.656125,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626933,Odoribacter laneus,0.545961,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.468198,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.448757,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.424456,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.307812,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.301332,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,0.272171,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,0.25111,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291644,Bacteroides salyersiae,0.202508,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,0.194408,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755607,Bacteroides sp. MC_16,0.176587,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.166866,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,0.163626,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.140945,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.108544,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.0972038,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626930,Bacteroides fluxus,0.0874834,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626932,Alistipes indistinctus,0.0858633,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,0.077763,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.077763,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291645,Bacteroides nordii,0.0664226,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29355,[Clostridium] cellobioparum,0.0615624,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,329854,Bacteroides intestinalis,0.0583223,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,0.0486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.0486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.0469818,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,574930,Parabacteroides gordonii,0.0421216,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.0421216,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,0.0372614,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.0372614,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39496,Eubacterium ventriosum,0.0356414,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.0340213,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.0243009,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0226809,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.0210608,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1510,[Clostridium] stercorarium,0.0194408,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,115979,Bacillus nealsonii,0.0194408,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39490,Eubacterium ramulus,0.0162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1264,Ruminococcus albus,0.0113404,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.0113404,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.00810031,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.00810031,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626931,Bacteroides oleiciplenus,0.00810031,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.00648025,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33039,[Ruminococcus] torques,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,901,Desulfovibrio piger,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29370,[Clostridium] sphenoides,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39482,[Eubacterium] contortum,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1522,[Clostridium] innocuum,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35833,Bilophila wadsworthia,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1633,Lactobacillus vaginalis,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40683,Sphingomonas pruni,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,574375,Bacillus gaemokensis,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,214856,Alistipes finegoldii,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,376804,Bacteroides barnesiae,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1144673,Acinetobacter sp. CIP 64.7,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,410072,Coprococcus comes,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,58172,Paenibacillus sp.,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,143393,[Eubacterium] sulci,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1539,Clostridium malenominatum,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,216946,Spiroplasma turonicum,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,589436,Prevotella fusca,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33038,[Ruminococcus] gnavus,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40519,Ruminococcus callidus,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1304,Streptococcus salivarius,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,358743,[Clostridium] citroniae,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28125,Prevotella bivia,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,5.84195,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,64.3084,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,11.3404,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,10.3765,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,3.55442,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,1.70269,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.76953,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,0.492499,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,0.25921,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,0.25111,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,0.194408,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.168487,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.147426,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.140945,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.111784,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.077763,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,0.0372614,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.0372614,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0226809,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1386,Bacillus,0.0210608,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.0210608,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.0129605,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.00648025,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.00486019,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,35832,Bilophila,0.00324013,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2132,Spiroplasma,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1578,Lactobacillus,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44249,Paenibacillus,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.00162006,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,5.84357,SRR5942092,,,54,Male,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,45851,Butyrivibrio crossotus,8.3263,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,7.72478,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,5.47172,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,4.56416,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,671267,Bacteroides sartorii,4.16315,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328813,Alistipes onderdonkii,2.87041,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,2.7385,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,2.65935,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,2.32165,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328812,Parabacteroides goldsteinii,2.18447,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204516,Bacteroides massiliensis,2.14753,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1161942,Ruminococcus champanellensis,1.85732,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84032,[Clostridium] thermosuccinogenes,1.81511,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,1.69375,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,1.35078,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,1.145,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,1.13444,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,0.99198,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2150,Acholeplasma modicum,0.986703,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.970874,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29552,Acholeplasma axanthum,0.865344,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2137,Spiroplasma apis,0.775644,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,0.517096,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36835,[Clostridium] colinum,0.511819,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,0.511819,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,650643,Alistipes sp. RMA 9912,0.501266,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2173,Methanobrevibacter smithii,0.49599,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.453778,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.379907,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,0.353525,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,0.342972,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,0.327142,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1265,Ruminococcus flavefaciens,0.327142,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,0.327142,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.321866,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,48256,[Clostridium] hungatei,0.279654,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1735,Holdemanella biformis,0.247995,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,216940,Spiroplasma lampyridicola,0.242718,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,948756,Paenibacillus macquariensis,0.221612,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.21106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.200507,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.184677,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,562,Escherichia coli,0.174124,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46206,Pseudobutyrivibrio ruminis,0.168848,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.147742,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.147742,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755629,Victivallis sp. MC_44,0.147742,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.147742,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1630,Kandleria vitulina,0.142465,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39496,Eubacterium ventriosum,0.137189,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.121359,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,0.116083,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,0.110806,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.110806,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1732,Eubacterium oxidoreducens,0.10553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.100253,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0949768,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626933,Odoribacter laneus,0.0949768,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1542,Clostridium novyi,0.0844238,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,0.0791473,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.0791473,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53443,Blautia hydrogenotrophica,0.0580414,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.0474884,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.0474884,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,253239,Ethanoligenens harbinense,0.0422119,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44742,Desulfovibrio fairfieldensis,0.0422119,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,0.0422119,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.0369354,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.0369354,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29355,[Clostridium] cellobioparum,0.0369354,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0369354,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40519,Ruminococcus callidus,0.0369354,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1559,Clostridium tertium,0.0316589,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1264,Ruminococcus albus,0.0316589,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1510,[Clostridium] stercorarium,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,216947,Spiroplasma velocicrescens,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,264463,Anaerosporobacter mobilis,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,191579,Fluviicola taffensis,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1680,Bifidobacterium adolescentis,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,74426,Collinsella aerofaciens,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,508460,Cloacibacillus evryensis,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,214856,Alistipes finegoldii,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,89153,[Clostridium] hylemonae,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84109,Slackia exigua,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1267,Clostridium ventriculi,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2139,Spiroplasma clarkii,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,395922,Coraliomargarita akajimensis,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626932,Alistipes indistinctus,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,59803,Sphingomonas echinoides,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,633701,Prevotella saccharolytica,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,729,Haemophilus parainfluenzae,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,426421,Sediminibacterium salmoneum,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,270498,Catabacter hongkongensis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291645,Bacteroides nordii,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,189425,Paenibacillus graminis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39950,Dialister pneumosintes,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1495,Clostridium cylindrosporum,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,327855,Sphingomonas sp. ORS 1497,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1077256,Methanosphaera cuniculi,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,454154,Paraprevotella clara,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,824,Campylobacter gracilis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,216931,Spiroplasma alleghenense,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,252966,Mahella australiensis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,58134,[Desulfotomaculum] guttoideum,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36854,Desulfitobacterium dehalogenans,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,387661,Parabacteroides johnsonii,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28037,Streptococcus mitis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,437898,Sutterella parvirubra,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40324,Stenotrophomonas maltophilia,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1113696,Halomonas sp. NBRC 100990,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,423605,Elusimicrobium minutum,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1504,Clostridium septicum,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,30.878,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,10.9065,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,8.48459,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,830,Butyrivibrio,8.3263,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,6.81722,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,5.47172,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,3.93098,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,3.85711,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,2.99177,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,2.92845,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,2.7385,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,2.32165,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2147,Acholeplasma,1.85205,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,1.22942,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2132,Spiroplasma,1.06057,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,0.99198,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.970874,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506577,Tyzzerella,0.511819,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2172,Methanobrevibacter,0.49599,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.321866,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.295483,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1573535,Holdemanella,0.247995,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44249,Paenibacillus,0.226889,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.200507,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,561,Escherichia,0.174124,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46205,Pseudobutyrivibrio,0.168848,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,172900,Victivallis,0.147742,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1279388,Kandleria,0.142465,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.137189,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.121359,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.110806,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.100253,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.0527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0474884,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.0474884,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,253238,Ethanoligenens,0.0422119,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.0422119,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.0263824,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1678,Bifidobacterium,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,332102,Fluviicola,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,102106,Collinsella,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,653683,Anaerosporobacter,0.021106,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,508459,Cloacibacillus,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,0.0158295,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,84108,Slackia,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,442430,Coraliomargarita,0.010553,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,40544,Sutterella,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577309,Paraprevotella,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,252965,Mahella,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,36853,Desulfitobacterium,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,724,Haemophilus,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2316,Methanosphaera,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,270497,Catabacter,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,423604,Elusimicrobium,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,40323,Stenotrophomonas,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,504481,Sediminibacterium,0.00527649,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,30.878,SRR5942095,,,25,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1510,[Clostridium] stercorarium,12.8342,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2137,Spiroplasma apis,2.53135,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,2.37719,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29552,Acholeplasma axanthum,1.60898,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,0.704736,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,0.527257,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2173,Methanobrevibacter smithii,0.393823,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,0.323868,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1630,Kandleria vitulina,0.243549,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.159343,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1735,Holdemanella biformis,0.13732,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.120479,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,74426,Collinsella aerofaciens,0.119183,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,562,Escherichia coli,0.106229,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.0570007,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1732,Eubacterium oxidoreducens,0.0544098,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1680,Bifidobacterium adolescentis,0.0414551,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.0336822,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,0.0297958,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,100884,Coprobacillus cateniformis,0.0297958,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.0297958,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.0285004,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,0.0272049,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1623,Lactobacillus ruminis,0.024614,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114527,Mogibacterium diversum,0.0233185,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.022023,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.0194321,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1161942,Ruminococcus champanellensis,0.0155457,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0155457,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.0155457,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,0.0103638,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114528,Mogibacterium neglectum,0.0103638,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,0.00777283,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1113696,Halomonas sp. NBRC 100990,0.00647736,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,78342,Bifidobacterium gallicum,0.00647736,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53443,Blautia hydrogenotrophica,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,395922,Coraliomargarita akajimensis,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,714549,Hydrotalea flava,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,133926,Olsenella uli,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,270498,Catabacter hongkongensis,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1559,Clostridium tertium,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28026,Bifidobacterium pseudocatenulatum,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1547,Erysipelatoclostridium ramosum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,86333,Mogibacterium vescum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,817,Bacteroides fragilis,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1522,[Clostridium] innocuum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1258,Peptoniphilus asaccharolyticus,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,261299,Intestinibacter bartlettii,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,502558,Eggerthella sp. YY7918,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,86332,Mogibacterium pumilum,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1686,Bifidobacterium catenulatum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1382,Atopobium parvulum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,157687,Leptotrichia wadei,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,319644,Saccharofermentans acetigenes,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33033,Parvimonas micra,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,106648,Acinetobacter bereziniae,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33032,Anaerococcus lactolyticus,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,143393,[Eubacterium] sulci,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1070869,Dietzia sp. YIM 76027,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84032,[Clostridium] thermosuccinogenes,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52769,Actinomyces gerencseriae,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,89153,[Clostridium] hylemonae,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1077256,Methanosphaera cuniculi,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,216816,Bifidobacterium longum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,45851,Butyrivibrio crossotus,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,552357,Shewanella fodinae,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,536633,Blautia glucerasea,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,851,Fusobacterium nucleatum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84109,Slackia exigua,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29356,Clostridium chartatabidum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,493,Neisseria canis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,214853,Anaerofustis stercorihominis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,762210,Bifidobacterium saguini,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1596,Lactobacillus gasseri,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,701529,Peptoniphilus sp. JCM 8143,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,77.1829,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,12.8848,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2132,Spiroplasma,2.53135,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,2.37719,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2147,Acholeplasma,1.60898,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,0.704736,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,0.527257,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2172,Methanobrevibacter,0.393823,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,0.323868,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1279388,Kandleria,0.243549,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.159343,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1573535,Holdemanella,0.13732,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.120479,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,102106,Collinsella,0.119183,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,561,Escherichia,0.106229,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.0570007,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1678,Bifidobacterium,0.0557053,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.0544098,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.0518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,0.0453415,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,86331,Mogibacterium,0.0388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.0336822,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,100883,Coprobacillus,0.0297958,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,0.0285004,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0285004,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.0259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1578,Lactobacillus,0.0259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.0194321,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.00777283,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.00777283,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1004300,Hydrotalea,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,442430,Coraliomargarita,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.00518188,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,133925,Olsenella,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,270497,Catabacter,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,162289,Peptoniphilus,0.00388641,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,84111,Eggerthella,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505657,Intestinibacter,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,0.00259094,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1654,Actinomyces,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1380,Atopobium,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,482,Neisseria,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,848,Fusobacterium,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2316,Methanosphaera,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,32067,Leptotrichia,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,37914,Dietzia,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,84108,Slackia,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1200657,Saccharofermentans,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,264995,Anaerofustis,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,165779,Anaerococcus,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,543311,Parvimonas,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,830,Butyrivibrio,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.00129547,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,77.1842,SRR5942103,,,44,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204516,Bacteroides massiliensis,34.2875,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,4.48746,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,3.92256,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,3.75119,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,3.33228,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,2.92606,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,2.81181,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,2.61504,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,850,Fusobacterium mortiferum,2.4881,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,2.39289,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,2.3802,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,2.3675,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,2.09457,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,2.01206,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,310298,Bacteroides coprocola,1.49159,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,1.25674,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,214856,Alistipes finegoldii,1.16154,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,1.12345,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,1.07902,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2173,Methanobrevibacter smithii,0.869565,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.787052,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,0.761663,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,0.622025,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328813,Alistipes onderdonkii,0.437956,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.418915,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76517,Campylobacter hominis,0.387179,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.355443,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,0.349096,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,817,Bacteroides fragilis,0.336401,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,329854,Bacteroides intestinalis,0.31736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,0.311012,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,589436,Prevotella fusca,0.291971,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.222152,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.215805,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,281920,Porphyromonas uenonis,0.20311,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,574930,Parabacteroides gordonii,0.184069,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626932,Alistipes indistinctus,0.15868,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.15868,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.133291,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328812,Parabacteroides goldsteinii,0.133291,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28123,Porphyromonas asaccharolytica,0.120597,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,387090,Bacteroides coprophilus,0.120597,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,0.120597,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.114249,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.114249,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1735,Holdemanella biformis,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28135,Prevotella oris,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,0.0952079,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.0888607,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46206,Pseudobutyrivibrio ruminis,0.0888607,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.0825135,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,650643,Alistipes sp. RMA 9912,0.0761663,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28128,Prevotella corporis,0.0761663,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,185294,Prevotella paludivivens,0.0761663,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.0761663,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39029,Megasphaera cerevisiae,0.0698191,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,228603,Prevotella shahii,0.0698191,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626933,Odoribacter laneus,0.0698191,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.0634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.0571247,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0571247,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291645,Bacteroides nordii,0.0571247,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,270498,Catabacter hongkongensis,0.0571247,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.0507775,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.0507775,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.0444303,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28111,Bacteroides eggerthii,0.0444303,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,410072,Coprococcus comes,0.0444303,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,0.0380831,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,901,Desulfovibrio piger,0.0380831,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39950,Dialister pneumosintes,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,349096,Pectinatus haikarae,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1630,Kandleria vitulina,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,762210,Bifidobacterium saguini,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626930,Bacteroides fluxus,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,454154,Paraprevotella clara,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53443,Blautia hydrogenotrophica,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33033,Parvimonas micra,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33029,Anaerococcus hydrogenalis,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40519,Ruminococcus callidus,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1161942,Ruminococcus champanellensis,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,133926,Olsenella uli,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,881,Desulfovibrio vulgaris,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,851,Fusobacterium nucleatum,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,115979,Bacillus nealsonii,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,291644,Bacteroides salyersiae,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1680,Bifidobacterium adolescentis,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36854,Desulfitobacterium dehalogenans,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755629,Victivallis sp. MC_44,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,856,Fusobacterium varium,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1559,Clostridium tertium,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1522,[Clostridium] innocuum,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33953,Clostridium aminobutyricum,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33037,Anaerococcus vaginalis,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,122355,Pseudomonas psychrophila,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28127,Prevotella buccalis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755607,Bacteroides sp. MC_16,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39488,[Eubacterium] hallii,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,387661,Parabacteroides johnsonii,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84109,Slackia exigua,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,191579,Fluviicola taffensis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,237258,Cloacibacterium normanense,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28126,Prevotella buccae,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,356829,Bifidobacterium tsurumiense,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77095,Prevotella bryantii,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114528,Mogibacterium neglectum,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,516075,Providencia sneebia,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28037,Streptococcus mitis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28129,Prevotella denticola,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38986,Acholeplasma palmae,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,395922,Coraliomargarita akajimensis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114702,Actinomyces lingnae,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,143393,[Eubacterium] sulci,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,100884,Coprobacillus cateniformis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,824,Campylobacter gracilis,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33038,[Ruminococcus] gnavus,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29356,Clostridium chartatabidum,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29370,[Clostridium] sphenoides,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28251,Ornithobacterium rhinotracheale,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,11.0124,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,50.1047,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,6.14408,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,5.12853,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,4.27801,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,3.2815,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,2.92606,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,2.81181,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,848,Fusobacterium,2.51349,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,2.3802,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,2.139,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,1.12345,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2172,Methanobrevibacter,0.869565,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.787052,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.628372,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,0.418915,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,0.393526,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.349096,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,836,Porphyromonas,0.323707,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,0.304665,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.24754,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.171374,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.114249,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1573535,Holdemanella,0.101555,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46205,Pseudobutyrivibrio,0.0888607,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.0825135,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0698191,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,906,Megasphaera,0.0698191,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.0634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.0634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,270497,Catabacter,0.0571247,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1678,Bifidobacterium,0.0507775,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.0507775,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.0507775,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.0380831,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,165779,Anaerococcus,0.0380831,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,864,Pectinatus,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1279388,Kandleria,0.031736,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577309,Paraprevotella,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,543311,Parvimonas,0.0253888,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,133925,Olsenella,0.0190416,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1386,Bacillus,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,36853,Desulfitobacterium,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,172900,Victivallis,0.0126944,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,28250,Ornithobacterium,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,86331,Mogibacterium,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,442430,Coraliomargarita,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,586,Providencia,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,84108,Slackia,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,501783,Cloacibacterium,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,332102,Fluviicola,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1654,Actinomyces,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,100883,Coprobacillus,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2147,Acholeplasma,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,286,Pseudomonas,0.00634719,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,11.0187,SRR5942104,,,50,Female,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,39.9522,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,8.55523,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,4.1502,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28125,Prevotella bivia,3.57291,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,3.52611,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,3.40129,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,3.38049,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,2.47556,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,1.97628,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,1.74225,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,1.56022,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,1.44061,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,1.28979,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328812,Parabacteroides goldsteinii,1.18577,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.993343,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.936135,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84032,[Clostridium] thermosuccinogenes,0.509673,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,0.478469,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.436863,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,0.410859,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.395257,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,329854,Bacteroides intestinalis,0.322446,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.28084,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.28084,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.234034,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,633701,Prevotella saccharolytica,0.197628,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,536633,Blautia glucerasea,0.182026,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,0.171625,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,0.14042,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,840,Prevotella loescheii,0.135219,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40518,Ruminococcus bromii,0.109216,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,410072,Coprococcus comes,0.0988142,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0936135,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.0884127,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.0884127,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1559,Clostridium tertium,0.083212,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36835,[Clostridium] colinum,0.0728105,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.0728105,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28135,Prevotella oris,0.062409,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,122355,Pseudomonas psychrophila,0.062409,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626932,Alistipes indistinctus,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39490,Eubacterium ramulus,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,270498,Catabacter hongkongensis,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,395922,Coraliomargarita akajimensis,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.0520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,387661,Parabacteroides johnsonii,0.0468067,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.041606,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,0.041606,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33953,Clostridium aminobutyricum,0.041606,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29355,[Clostridium] cellobioparum,0.0364052,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28136,Prevotella oulorum,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84031,Clostridium sartagoforme,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328813,Alistipes onderdonkii,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53443,Blautia hydrogenotrophica,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,59803,Sphingomonas echinoides,0.0156022,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,714549,Hydrotalea flava,0.0156022,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,370979,Flavobacterium defluvii,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2173,Methanobrevibacter smithii,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1655,Actinomyces naeslundii,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,650643,Alistipes sp. RMA 9912,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,447567,Halomonas andesensis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,228603,Prevotella shahii,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35825,Pseudobacteroides cellulosolvens,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,189425,Paenibacillus graminis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,115979,Bacillus nealsonii,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1144673,Acinetobacter sp. CIP 64.7,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2741,Peptococcus niger,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28127,Prevotella buccalis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,327855,Sphingomonas sp. ORS 1497,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114527,Mogibacterium diversum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,58172,Paenibacillus sp.,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1113696,Halomonas sp. NBRC 100990,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29363,Clostridium paraputrificum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36854,Desulfitobacterium dehalogenans,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28134,Prevotella oralis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46206,Pseudobutyrivibrio ruminis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,294710,Proteiniphilum acetatigenes,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204,Campylobacter showae,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39488,[Eubacterium] hallii,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29552,Acholeplasma axanthum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28132,Prevotella melaninogenica,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1267,Clostridium ventriculi,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,106648,Acinetobacter bereziniae,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1358,Lactococcus lactis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39482,[Eubacterium] contortum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,905,Acidaminococcus fermentans,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76517,Campylobacter hominis,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,13.6156,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,59.3197,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,4.70148,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,4.43104,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,4.24901,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,3.40129,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,1.97628,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,1.56022,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,1.18577,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,1.13376,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,1.09216,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,0.478469,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.457666,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.400458,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.28084,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.239234,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.166424,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.114416,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.109216,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506577,Tyzzerella,0.0728105,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.062409,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,286,Pseudomonas,0.062409,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,442430,Coraliomargarita,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,270497,Catabacter,0.0572082,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.0520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.0312045,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.0260037,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.020803,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1004300,Hydrotalea,0.0156022,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44249,Paenibacillus,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2172,Methanobrevibacter,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,237,Flavobacterium,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1654,Actinomyces,0.0104015,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1386,Bacillus,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,36853,Desulfitobacterium,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1357,Lactococcus,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2147,Acholeplasma,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1486726,Pseudobacteroides,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46205,Pseudobutyrivibrio,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2740,Peptococcus,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,86331,Mogibacterium,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,294702,Proteiniphilum,0.00520075,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,13.6156,SRR5942108,,,37,Female,Severe Chronic Periodontitis
+D055113,Chronic Periodontitis,species,310298,Bacteroides coprocola,10.787,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46503,Parabacteroides merdae,10.6513,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,820,Bacteroides uniformis,5.33243,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,179995,Anaerobiospirillum thomasii,4.18815,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,351091,Oscillibacter valericigenes,4.11126,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755626,Faecalibacterium sp. MC_41,3.57304,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1515,Ruminiclostridium thermocellum,3.564,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204516,Bacteroides massiliensis,2.74989,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28117,Alistipes putredinis,2.02623,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,817,Bacteroides fragilis,1.87698,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,218538,Dialister invisus,1.60109,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,165179,Prevotella copri,1.43374,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,169435,Anaerotruncus colihominis,1.3071,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2173,Methanobrevibacter smithii,1.28449,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39492,[Eubacterium] siraeum,1.15332,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69825,[Clostridium] indolis,0.981456,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,328814,Alistipes shahii,0.82768,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,821,Bacteroides vulgatus,0.777929,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,387661,Parabacteroides johnsonii,0.682949,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,818,Bacteroides thetaiotaomicron,0.664858,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28116,Bacteroides ovatus,0.624152,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28118,Odoribacter splanchnicus,0.506558,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,187327,Acidaminococcus intestini,0.502035,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626937,Christensenella minuta,0.465853,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,310297,Bacteroides plebeius,0.465853,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46506,Bacteroides stercoris,0.46133,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47678,Bacteroides caccae,0.438716,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44749,Sporobacter termitidis,0.39801,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,288965,[Clostridium] clariflavum,0.379919,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84026,[Clostridium] methylpentosum,0.352782,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39029,Megasphaera cerevisiae,0.298507,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,45851,Butyrivibrio crossotus,0.298507,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28125,Prevotella bivia,0.275893,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,338188,Bacteroides finegoldii,0.266848,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1512,[Clostridium] symbiosum,0.244233,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33039,[Ruminococcus] torques,0.230665,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33043,Coprococcus eutactus,0.199005,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1735,Holdemanella biformis,0.194482,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341225,[Clostridium] saccharogumia,0.194482,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,48256,[Clostridium] hungatei,0.189959,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29348,[Clostridium] spiroforme,0.180914,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,901,Desulfovibrio piger,0.171868,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39485,[Eubacterium] eligens,0.171868,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.171868,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84032,[Clostridium] thermosuccinogenes,0.167345,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,574930,Parabacteroides gordonii,0.162822,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36847,[Clostridium] neopropionicum,0.140208,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29355,[Clostridium] cellobioparum,0.140208,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28111,Bacteroides eggerthii,0.135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,84030,[Clostridium] saccharolyticum,0.12664,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29375,[Clostridium] xylanolyticum,0.085934,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,239935,Akkermansia muciniphila,0.0723654,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,823,Parabacteroides distasonis,0.0678426,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,487175,Parasutterella excrementihominis,0.0587969,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1465754,Alistipes timonensis,0.0587969,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626932,Alistipes indistinctus,0.0587969,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39490,Eubacterium ramulus,0.0542741,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,562,Escherichia coli,0.0542741,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1535,[Clostridium] leptum,0.0407056,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,454154,Paraprevotella clara,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1249,Weissella paramesenteroides,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,397865,Barnesiella viscericola,0.0316599,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1161942,Ruminococcus champanellensis,0.0316599,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,61171,Holdemania filiformis,0.027137,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,166486,Roseburia intestinalis,0.027137,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.0226142,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29354,[Clostridium] celerecrescens,0.0226142,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,876,Desulfovibrio desulfuricans,0.0226142,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39486,Dorea formicigenerans,0.0180914,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,847,Oxalobacter formigenes,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1510,[Clostridium] stercorarium,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28090,Acinetobacter lwoffii,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33953,Clostridium aminobutyricum,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,115979,Bacillus nealsonii,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53443,Blautia hydrogenotrophica,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,36854,Desulfitobacterium dehalogenans,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1077256,Methanosphaera cuniculi,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40519,Ruminococcus callidus,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,521157,Weissella sp. KLDS 7.0701,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39497,Eubacterium xylanophilum,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,871327,Parabacteroides chinchillae,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,410072,Coprococcus comes,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,301301,Roseburia hominis,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28446,[Clostridium] propionicum,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,357276,Bacteroides dorei,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,46228,Ruminococcus lactaris,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1680,Bifidobacterium adolescentis,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28132,Prevotella melaninogenica,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33035,Blautia producta,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29363,Clostridium paraputrificum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1755607,Bacteroides sp. MC_16,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52787,Anaerofilum pentosovorans,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,59803,Sphingomonas echinoides,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,246787,Bacteroides cellulosilyticus,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,755731,Clostridium sp. BNL1100,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,185294,Prevotella paludivivens,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,133926,Olsenella uli,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40542,Leptotrichia buccalis,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,589437,Prevotella scopos,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29370,[Clostridium] sphenoides,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,714549,Hydrotalea flava,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44933,Halomonas cupida,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,851,Fusobacterium nucleatum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39484,Eubacterium desmolans,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,208479,[Clostridium] bolteae,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1563,Desulfosporosinus orientis,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,47246,[Clostridium] viride,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35785,Clostridium maximum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,371601,Bacteroides xylanisolvens,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114527,Mogibacterium diversum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,426421,Sediminibacterium salmoneum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1304,Streptococcus salivarius,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,180282,Delftia tsuruhatensis,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,626930,Bacteroides fluxus,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40520,Blautia obeum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,621,Shigella boydii,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,30.6468,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,816,Bacteroides,24.6088,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,375288,Parabacteroides,11.5739,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1508657,Ruminiclostridium,6.00633,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13334,Anaerobiospirillum,4.18815,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,459786,Oscillibacter,4.11126,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,216851,Faecalibacterium,3.57304,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239759,Alistipes,2.97151,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,1.7232,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,1.60109,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1506553,Lachnoclostridium,1.46992,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,244127,Anaerotruncus,1.3071,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2172,Methanobrevibacter,1.28449,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,283168,Odoribacter,0.506558,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,904,Acidaminococcus,0.502035,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,990721,Christensenella,0.465853,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44748,Sporobacter,0.39801,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1505663,Erysipelatoclostridium,0.375396,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,830,Butyrivibrio,0.298507,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,906,Megasphaera,0.298507,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,572511,Blautia,0.248756,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1730,Eubacterium,0.235188,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,33042,Coprococcus,0.208051,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.194482,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1573535,Holdemanella,0.194482,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.171868,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,239934,Akkermansia,0.0723654,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577310,Parasutterella,0.0587969,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,561,Escherichia,0.0542741,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1263,Ruminococcus,0.0452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,46255,Weissella,0.0452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0407056,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,0.0407056,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,577309,Paraprevotella,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,841,Roseburia,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.0361827,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,397864,Barnesiella,0.0316599,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1485,Clostridium,0.027137,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,61170,Holdemania,0.027137,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,189330,Dorea,0.0180914,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,846,Oxalobacter,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1386,Bacillus,0.0135685,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,36853,Desulfitobacterium,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2316,Methanosphaera,0.00904568,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,133925,Olsenella,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,80865,Delftia,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1004300,Hydrotalea,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,32067,Leptotrichia,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,848,Fusobacterium,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,52784,Anaerofilum,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,620,Shigella,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1678,Bifidobacterium,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,86331,Mogibacterium,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,504481,Sediminibacterium,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,79206,Desulfosporosinus,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,13687,Sphingomonas,0.00452284,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,30.6468,SRR5942121,,,52,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,851,Fusobacterium nucleatum,52.2382,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,33033,Parvimonas micra,10.0358,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,185300,Paludibacter propionicigenes,5.18058,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,824,Campylobacter gracilis,4.82642,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28112,Tannerella forsythia,3.31096,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,143361,Filifactor alocis,2.30614,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28124,Porphyromonas endodontalis,2.23613,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1303,Streptococcus oralis,2.11671,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,204,Campylobacter showae,1.78314,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1018,Capnocytophaga ochracea,1.50311,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,493,Neisseria canis,1.05424,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28037,Streptococcus mitis,1.04188,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39498,[Eubacterium] yurii,1.00894,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35517,[Eubacterium] brachy,0.996582,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,45242,Capnocytophaga granulosa,0.996582,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1017,Capnocytophaga gingivalis,0.889511,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1328,Streptococcus anginosus,0.531236,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,555313,Phocaeicola abscessus,0.444756,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35519,Mogibacterium timidum,0.354157,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,200,Campylobacter curvus,0.350039,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,539,Eikenella corrodens,0.308858,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,118748,Bulleidia extructa,0.251205,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,51123,[Eubacterium] saphenum,0.23885,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69710,Treponema vincentii,0.222378,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1379,Gemella haemolysans,0.21826,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,40542,Leptotrichia buccalis,0.201787,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,51160,Treponema maltophilum,0.197669,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,157687,Leptotrichia wadei,0.197669,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1326,Streptococcus acidominimus,0.193551,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76122,Alloprevotella tannerae,0.164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,29466,Veillonella parvula,0.164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28132,Prevotella melaninogenica,0.148252,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,135083,Selenomonas noxia,0.140016,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,341694,Peptostreptococcus stomatis,0.127661,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,199,Campylobacter concisus,0.119425,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2121,Mycoplasma orale,0.107071,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,43768,Corynebacterium matruchotii,0.107071,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1015,Bergeyella zoohelcum,0.0988346,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,467210,Lachnoanaerobaculum saburreum,0.0988346,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,158,Treponema denticola,0.0988346,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,218538,Dialister invisus,0.0947165,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2124,Mycoplasma salivarium,0.078244,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,671224,Selenomonas artemidis,0.0741259,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,860,Fusobacterium periodonticum,0.0741259,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,135082,Selenomonas infelix,0.0700078,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28133,Prevotella nigrescens,0.0700078,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,55507,Schwartzia succinivorans,0.0617716,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1659,Actinomyces israelii,0.0617716,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2718,Cardiobacterium hominis,0.0494173,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,840,Prevotella loescheii,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39950,Dialister pneumosintes,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,189722,Prevotella marshii,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114527,Mogibacterium diversum,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,157692,Leptotrichia goodfellowii,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,114528,Mogibacterium neglectum,0.0411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,41976,Porphyromonas catoniae,0.0411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,81467,Aminobacterium mobile,0.037063,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2741,Peptococcus niger,0.0329449,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76123,Prevotella enoeca,0.0329449,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,143393,[Eubacterium] sulci,0.0288268,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,69823,Selenomonas sputigena,0.0288268,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,638849,Pyramidobacter piscolens,0.0247086,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,495,Neisseria elongata,0.0247086,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28136,Prevotella oulorum,0.0247086,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28135,Prevotella oris,0.0247086,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,77098,Halomonas pacifica,0.0205905,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,281920,Porphyromonas uenonis,0.0205905,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,189723,Prevotella micans,0.0205905,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28125,Prevotella bivia,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,633701,Prevotella saccharolytica,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,92406,Mycoplasma spumans,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,2047,Rothia dentocariosa,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,43997,Catonella morbi,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,53419,Treponema socranskii,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,732,Aggregatibacter aphrophilus,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,142649,Mycoplasma phocicerebrale,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,156456,Anaeroglobus geminatus,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1338,Streptococcus intermedius,0.0123543,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1655,Actinomyces naeslundii,0.0123543,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1750,Propionibacterium propionicum,0.0123543,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,76124,[Eubacterium] minutum,0.0123543,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,133926,Olsenella uli,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,43995,Johnsonella ignava,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52769,Actinomyces gerencseriae,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,305719,Prevotella baroniae,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,86332,Mogibacterium pumilum,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,167964,Anaerolinea thermophila,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,81468,Aminobacterium colombiense,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39029,Megasphaera cerevisiae,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,439703,Prevotella maculosa,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,39778,Veillonella dispar,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,185294,Prevotella paludivivens,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28091,Neisseria weaveri,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,52773,Actinomyces meyeri,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1392,Bacillus anthracis,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1660,Actinomyces odontolyticus,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,59505,Actinotignum schaalii,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,38313,Shewanella algae,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,237258,Cloacibacterium normanense,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,35518,[Eubacterium] nodatum,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28129,Prevotella denticola,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,181487,Actinomyces cardiffensis,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,488,Neisseria mucosa,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,28134,Prevotella oralis,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,483,Neisseria cinerea,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,44742,Desulfovibrio fairfieldensis,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1144673,Acinetobacter sp. CIP 64.7,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,1131707,Sphaerochaeta pleomorpha,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,177972,Shuttleworthia satelles,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,species,-1,Unknown,1.76667,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,848,Fusobacterium,52.3123,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,543311,Parvimonas,10.0358,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,194,Campylobacter,7.07903,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,346096,Paludibacter,5.18058,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1301,Streptococcus,3.89573,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1016,Capnocytophaga,3.3892,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,195950,Tannerella,3.31096,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,44259,Filifactor,2.30614,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,836,Porphyromonas,2.2979,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,482,Neisseria,1.0913,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,157,Treponema,0.535354,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,838,Prevotella,0.473582,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,86331,Mogibacterium,0.448874,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,32067,Leptotrichia,0.444756,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,909656,Phocaeicola,0.444756,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,970,Selenomonas,0.312976,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,538,Eikenella,0.308858,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,118747,Bulleidia,0.251205,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1378,Gemella,0.21826,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2093,Mycoplasma,0.21826,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,29465,Veillonella,0.168842,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1283313,Alloprevotella,0.164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,39948,Dialister,0.140016,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1257,Peptostreptococcus,0.127661,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1716,Corynebacterium,0.107071,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1164882,Lachnoanaerobaculum,0.0988346,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,59735,Bergeyella,0.0988346,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1654,Actinomyces,0.0947165,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,55506,Schwartzia,0.0617716,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2717,Cardiobacterium,0.0494173,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,81466,Aminobacterium,0.0452992,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2740,Peptococcus,0.0329449,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,638847,Pyramidobacter,0.0247086,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,2745,Halomonas,0.0205905,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,156454,Anaeroglobus,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,416916,Aggregatibacter,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,43996,Catonella,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,32207,Rothia,0.0164724,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,22,Shewanella,0.0123543,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,906,Megasphaera,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,133925,Olsenella,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,43994,Johnsonella,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,233189,Anaerolinea,0.00823621,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,469,Acinetobacter,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1386,Bacillus,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,399320,Sphaerochaeta,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,501783,Cloacibacterium,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,872,Desulfovibrio,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,177971,Shuttleworthia,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,1653174,Actinotignum,0.00411811,SRR5942125,,,38,Male,Moderate Chronic Periodontitis
+D055113,Chronic Periodontitis,genus,-1,Unknown,3.0474,SRR5942125,,,38,Male,Moderate Chronic Periodontitis

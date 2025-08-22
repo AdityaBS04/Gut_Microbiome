@@ -1,0 +1,363 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D000086382,COVID-19,species,1531,[Clostridium] clostridioforme,21.13,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,328812,Parabacteroides goldsteinii,12.2775,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,208479,[Clostridium] bolteae,11.0061,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,154046,Hungatella hathewayi,7.97675,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,853,Faecalibacterium prausnitzii,7.81078,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,33945,Enterococcus avium,7.7572,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,33038,[Ruminococcus] gnavus,5.46782,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,823,Parabacteroides distasonis,3.46593,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,28116,Bacteroides ovatus,2.30565,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,658082,Lachnospiraceae bacterium 2_1_58FAA,0.87163,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,471189,Gordonibacter pamelaeae,0.73715,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,1512,[Clostridium] symbiosum,0.44205,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,457421,Clostridiales bacterium 1_7_47FAA,0.41699,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,292800,Flavonifractor plautii,0.40076,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,33039,[Ruminococcus] torques,0.19211,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,74426,Collinsella aerofaciens,0.18872,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,216816,Bifidobacterium longum,0.1607,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,1351,Enterococcus faecalis,0.15711,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,0.15341,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,261299,Intestinibacter bartlettii,0.12375,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,358743,[Clostridium] citroniae,0.11017,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,84026,[Clostridium] methylpentosum,0.09435,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.08271,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.07111,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,658657,Erysipelotrichaceae bacterium 21_3,0.05817,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,333367,[Clostridium] asparagiforme,0.05749,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,1522,[Clostridium] innocuum,0.03426,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,169435,Anaerotruncus colihominis,0.02978,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,626935,Collinsella tanakaei,0.02734,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,820,Bacteroides uniformis,0.02729,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,821,Bacteroides vulgatus,0.01433,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,40518,Ruminococcus bromii,0.01246,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,84112,Eggerthella lenta,0.01234,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,88431,Dorea longicatena,0.00683,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,817,Bacteroides fragilis,0.00392,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,-1e-05,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1485,Clostridium,40.8169,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,375288,Parabacteroides,31.6003,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,7.91431,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,216851,Faecalibacterium,7.81078,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,572511,Blautia,5.65993,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,816,Bacteroides,2.35119,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,186928,unclassified Lachnospiraceae,0.87163,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,644652,Gordonibacter,0.73715,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,186813,unclassified Clostridiales,0.41699,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,946234,Flavonifractor,0.40076,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,433334,unclassified Erysipelotrichaceae,0.24625,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,102106,Collinsella,0.21606,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,292632,Subdoligranulum,0.16077,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1678,Bifidobacterium,0.1607,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,0.15341,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,200630,unclassified Peptostreptococcaceae,0.12375,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,84111,Eggerthella,0.11283,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,459786,Oscillibacter,0.10447,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,189330,Dorea,0.04184,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,244127,Anaerotruncus,0.02978,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,561,Escherichia,0.02239,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,239759,Alistipes,0.02101,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1263,Ruminococcus,0.01246,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,35832,Bilophila,0.01186,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,100883,Coprobacillus,0.0025,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,-1.42109e-14,SRR12328886,,China,71,Female,covid-19
+D000086382,COVID-19,species,33945,Enterococcus avium,89.3698,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,7.79002,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,328812,Parabacteroides goldsteinii,1.27872,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,97478,Lactobacillus mucosae,0.31363,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,1351,Enterococcus faecalis,0.05556,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,1262,Peptostreptococcus sp.,0.04943,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,29466,Veillonella parvula,0.03788,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,208479,[Clostridium] bolteae,0.02489,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,33038,[Ruminococcus] gnavus,0.02438,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,154046,Hungatella hathewayi,0.01527,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,55565,Actinomyces graevenitzii,0.01283,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,28116,Bacteroides ovatus,0.0125,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,341694,Peptostreptococcus stomatis,0.01232,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,471189,Gordonibacter pamelaeae,0.0096,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,823,Parabacteroides distasonis,0.00722,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,1382,Atopobium parvulum,0.00598,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,68892,Streptococcus infantis,0.00547,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,1282,Staphylococcus epidermidis,0.00356,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,39778,Veillonella dispar,0.00336,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,39491,[Eubacterium] rectale,0.00144,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,0.06359,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,89.4254,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,7.79549,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,375288,Parabacteroides,2.13334,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1578,Lactobacillus,0.37722,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,29465,Veillonella,0.09029,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1257,Peptostreptococcus,0.06175,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1485,Clostridium,0.04017,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,572511,Blautia,0.02438,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1654,Actinomyces,0.01283,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,816,Bacteroides,0.0125,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,644652,Gordonibacter,0.0096,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,117563,Granulicatella,0.00609,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1380,Atopobium,0.00598,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1279,Staphylococcus,0.00356,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1730,Eubacterium,0.00144,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,1.42109e-14,SRR12328887,,China,71,Female,covid-19
+D000086382,COVID-19,species,33945,Enterococcus avium,94.2507,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,4.77227,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,97478,Lactobacillus mucosae,0.42984,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,68892,Streptococcus infantis,0.15748,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,29466,Veillonella parvula,0.09038,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1262,Peptostreptococcus sp.,0.0494,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,341694,Peptostreptococcus stomatis,0.01414,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,39778,Veillonella dispar,0.00703,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1382,Atopobium parvulum,0.00622,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,46124,Granulicatella adiacens,0.00556,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1282,Staphylococcus epidermidis,0.00486,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1304,Streptococcus salivarius,0.00393,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,68891,Streptococcus peroris,0.00326,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,39491,[Eubacterium] rectale,0.00153,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,33964,Leuconostoc citreum,0.00084,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,0.12365,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,94.2507,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,4.93694,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1578,Lactobacillus,0.55349,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,29465,Veillonella,0.16808,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1257,Peptostreptococcus,0.06354,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1380,Atopobium,0.00622,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,117563,Granulicatella,0.00556,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1279,Staphylococcus,0.00486,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1284678,unclassified Clostridiales Family XIII. Incertae Sedis,0.00352,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1730,Eubacterium,0.00153,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1243,Leuconostoc,0.00084,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,133925,Olsenella,0.00034,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,0.00434,SRR12328888,,China,71,Female,covid-19
+D000086382,COVID-19,species,1680,Bifidobacterium adolescentis,40.9694,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1623,Lactobacillus ruminis,25.2607,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,33039,[Ruminococcus] torques,6.01904,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,39485,[Eubacterium] eligens,5.39354,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,40520,Blautia obeum,4.82459,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1351,Enterococcus faecalis,4.03127,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,360807,Roseburia inulinivorans,3.49714,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,208479,[Clostridium] bolteae,2.42869,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1689,Bifidobacterium dentium,2.37412,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,437897,Megamonas funiformis,0.5429,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,358743,[Clostridium] citroniae,0.38238,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,40545,Sutterella wadsworthensis,0.30479,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,0.21932,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,292800,Flavonifractor plautii,0.18288,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,562,Escherichia coli,0.15464,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,573,Klebsiella pneumoniae,0.15228,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,97478,Lactobacillus mucosae,0.13004,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1624,Lactobacillus salivarius,0.10092,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,357276,Bacteroides dorei,0.06918,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,55565,Actinomyces graevenitzii,0.05589,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,43675,Rothia mucilaginosa,0.03385,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,28116,Bacteroides ovatus,0.03236,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,154046,Hungatella hathewayi,0.02906,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.02149,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1660,Actinomyces odontolyticus,0.02021,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,729,Haemophilus parainfluenzae,0.01856,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1512,[Clostridium] symbiosum,0.01653,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1305,Streptococcus sanguinis,0.01162,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,102684,Streptococcus infantarius,0.00844,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,46125,Abiotrophia defectiva,0.00612,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1382,Atopobium parvulum,0.00482,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1750,Propionibacterium propionicum,0.00459,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.00439,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00436,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,487175,Parasutterella excrementihominis,0.004,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,45634,Streptococcus cristatus,0.00375,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,158847,Megamonas hypermegale,0.00333,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,113107,Streptococcus australis,0.0032,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,823,Parabacteroides distasonis,0.0029,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,261299,Intestinibacter bartlettii,0.00244,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,29466,Veillonella parvula,0.00224,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1655,Actinomyces naeslundii,0.00207,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,820,Bacteroides uniformis,0.00173,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,84135,Gemella sanguinis,0.00165,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,46506,Bacteroides stercoris,0.00081,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,169435,Anaerotruncus colihominis,0.00071,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1522,[Clostridium] innocuum,0.00062,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1490,Paraclostridium bifermentans,0.00049,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,33964,Leuconostoc citreum,0.00043,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,0.00155,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1678,Bifidobacterium,43.3435,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1578,Lactobacillus,25.4917,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,572511,Blautia,10.8436,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1730,Eubacterium,5.39354,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,4.03127,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,841,Roseburia,3.49714,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1485,Clostridium,2.85666,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,158846,Megamonas,2.83613,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,459786,Oscillibacter,0.31891,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,40544,Sutterella,0.30479,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,0.24789,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,946234,Flavonifractor,0.18288,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,561,Escherichia,0.15464,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,570,Klebsiella,0.15228,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,816,Bacteroides,0.10408,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1654,Actinomyces,0.07817,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,32207,Rothia,0.03385,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,200630,unclassified Peptostreptococcaceae,0.02673,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,433334,unclassified Erysipelotrichaceae,0.0265,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,724,Haemophilus,0.01856,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,196081,Scardovia,0.00759,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,29465,Veillonella,0.00656,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,46123,Abiotrophia,0.00612,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1380,Atopobium,0.00482,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,117563,Granulicatella,0.00471,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1743,Propionibacterium,0.00459,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,186928,unclassified Lachnospiraceae,0.00436,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,577310,Parasutterella,0.004,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1243,Leuconostoc,0.00355,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,375288,Parabacteroides,0.0029,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1378,Gemella,0.00165,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,133925,Olsenella,0.00083,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,244127,Anaerotruncus,0.00071,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,0.00478,SRR12328889,,China,46,Female,covid-19
+D000086382,COVID-19,species,1680,Bifidobacterium adolescentis,26.6558,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,39485,[Eubacterium] eligens,13.5016,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1623,Lactobacillus ruminis,12.7142,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,360807,Roseburia inulinivorans,10.3052,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,40520,Blautia obeum,5.30822,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,33039,[Ruminococcus] torques,3.74963,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,562,Escherichia coli,2.88814,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1351,Enterococcus faecalis,2.38073,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,208479,[Clostridium] bolteae,1.75233,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,437897,Megamonas funiformis,1.61618,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,357276,Bacteroides dorei,1.47999,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,40545,Sutterella wadsworthensis,1.15253,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,154046,Hungatella hathewayi,0.70502,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,573,Klebsiella pneumoniae,0.6722,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,358743,[Clostridium] citroniae,0.33174,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,749535,Klebsiella sp. MS 92-3,0.27967,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,292800,Flavonifractor plautii,0.25215,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1689,Bifidobacterium dentium,0.24823,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,97478,Lactobacillus mucosae,0.23147,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,28116,Bacteroides ovatus,0.22292,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,0.20847,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1531,[Clostridium] clostridioforme,0.18936,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,729,Haemophilus parainfluenzae,0.13903,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,46506,Bacteroides stercoris,0.08261,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,820,Bacteroides uniformis,0.08163,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,29466,Veillonella parvula,0.06375,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,55565,Actinomyces graevenitzii,0.05599,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1512,[Clostridium] symbiosum,0.04866,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,169435,Anaerotruncus colihominis,0.04673,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,823,Parabacteroides distasonis,0.04645,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1624,Lactobacillus salivarius,0.03225,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,261299,Intestinibacter bartlettii,0.02817,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,158847,Megamonas hypermegale,0.01922,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1490,Paraclostridium bifermentans,0.01565,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,469614,Erysipelotrichaceae bacterium 6_1_45,0.01465,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,876,Desulfovibrio desulfuricans,0.01391,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1660,Actinomyces odontolyticus,0.01155,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,43675,Rothia mucilaginosa,0.01082,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1305,Streptococcus sanguinis,0.0108,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,658087,Lachnospiraceae bacterium 7_1_58FAA,0.00908,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1382,Atopobium parvulum,0.00887,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,46125,Abiotrophia defectiva,0.00812,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,487175,Parasutterella excrementihominis,0.00731,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,69393,Pantoea sp.,0.00582,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1750,Propionibacterium propionicum,0.00542,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,333367,[Clostridium] asparagiforme,0.00451,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,469610,Burkholderiales bacterium 1_1_47,0.00444,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,45634,Streptococcus cristatus,0.00441,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,39778,Veillonella dispar,0.00386,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,457422,Erysipelotrichaceae bacterium 2_2_44A,0.00353,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1655,Actinomyces naeslundii,0.00321,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,187326,Megasphaera micronuciformis,0.00274,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,39777,Veillonella atypica,0.00183,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1328,Streptococcus anginosus,0.00099,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,230143,Scardovia wiggsiae,0.00062,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,457421,Clostridiales bacterium 1_7_47FAA,0.00055,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1656,Actinomyces viscosus,0.00041,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,1522,[Clostridium] innocuum,0.00032,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,84135,Gemella sanguinis,0.00018,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,0.00072,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1678,Bifidobacterium,26.904,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,158846,Megamonas,13.5492,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1730,Eubacterium,13.5016,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1578,Lactobacillus,12.9779,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,841,Roseburia,10.3052,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,572511,Blautia,9.05785,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1485,Clostridium,3.03161,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,561,Escherichia,2.88814,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,2.38073,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,816,Bacteroides,1.86715,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,40544,Sutterella,1.15253,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,570,Klebsiella,0.95187,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,459786,Oscillibacter,0.29185,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,946234,Flavonifractor,0.25215,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,0.22539,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,724,Haemophilus,0.13903,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,29465,Veillonella,0.09342,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,375288,Parabacteroides,0.07905,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1654,Actinomyces,0.07115,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,244127,Anaerotruncus,0.06043,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,200630,unclassified Peptostreptococcaceae,0.04382,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,433334,unclassified Erysipelotrichaceae,0.0185,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,872,Desulfovibrio,0.01391,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,32207,Rothia,0.013,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,186928,unclassified Lachnospiraceae,0.00908,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1380,Atopobium,0.00887,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,46123,Abiotrophia,0.00812,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,577310,Parasutterella,0.00731,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,53335,Pantoea,0.00582,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1743,Propionibacterium,0.00542,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,119065,unclassified Burkholderiales,0.00444,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,196081,Scardovia,0.00316,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,189330,Dorea,0.00315,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,906,Megasphaera,0.00274,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,133925,Olsenella,0.00186,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,117563,Granulicatella,0.00177,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,84111,Eggerthella,0.00101,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,186813,unclassified Clostridiales,0.00055,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,1378,Gemella,0.00018,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,0.06507,SRR12328890,,China,46,Female,covid-19
+D000086382,COVID-19,species,33945,Enterococcus avium,93.2204,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1318,Streptococcus parasanguinis,5.01656,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,43675,Rothia mucilaginosa,0.69749,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,97478,Lactobacillus mucosae,0.11702,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,68892,Streptococcus infantis,0.07053,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,46124,Granulicatella adiacens,0.05901,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,33964,Leuconostoc citreum,0.05603,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1358,Lactococcus lactis,0.03881,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,29466,Veillonella parvula,0.03864,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,328812,Parabacteroides goldsteinii,0.03031,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,28116,Bacteroides ovatus,0.02312,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,823,Parabacteroides distasonis,0.01533,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1262,Peptostreptococcus sp.,0.01297,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,216816,Bifidobacterium longum,0.01014,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,341694,Peptostreptococcus stomatis,0.00836,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1382,Atopobium parvulum,0.00816,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1282,Staphylococcus epidermidis,0.00766,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1583,Weissella confusa,0.00744,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,55565,Actinomyces graevenitzii,0.00484,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1328,Streptococcus anginosus,0.0047,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1246,Leuconostoc lactis,0.00323,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1590,Lactobacillus plantarum,0.00291,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1383,Atopobium rimae,0.00267,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,1363,Lactococcus garvieae,0.00174,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,39778,Veillonella dispar,0.00166,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,156456,Anaeroglobus geminatus,0.0014,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,33968,Leuconostoc pseudomesenteroides,0.00031,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,39491,[Eubacterium] rectale,0.00027,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,species,-1,Unknown,0.06354,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1350,Enterococcus,93.2204,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1301,Streptococcus,5.09179,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,32207,Rothia,0.69749,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,375288,Parabacteroides,0.33691,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,29465,Veillonella,0.21553,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1578,Lactobacillus,0.18348,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1243,Leuconostoc,0.05957,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,117563,Granulicatella,0.05901,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1357,Lactococcus,0.04055,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,816,Bacteroides,0.02312,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1257,Peptostreptococcus,0.02133,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,46255,Weissella,0.01109,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1380,Atopobium,0.01084,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1678,Bifidobacterium,0.01014,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1279,Staphylococcus,0.00766,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1654,Actinomyces,0.00484,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,292632,Subdoligranulum,0.00336,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,156454,Anaeroglobus,0.0014,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,133925,Olsenella,0.00122,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,1730,Eubacterium,0.00027,SRR12328891,,China,71,Female,covid-19
+D000086382,COVID-19,genus,-1,Unknown,-1e-05,SRR12328891,,China,71,Female,covid-19

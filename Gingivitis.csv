@@ -1,0 +1,1280 @@
+mesh_id,disease_name,taxonomic_level,ncbi_taxon_id,scientific_name,relative_abundance,run_id,project_id,country,host_age,sex,phenotype
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,27.2506,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,13.6686,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,36847,[Clostridium] neopropionicum,13.5765,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,9.44664,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,387661,Parabacteroides johnsonii,5.24633,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,4.86153,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,1.64761,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1322,Blautia hansenii,1.36578,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,1.36578,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,853,Faecalibacterium prausnitzii,1.30074,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,31971,[Eubacterium] dolichum,0.872581,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.834643,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.775026,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,360807,Roseburia inulinivorans,0.764186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,0.292667,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,358743,[Clostridium] citroniae,0.287247,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.287247,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.276408,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.22763,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,187327,Acidaminococcus intestini,0.22221,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,487175,Parasutterella excrementihominis,0.184272,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.151753,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.146334,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,0.140914,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,856,Fusobacterium varium,0.124654,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39490,Eubacterium ramulus,0.119235,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.113815,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.102975,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,85831,Bacteroides acidifaciens,0.0812964,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.0812964,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.0758766,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,454154,Paraprevotella clara,0.0704569,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1532,Blautia coccoides,0.0704569,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.0704569,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.0541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,0.0487778,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.0433581,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0433581,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,33038,[Ruminococcus] gnavus,0.0325186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.0325186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,301301,Roseburia hominis,0.0325186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1343,Streptococcus vestibularis,0.0325186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,84112,Eggerthella lenta,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,471189,Gordonibacter pamelaeae,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,58134,[Desulfotomaculum] guttoideum,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,218538,Dialister invisus,0.021679,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1307,Streptococcus suis,0.021679,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39491,[Eubacterium] rectale,0.021679,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,202956,Acinetobacter towneri,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1366,Lactococcus raffinolactis,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,33033,Parvimonas micra,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,33031,Peptoniphilus lacrimalis,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28037,Streptococcus mitis,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1297750,Bacteroides luti,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1308,Streptococcus thermophilus,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39496,Eubacterium ventriosum,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1623,Lactobacillus ruminis,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,59803,Sphingomonas echinoides,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,301302,Roseburia faecis,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1530,Clostridium carnis,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,472113,Geofilum rubicundum,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,83771,Succinivibrio dextrinosolvens,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39484,Eubacterium desmolans,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,106648,Acinetobacter bereziniae,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1507,Clostridium sp. ATCC 29733,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,89014,Blautia luti,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,859,Fusobacterium necrophorum,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,504487,Jejuia pallidilutea,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28090,Acinetobacter lwoffii,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1510,[Clostridium] stercorarium,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,80866,Delftia acidovorans,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,114527,Mogibacterium diversum,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1590651,Paenibacillus sp. VKM B-2647,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1260,Finegoldia magna,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1605,Lactobacillus animalis,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1365,Lactococcus plantarum,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,102148,Solobacterium moorei,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28112,Tannerella forsythia,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,33039,[Ruminococcus] torques,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,536633,Blautia glucerasea,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,691816,Bacteroides rodentium,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,851,Fusobacterium nucleatum,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,180311,Hespellia stercorisuis,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,13.0183,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,59.3572,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,5.25175,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,2.26004,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,1.30074,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.9051,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.807544,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,0.330605,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,0.292667,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.276408,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,0.276408,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.22221,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,577310,Parasutterella,0.184272,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.151753,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,848,Fusobacterium,0.135494,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,0.130074,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,577309,Paraprevotella,0.0704569,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.0541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0433581,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.0433581,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.0325186,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,644652,Gordonibacter,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,84111,Eggerthella,0.0270988,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1357,Lactococcus,0.021679,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.021679,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,543311,Parvimonas,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1578,Lactobacillus,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,162289,Peptoniphilus,0.0162593,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,13687,Sphingomonas,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,83770,Succinivibrio,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1236988,Geofilum,0.0108395,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,80865,Delftia,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,44249,Paenibacillus,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,762551,Jejuia,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,241189,Hespellia,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,86331,Mogibacterium,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,150022,Finegoldia,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,123375,Solobacterium,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,195950,Tannerella,0.00541976,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,13.0399,SRR5942082,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1465754,Alistipes timonensis,46.6175,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,12.4417,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,165179,Prevotella copri,10.6414,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,179995,Anaerobiospirillum thomasii,6.79003,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,3.19442,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,46503,Parabacteroides merdae,3.15431,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,2.05607,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,1.75518,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,1.43925,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,218538,Dialister invisus,1.27877,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,0.817411,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,0.747204,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,187327,Acidaminococcus intestini,0.727145,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.601775,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,0.496465,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,626932,Alistipes indistinctus,0.471391,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,52226,Mitsuokella multacida,0.466376,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,0.401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.310917,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,0.305902,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,817,Bacteroides fragilis,0.285843,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.25074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,876,Desulfovibrio desulfuricans,0.210621,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.185547,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.180533,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.130385,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39485,[Eubacterium] eligens,0.120355,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.110325,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1755610,Alistipes sp. MC_19,0.110325,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1735,Holdemanella biformis,0.100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,907,Megasphaera elsdenii,0.0952811,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,397865,Barnesiella viscericola,0.0802367,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,28111,Bacteroides eggerthii,0.0601775,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,0.0601775,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.0501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,239935,Akkermansia muciniphila,0.0451331,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,44749,Sporobacter termitidis,0.0401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,52787,Anaerofilum pentosovorans,0.0401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,574930,Parabacteroides gordonii,0.0351036,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1680,Bifidobacterium adolescentis,0.0351036,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.0351036,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0300888,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,626930,Bacteroides fluxus,0.0300888,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,328814,Alistipes shahii,0.0300888,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.0300888,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,487175,Parasutterella excrementihominis,0.025074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.025074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.025074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,905,Acidaminococcus fermentans,0.025074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,29370,[Clostridium] sphenoides,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,166486,Roseburia intestinalis,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1630,Kandleria vitulina,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39950,Dialister pneumosintes,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,35519,Mogibacterium timidum,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,29375,[Clostridium] xylanolyticum,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,762210,Bifidobacterium saguini,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1308,Streptococcus thermophilus,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,881,Desulfovibrio vulgaris,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,115979,Bacillus nealsonii,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,33033,Parvimonas micra,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1510,[Clostridium] stercorarium,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39486,Dorea formicigenerans,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,562,Escherichia coli,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,133926,Olsenella uli,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,410072,Coprococcus comes,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1144673,Acinetobacter sp. CIP 64.7,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,261299,Intestinibacter bartlettii,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39498,[Eubacterium] yurii,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,76517,Campylobacter hominis,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39492,[Eubacterium] siraeum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,84031,Clostridium sartagoforme,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,33043,Coprococcus eutactus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,729,Haemophilus parainfluenzae,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,871324,Bacteroides stercorirosoris,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,191579,Fluviicola taffensis,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,39484,Eubacterium desmolans,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1502,Clostridium perfringens,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,47880,Pseudomonas fulva,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,40519,Ruminococcus callidus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1077256,Methanosphaera cuniculi,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,574375,Bacillus gaemokensis,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,216816,Bifidobacterium longum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1624,Lactobacillus salivarius,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,137732,Granulicatella elegans,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,2741,Peptococcus niger,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,84032,[Clostridium] thermosuccinogenes,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1559,Clostridium tertium,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,29354,[Clostridium] celerecrescens,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,291645,Bacteroides nordii,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,309120,Dialister micraerophilus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,437898,Sutterella parvirubra,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,851,Fusobacterium nucleatum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,134605,Fusobacterium equinum,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,714549,Hydrotalea flava,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,2.35194,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,50.4438,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,19.8084,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,838,Prevotella,10.6414,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,13334,Anaerobiospirillum,6.79003,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,3.23956,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,1.30385,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,0.817411,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.752219,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,0.571686,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,0.496465,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,52225,Mitsuokella,0.466376,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,0.401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.310917,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.235695,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.220651,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,872,Desulfovibrio,0.220651,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,0.120355,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1573535,Holdemanella,0.100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,906,Megasphaera,0.0952811,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,397864,Barnesiella,0.0802367,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1678,Bifidobacterium,0.0551627,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,239934,Akkermansia,0.0451331,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,44748,Sporobacter,0.0401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,52784,Anaerofilum,0.0401183,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0300888,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,577310,Parasutterella,0.025074,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1279388,Kandleria,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.0200592,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,86331,Mogibacterium,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,33042,Coprococcus,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1386,Bacillus,0.0150444,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,133925,Olsenella,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,848,Fusobacterium,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,543311,Parvimonas,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,189330,Dorea,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,561,Escherichia,0.0100296,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,2740,Peptococcus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,332102,Fluviicola,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,724,Haemophilus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,40544,Sutterella,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1263,Ruminococcus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1004300,Hydrotalea,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1578,Lactobacillus,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,117563,Granulicatella,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,286,Pseudomonas,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,2316,Methanosphaera,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,194,Campylobacter,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,1505657,Intestinibacter,0.00501479,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,2.35194,SRR5942091,,,33,Female,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,24.1373,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,41976,Porphyromonas catoniae,11.0984,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,483,Neisseria cinerea,6.70085,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,851,Fusobacterium nucleatum,3.50227,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1018,Capnocytophaga ochracea,3.49438,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,860,Fusobacterium periodonticum,3.23802,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28037,Streptococcus mitis,3.11576,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,488,Neisseria mucosa,2.90278,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,425941,Prevotella nanceiensis,2.81996,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,118748,Bulleidia extructa,2.73319,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28091,Neisseria weaveri,2.62276,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28132,Prevotella melaninogenica,2.51233,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28161,Bisgaard Taxon 7,2.43344,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,729,Haemophilus parainfluenzae,2.35457,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,60133,Prevotella pallens,1.95228,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,33033,Parvimonas micra,1.35673,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1379,Gemella haemolysans,0.985999,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,29466,Veillonella parvula,0.966279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1017,Capnocytophaga gingivalis,0.918951,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,341694,Peptostreptococcus stomatis,0.883455,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,204,Campylobacter showae,0.773023,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,29434,Neisseria pharyngis,0.705975,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,185300,Paludibacter propionicigenes,0.694143,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,143393,[Eubacterium] sulci,0.682311,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28112,Tannerella forsythia,0.634983,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,143361,Filifactor alocis,0.516663,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,346665,Moraxella boevrei,0.485111,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,652716,Prevotella sp. oral taxon 299,0.465391,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,199,Campylobacter concisus,0.441727,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1015,Bergeyella zoohelcum,0.429895,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39777,Veillonella atypica,0.410176,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,43675,Rothia mucilaginosa,0.402288,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,45242,Capnocytophaga granulosa,0.390456,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,824,Campylobacter gracilis,0.370736,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39498,[Eubacterium] yurii,0.331296,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,40542,Leptotrichia buccalis,0.260304,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,596085,Prevotella aurantiaca,0.252416,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,495,Neisseria elongata,0.240584,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28131,Prevotella intermedia,0.228752,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1382,Atopobium parvulum,0.220864,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.201144,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,589437,Prevotella scopos,0.1972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,114527,Mogibacterium diversum,0.1972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28135,Prevotella oris,0.189312,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,726,Haemophilus haemolyticus,0.181424,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,39778,Veillonella dispar,0.173536,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2121,Mycoplasma orale,0.173536,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,157692,Leptotrichia goodfellowii,0.165648,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28124,Porphyromonas endodontalis,0.145928,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,736,Haemophilus paraphrohaemolyticus,0.126208,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,493,Neisseria canis,0.122264,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,496,Neisseria macacae,0.110432,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,739,Aggregatibacter segnis,0.0985999,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,69710,Treponema vincentii,0.0985999,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,467210,Lachnoanaerobaculum saburreum,0.0907119,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,76122,Alloprevotella tannerae,0.0867679,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,114702,Actinomyces lingnae,0.0867679,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,114528,Mogibacterium neglectum,0.0788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1383,Atopobium rimae,0.0788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1660,Actinomyces odontolyticus,0.0749359,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1162717,Streptobacillus hongkongensis,0.0749359,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28133,Prevotella nigrescens,0.0709919,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,732,Aggregatibacter aphrophilus,0.0709919,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,51160,Treponema maltophilum,0.0670479,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,135082,Selenomonas infelix,0.0631039,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,35517,[Eubacterium] brachy,0.0552159,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1308,Streptococcus thermophilus,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,228604,Prevotella salivae,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,51123,[Eubacterium] saphenum,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,840,Prevotella loescheii,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,35518,[Eubacterium] nodatum,0.0433839,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0433839,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,137732,Granulicatella elegans,0.03944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,539,Eikenella corrodens,0.03944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1328,Streptococcus anginosus,0.03944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,157687,Leptotrichia wadei,0.035496,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1280,Staphylococcus aureus,0.035496,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,47671,Lautropia mirabilis,0.035496,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2124,Mycoplasma salivarium,0.031552,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,727,Haemophilus influenzae,0.031552,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28136,Prevotella oulorum,0.031552,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1338,Streptococcus intermedius,0.031552,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1719,Corynebacterium pseudotuberculosis,0.031552,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,43768,Corynebacterium matruchotii,0.027608,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,310298,Bacteroides coprocola,0.027608,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,338188,Bacteroides finegoldii,0.027608,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1326,Streptococcus acidominimus,0.027608,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,189723,Prevotella micans,0.027608,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,103621,Actinomyces urogenitalis,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,69823,Selenomonas sputigena,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,218538,Dialister invisus,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,691816,Bacteroides rodentium,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,36741,Mycoplasma feliminutum,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,53418,Treponema lecithinolyticum,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,35519,Mogibacterium timidum,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,735,Haemophilus parahaemolyticus,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1307,Streptococcus suis,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2741,Peptococcus niger,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,86332,Mogibacterium pumilum,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,158,Treponema denticola,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1750,Propionibacterium propionicum,0.015776,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1655,Actinomyces naeslundii,0.015776,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1313,Streptococcus pneumoniae,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1656,Actinomyces viscosus,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,44737,Capnocytophaga sp.,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28125,Prevotella bivia,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,92406,Mycoplasma spumans,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,633701,Prevotella saccharolytica,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,407975,Prevotella pleuritidis,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,135083,Selenomonas noxia,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,470565,Prevotella histicola,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2047,Rothia dentocariosa,0.011832,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,189722,Prevotella marshii,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,29385,Staphylococcus saprophyticus,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,163,Treponema bryantii,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1659,Actinomyces israelii,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,76123,Prevotella enoeca,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,86333,Mogibacterium vescum,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,55507,Schwartzia succinivorans,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,671224,Selenomonas artemidis,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,43995,Johnsonella ignava,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,133926,Olsenella uli,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,103892,Veillonella ratti,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,85338,Rothia sp. CCUG 25688,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,43997,Catonella morbi,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2718,Cardiobacterium hominis,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,29317,Actinomyces sp.,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28158,Bisgaard Taxon 3,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1356,Enterococcus sulfureus,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,29529,Chitinophaga arvensicola,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,177972,Shuttleworthia satelles,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28129,Prevotella denticola,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,44933,Halomonas cupida,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28901,Salmonella enterica,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,228603,Prevotella shahii,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,871325,Bacteroides faecichinchillae,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,76860,Streptococcus constellatus,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,142649,Mycoplasma phocicerebrale,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,181487,Actinomyces cardiffensis,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,439703,Prevotella maculosa,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,552357,Shewanella fodinae,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,562,Escherichia coli,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28232,Geobacter metallireducens,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,281920,Porphyromonas uenonis,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,52773,Actinomyces meyeri,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1114042,Weissella sp. NBRC 107219,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,28126,Prevotella buccae,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,2748,Carnobacterium divergens,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,489,Neisseria polysaccharea,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,52227,Prevotella dentalis,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,46125,Abiotrophia defectiva,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,305719,Prevotella baroniae,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,78259,Scardovia inopinata,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,164,Treponema pectinovorum,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,65058,Corynebacterium ulcerans,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,5.69907,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,27.6356,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,482,Neisseria,13.4096,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,836,Porphyromonas,11.2483,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,838,Prevotella,8.9292,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,848,Fusobacterium,6.74029,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1016,Capnocytophaga,4.81562,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,118747,Bulleidia,2.73319,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,724,Haemophilus,2.71347,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,194,Campylobacter,1.58549,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,29465,Veillonella,1.55788,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,543311,Parvimonas,1.35673,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1378,Gemella,0.985999,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1257,Peptostreptococcus,0.883455,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,346096,Paludibacter,0.694143,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,195950,Tannerella,0.634983,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,44259,Filifactor,0.516663,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,475,Moraxella,0.485111,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,32067,Leptotrichia,0.461447,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,59735,Bergeyella,0.429895,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,32207,Rothia,0.422008,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,86331,Mogibacterium,0.323408,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1380,Atopobium,0.299744,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2093,Mycoplasma,0.244528,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1654,Actinomyces,0.23664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,157,Treponema,0.21692,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,416916,Aggregatibacter,0.169592,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,0.13804,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,970,Selenomonas,0.106488,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1164882,Lachnoanaerobaculum,0.0907119,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1283313,Alloprevotella,0.0867679,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,34104,Streptobacillus,0.0749359,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1716,Corynebacterium,0.0631039,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0473279,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1279,Staphylococcus,0.0433839,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,538,Eikenella,0.03944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,117563,Granulicatella,0.03944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,47670,Lautropia,0.035496,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.023664,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2740,Peptococcus,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.01972,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.015776,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,43996,Catonella,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,43994,Johnsonella,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,133925,Olsenella,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2717,Cardiobacterium,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,55506,Schwartzia,0.00788799,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,79328,Chitinophaga,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,196081,Scardovia,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,1350,Enterococcus,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,46255,Weissella,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,561,Escherichia,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,590,Salmonella,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,2747,Carnobacterium,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,46123,Abiotrophia,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,177971,Shuttleworthia,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,28231,Geobacter,0.003944,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,6.5352,SRR5942093,,,21,Female,Gingivitis
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,31.0098,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,122355,Pseudomonas psychrophila,12.9915,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,5.13962,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,40518,Ruminococcus bromii,4.00902,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,43131,Tissierella praeacuta,3.31167,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,3.13659,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,584,Proteus mirabilis,2.82798,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,2.72412,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,2.47782,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,2.0149,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,1.83982,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,310298,Bacteroides coprocola,1.74486,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,1.54604,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,1.42437,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,516075,Providencia sneebia,1.31161,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,588,Providencia stuartii,1.10686,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,183417,Proteus hauseri,1.02674,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39492,[Eubacterium] siraeum,0.854625,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,626932,Alistipes indistinctus,0.738894,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.715155,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.682513,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.667676,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,46503,Parabacteroides merdae,0.661741,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,33043,Coprococcus eutactus,0.53414,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,310297,Bacteroides plebeius,0.519303,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,329854,Bacteroides intestinalis,0.486661,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,341225,[Clostridium] saccharogumia,0.439182,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,328814,Alistipes shahii,0.397638,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,0.320484,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,29348,[Clostridium] spiroforme,0.317517,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,40216,Acinetobacter radioresistens,0.30268,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,36835,[Clostridium] colinum,0.264103,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39485,[Eubacterium] eligens,0.249266,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39486,Dorea formicigenerans,0.237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1161942,Ruminococcus champanellensis,0.186949,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,397865,Barnesiella viscericola,0.183982,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,562,Escherichia coli,0.160242,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,187327,Acidaminococcus intestini,0.157275,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.145405,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.133535,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,2173,Methanobrevibacter smithii,0.133535,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.1276,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1249,Weissella paramesenteroides,0.11573,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,291645,Bacteroides nordii,0.112763,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39496,Eubacterium ventriosum,0.103861,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,270498,Catabacter hongkongensis,0.100893,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,0.0949583,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,40324,Stenotrophomonas maltophilia,0.0919909,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,179995,Anaerobiospirillum thomasii,0.0890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,166486,Roseburia intestinalis,0.0830885,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,626937,Christensenella minuta,0.0712187,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,239935,Akkermansia muciniphila,0.0682513,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1680,Bifidobacterium adolescentis,0.0652838,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1755629,Victivallis sp. MC_44,0.0652838,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,317,Pseudomonas syringae,0.0652838,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,126385,Providencia alcalifaciens,0.0593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,40519,Ruminococcus callidus,0.0593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39497,Eubacterium xylanophilum,0.0563815,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0563815,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,328812,Parabacteroides goldsteinii,0.053414,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,901,Desulfovibrio piger,0.0504466,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1559,Clostridium tertium,0.0445117,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1465754,Alistipes timonensis,0.0445117,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,521157,Weissella sp. KLDS 7.0701,0.0445117,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,0.0415443,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,44749,Sporobacter termitidis,0.0385768,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,585,Proteus vulgaris,0.0385768,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,253239,Ethanoligenens harbinense,0.0356094,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,762210,Bifidobacterium saguini,0.0296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.0296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,84032,[Clostridium] thermosuccinogenes,0.0296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,137591,Weissella cibaria,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,29356,Clostridium chartatabidum,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,301301,Roseburia hominis,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1358,Lactococcus lactis,0.0237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,589436,Prevotella fusca,0.0237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,79681,Tissierella creatinophila,0.0237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,328813,Alistipes onderdonkii,0.0237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1352,Enterococcus faecium,0.0207721,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,33069,Pseudomonas viridiflava,0.0207721,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.0207721,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,31971,[Eubacterium] dolichum,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1646377,Rouxiella sp. 323,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,470863,Virgibacillus sp. YIM C834,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,35833,Bilophila wadsworthia,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,29369,Clostridium sardiniense,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,52787,Anaerofilum pentosovorans,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,37734,Enterococcus casseliflavus,0.0148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28135,Prevotella oris,0.0148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,48256,[Clostridium] hungatei,0.0148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,114527,Mogibacterium diversum,0.0148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,626930,Bacteroides fluxus,0.0148372,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.0118698,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,437898,Sutterella parvirubra,0.0118698,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1522,[Clostridium] innocuum,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,470,Acinetobacter baumannii,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,182710,Oceanobacillus iheyensis,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,536633,Blautia glucerasea,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,29375,[Clostridium] xylanolyticum,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1265,Ruminococcus flavefaciens,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,44933,Halomonas cupida,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,487175,Parasutterella excrementihominis,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39482,[Eubacterium] contortum,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,33035,Blautia producta,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,338188,Bacteroides finegoldii,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,33039,[Ruminococcus] torques,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1755607,Bacteroides sp. MC_16,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,106648,Acinetobacter bereziniae,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,882211,Pseudomonas deceptionensis,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,871324,Bacteroides stercorirosoris,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1114067,Weissella sp. NBRC 107245,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,645466,Anaerostipes butyraticus,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1623,Lactobacillus ruminis,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1507,Clostridium sp. ATCC 29733,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1113696,Halomonas sp. NBRC 100990,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,703,Plesiomonas shigelloides,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,78342,Bifidobacterium gallicum,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1519,Clostridium tyrobutyricum,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,105841,Anaerostipes caccae,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,381706,Oceanobacillus chironomi,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1547,Erysipelatoclostridium ramosum,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,41276,Brevundimonas vesicularis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,592978,Ruminococcus faecis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,650643,Alistipes sp. RMA 9912,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1421,Lysinibacillus sphaericus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,39950,Dialister pneumosintes,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1540,Clostridioides mangenotii,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28158,Bisgaard Taxon 3,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,84112,Eggerthella lenta,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,824,Campylobacter gracilis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1715347,Garciella sp. YIM G1-1,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,714549,Hydrotalea flava,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1077256,Methanosphaera cuniculi,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,115979,Bacillus nealsonii,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,36847,[Clostridium] neopropionicum,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,303241,Lactobacillus oeni,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,114528,Mogibacterium neglectum,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1510,[Clostridium] stercorarium,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,216931,Spiroplasma alleghenense,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,42565,Halomonas salina,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28038,Lactobacillus curvatus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,43143,Tissierella creatinini,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,29370,[Clostridium] sphenoides,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,516074,Providencia burhodogranariea,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,33953,Clostridium aminobutyricum,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1246,Leuconostoc lactis,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,1570,Halobacillus halophilus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,7.73613,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,49.773,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,286,Pseudomonas,13.0835,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1263,Ruminococcus,4.26719,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,3.95857,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,583,Proteus,3.89329,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,41273,Tissierella,3.33838,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,586,Providencia,2.48079,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,2.47782,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,1.95852,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1505663,Erysipelatoclostridium,0.768569,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,0.718122,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.682513,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,33042,Coprococcus,0.53414,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,0.409508,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,0.320484,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.317517,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1506577,Tyzzerella,0.264103,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,189330,Dorea,0.237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.207721,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,46255,Weissella,0.192884,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,397864,Barnesiella,0.183982,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,0.169144,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,561,Escherichia,0.160242,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.157275,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,2172,Methanobrevibacter,0.133535,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.1276,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.109796,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.100893,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,270497,Catabacter,0.100893,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1678,Bifidobacterium,0.100893,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,40323,Stenotrophomonas,0.0919909,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,13334,Anaerobiospirillum,0.0890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0741862,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,990721,Christensenella,0.0712187,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,239934,Akkermansia,0.0682513,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,172900,Victivallis,0.0652838,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,872,Desulfovibrio,0.0504466,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.0445117,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,0.0415443,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,838,Prevotella,0.0385768,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,44748,Sporobacter,0.0385768,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1350,Enterococcus,0.0356094,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,253238,Ethanoligenens,0.0356094,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,182709,Oceanobacillus,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.026707,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1357,Lactococcus,0.0237396,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,86331,Mogibacterium,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1565532,Rouxiella,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,35832,Bilophila,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,52784,Anaerofilum,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,84406,Virgibacillus,0.0178047,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1578,Lactobacillus,0.0118698,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,40544,Sutterella,0.0118698,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,577310,Parasutterella,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,207244,Anaerostipes,0.00890234,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,702,Plesiomonas,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.00593489,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,2316,Methanosphaera,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1870884,Clostridioides,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,45667,Halobacillus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1243,Leuconostoc,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,41275,Brevundimonas,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,84111,Eggerthella,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,194,Campylobacter,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1386,Bacillus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,400634,Lysinibacillus,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,2132,Spiroplasma,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,1004300,Hydrotalea,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.00296745,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,7.7391,SRR5942113,,,20,Male,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,7.41844,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,3.333,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29552,Acholeplasma axanthum,3.0969,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328814,Alistipes shahii,2.00135,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,0.931166,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.893655,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28111,Bacteroides eggerthii,0.824149,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33043,Coprococcus eutactus,0.632178,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,46503,Parabacteroides merdae,0.624455,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,2173,Methanobrevibacter smithii,0.607906,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39485,[Eubacterium] eligens,0.424762,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,0.409316,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,0.27251,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,0.252651,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,905,Acidaminococcus fermentans,0.227275,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,0.19528,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,0.189764,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328812,Parabacteroides goldsteinii,0.186454,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.168802,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,0.159975,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,626937,Christensenella minuta,0.150046,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.143426,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1465754,Alistipes timonensis,0.107018,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,397865,Barnesiella viscericola,0.0970884,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,626932,Alistipes indistinctus,0.0948819,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.0937786,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328813,Alistipes onderdonkii,0.0728163,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.0628868,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,487175,Parasutterella excrementihominis,0.0628868,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,817,Bacteroides fragilis,0.0551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1680,Bifidobacterium adolescentis,0.0540606,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.0496475,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29355,[Clostridium] cellobioparum,0.0441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29375,[Clostridium] xylanolyticum,0.0419246,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,454154,Paraprevotella clara,0.0408213,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,36847,[Clostridium] neopropionicum,0.0386147,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1161942,Ruminococcus champanellensis,0.0353049,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,218538,Dialister invisus,0.0308918,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40518,Ruminococcus bromii,0.0242721,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,341225,[Clostridium] saccharogumia,0.0209623,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.0187557,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.0165492,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84032,[Clostridium] thermosuccinogenes,0.0165492,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39496,Eubacterium ventriosum,0.0165492,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0121361,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39490,Eubacterium ramulus,0.0121361,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33039,[Ruminococcus] torques,0.0110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29348,[Clostridium] spiroforme,0.0110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,44749,Sporobacter termitidis,0.0110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,650643,Alistipes sp. RMA 9912,0.0099295,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,0.0099295,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.00661967,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1077256,Methanosphaera cuniculi,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,143393,[Eubacterium] sulci,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,270498,Catabacter hongkongensis,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1755629,Victivallis sp. MC_44,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1352,Enterococcus faecium,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,44933,Halomonas cupida,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,35517,[Eubacterium] brachy,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,626930,Bacteroides fluxus,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,2137,Spiroplasma apis,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,106648,Acinetobacter bereziniae,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33033,Parvimonas micra,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39497,Eubacterium xylanophilum,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,395922,Coraliomargarita akajimensis,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39486,Dorea formicigenerans,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29385,Staphylococcus saprophyticus,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1547,Erysipelatoclostridium ramosum,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1454,Bacillus azotoformans,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,195097,Sphingomonas sp. PC5.28,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,847,Oxalobacter formigenes,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1113696,Halomonas sp. NBRC 100990,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28026,Bifidobacterium pseudocatenulatum,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28090,Acinetobacter lwoffii,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,216940,Spiroplasma lampyridicola,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,881,Desulfovibrio vulgaris,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1507,Clostridium sp. ATCC 29733,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29466,Veillonella parvula,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,329,Ralstonia pickettii,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,714549,Hydrotalea flava,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39484,Eubacterium desmolans,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,645466,Anaerostipes butyraticus,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,216816,Bifidobacterium longum,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33035,Blautia producta,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1264,Ruminococcus albus,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39482,[Eubacterium] contortum,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,48256,[Clostridium] hungatei,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,729,Haemophilus parainfluenzae,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1685,Bifidobacterium breve,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,327855,Sphingomonas sp. ORS 1497,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40682,Sphingomonas mali,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1510,[Clostridium] stercorarium,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33964,Leuconostoc citreum,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,35833,Bilophila wadsworthia,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1689,Bifidobacterium dentium,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,290055,[Eubacterium] fissicatena,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,59803,Sphingomonas echinoides,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,155892,Caulobacter vibrioides,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,52787,Anaerofilum pentosovorans,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,536633,Blautia glucerasea,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1144673,Acinetobacter sp. CIP 64.7,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,502558,Eggerthella sp. YY7918,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40683,Sphingomonas pruni,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,166486,Roseburia intestinalis,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1499,[Clostridium] josui,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1246,Leuconostoc lactis,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,762210,Bifidobacterium saguini,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,75.5304,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,10.5981,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,5.84848,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2147,Acholeplasma,3.0969,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,0.817529,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,33042,Coprococcus,0.632178,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2172,Methanobrevibacter,0.607906,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,0.456757,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,0.409316,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,0.290162,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,0.27251,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,0.252651,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.227275,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,990721,Christensenella,0.150046,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.125774,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,397864,Barnesiella,0.0970884,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.0937786,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,577310,Parasutterella,0.0628868,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1678,Bifidobacterium,0.0606803,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1263,Ruminococcus,0.0606803,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,577309,Paraprevotella,0.0408213,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1505663,Erysipelatoclostridium,0.0342016,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,0.0319951,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.0308918,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0176524,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,44748,Sporobacter,0.0110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,13687,Sphingomonas,0.00661967,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.00661967,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.00661967,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.00661967,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2316,Methanosphaera,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2132,Spiroplasma,0.00551639,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,270497,Catabacter,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1350,Enterococcus,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,172900,Victivallis,0.00441311,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,543311,Parvimonas,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.00330983,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,442430,Coraliomargarita,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,189330,Dorea,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1386,Bacillus,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,872,Desulfovibrio,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1243,Leuconostoc,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,846,Oxalobacter,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1279,Staphylococcus,0.00220656,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,75,Caulobacter,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1004300,Hydrotalea,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,35832,Bilophila,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,48736,Ralstonia,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,29465,Veillonella,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,724,Haemophilus,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,84111,Eggerthella,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,52784,Anaerofilum,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,207244,Anaerostipes,0.00110328,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,75.5381,SRR5942115,,,25,Female,Gingivitis
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,34.4572,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,122355,Pseudomonas psychrophila,13.7366,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,5.82304,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,3.68623,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,43131,Tissierella praeacuta,3.61685,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,3.20059,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,40518,Ruminococcus bromii,3.04796,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,2.20619,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,2.14144,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,1.78068,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,310298,Bacteroides coprocola,1.76218,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,584,Proteus mirabilis,1.54017,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,1.53554,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,1.49392,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.892651,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39492,[Eubacterium] siraeum,0.87415,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,626932,Alistipes indistinctus,0.818649,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.818649,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,46503,Parabacteroides merdae,0.749272,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,516075,Providencia sneebia,0.716896,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.69377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,310297,Bacteroides plebeius,0.587392,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,329854,Bacteroides intestinalis,0.582767,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,328814,Alistipes shahii,0.550391,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,183417,Proteus hauseri,0.541141,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,33043,Coprococcus eutactus,0.527265,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,588,Providencia stuartii,0.508765,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,341225,[Clostridium] saccharogumia,0.476389,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,0.462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,29348,[Clostridium] spiroforme,0.309884,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1249,Weissella paramesenteroides,0.263633,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39486,Dorea formicigenerans,0.259007,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,36835,[Clostridium] colinum,0.235882,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,40216,Acinetobacter radioresistens,0.203506,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39485,[Eubacterium] eligens,0.185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,397865,Barnesiella viscericola,0.166505,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,2173,Methanobrevibacter smithii,0.138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1161942,Ruminococcus champanellensis,0.134129,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.124879,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.115628,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,291645,Bacteroides nordii,0.115628,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,0.111003,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,270498,Catabacter hongkongensis,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1755629,Victivallis sp. MC_44,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,187327,Acidaminococcus intestini,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39496,Eubacterium ventriosum,0.101753,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.0971278,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.0925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,328812,Parabacteroides goldsteinii,0.0878775,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,626937,Christensenella minuta,0.0878775,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,166486,Roseburia intestinalis,0.0832524,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,40324,Stenotrophomonas maltophilia,0.069377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.069377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,239935,Akkermansia muciniphila,0.069377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.0647519,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,0.0647519,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,562,Escherichia coli,0.0601267,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1465754,Alistipes timonensis,0.0555016,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39497,Eubacterium xylanophilum,0.0508765,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,179995,Anaerobiospirillum thomasii,0.0508765,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,79681,Tissierella creatinophila,0.0508765,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,84032,[Clostridium] thermosuccinogenes,0.0462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,126385,Providencia alcalifaciens,0.0416262,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,317,Pseudomonas syringae,0.0416262,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.0416262,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,521157,Weissella sp. KLDS 7.0701,0.0370011,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,137591,Weissella cibaria,0.0370011,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,48256,[Clostridium] hungatei,0.0370011,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1680,Bifidobacterium adolescentis,0.0370011,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,29356,Clostridium chartatabidum,0.0323759,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1646377,Rouxiella sp. 323,0.0323759,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,33069,Pseudomonas viridiflava,0.0323759,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,40519,Ruminococcus callidus,0.0277508,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.0277508,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1559,Clostridium tertium,0.0277508,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,585,Proteus vulgaris,0.0277508,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,31971,[Eubacterium] dolichum,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,762210,Bifidobacterium saguini,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1358,Lactococcus lactis,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,37734,Enterococcus casseliflavus,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,626930,Bacteroides fluxus,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,328813,Alistipes onderdonkii,0.0185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1623,Lactobacillus ruminis,0.0185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,650643,Alistipes sp. RMA 9912,0.0185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,44749,Sporobacter termitidis,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,253239,Ethanoligenens harbinense,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28135,Prevotella oris,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,29369,Clostridium sardiniense,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,901,Desulfovibrio piger,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,589436,Prevotella fusca,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1352,Enterococcus faecium,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,29375,[Clostridium] xylanolyticum,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1522,[Clostridium] innocuum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1265,Ruminococcus flavefaciens,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,44933,Halomonas cupida,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,470863,Virgibacillus sp. YIM C834,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,301301,Roseburia hominis,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,52787,Anaerofilum pentosovorans,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,33964,Leuconostoc citreum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,33039,[Ruminococcus] torques,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39482,[Eubacterium] contortum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28026,Bifidobacterium pseudocatenulatum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,338188,Bacteroides finegoldii,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,43143,Tissierella creatinini,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1547,Erysipelatoclostridium ramosum,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,847,Oxalobacter formigenes,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39950,Dialister pneumosintes,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1694,Bifidobacterium pseudolongum,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,114528,Mogibacterium neglectum,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1114067,Weissella sp. NBRC 107245,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,114527,Mogibacterium diversum,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,76517,Campylobacter hominis,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28037,Streptococcus mitis,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1715347,Garciella sp. YIM G1-1,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,59803,Sphingomonas echinoides,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,216931,Spiroplasma alleghenense,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,290055,[Eubacterium] fissicatena,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,115979,Bacillus nealsonii,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,106648,Acinetobacter bereziniae,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,187452,Pediococcus claussenii,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,470,Acinetobacter baumannii,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,199,Campylobacter concisus,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,871324,Bacteroides stercorirosoris,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,536633,Blautia glucerasea,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,703,Plesiomonas shigelloides,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,84031,Clostridium sartagoforme,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,1827099,Peptoniphilus sp. JCM 8141,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,5.17552,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,55.2333,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,286,Pseudomonas,13.8106,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,4.73151,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,41273,Tissierella,3.67236,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1263,Ruminococcus,3.21909,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,583,Proteus,2.10906,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,2.09981,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,1.78068,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,586,Providencia,1.26729,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,0.851024,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.818649,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1505663,Erysipelatoclostridium,0.800148,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,33042,Coprococcus,0.527265,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,0.462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,46255,Weissella,0.34226,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,0.337635,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,189330,Dorea,0.259007,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1506577,Tyzzerella,0.235882,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.212756,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,397864,Barnesiella,0.166505,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,2172,Methanobrevibacter,0.138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.124879,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,0.115628,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,0.111003,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,270497,Catabacter,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,172900,Victivallis,0.106378,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.0925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,990721,Christensenella,0.0878775,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.0786273,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1678,Bifidobacterium,0.0740021,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,40323,Stenotrophomonas,0.069377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,239934,Akkermansia,0.069377,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,0.0647519,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,561,Escherichia,0.0601267,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0555016,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,13334,Anaerobiospirillum,0.0508765,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1350,Enterococcus,0.0370011,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1565532,Rouxiella,0.0323759,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.0323759,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,838,Prevotella,0.0277508,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1357,Lactococcus,0.0231257,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.0185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1578,Lactobacillus,0.0185005,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,253238,Ethanoligenens,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,872,Desulfovibrio,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,44748,Sporobacter,0.0138754,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1243,Leuconostoc,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,86331,Mogibacterium,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,194,Campylobacter,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,52784,Anaerofilum,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,84406,Virgibacillus,0.00925027,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,846,Oxalobacter,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,13687,Sphingomonas,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1253,Pediococcus,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,162289,Peptoniphilus,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,1386,Bacillus,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,2132,Spiroplasma,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,702,Plesiomonas,0.00462513,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,5.17552,SRR5942116,,,21,Male,Gingivitis
+D005891,Gingivitis,species,39485,[Eubacterium] eligens,8.64583,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28117,Alistipes putredinis,8.06548,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,46503,Parabacteroides merdae,7.19494,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,820,Bacteroides uniformis,6.60714,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,165179,Prevotella copri,4.88839,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,69825,[Clostridium] indolis,2.24702,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328814,Alistipes shahii,2.05357,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,310298,Bacteroides coprocola,1.76339,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28118,Odoribacter splanchnicus,1.70387,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28116,Bacteroides ovatus,1.59226,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29348,[Clostridium] spiroforme,1.24256,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1755626,Faecalibacterium sp. MC_41,1.22024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,818,Bacteroides thetaiotaomicron,1.19048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,351091,Oscillibacter valericigenes,1.02679,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,397865,Barnesiella viscericola,0.729167,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1510,[Clostridium] stercorarium,0.706845,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1515,Ruminiclostridium thermocellum,0.677083,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,33043,Coprococcus eutactus,0.580357,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,246787,Bacteroides cellulosilyticus,0.47619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,214856,Alistipes finegoldii,0.47619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,218538,Dialister invisus,0.46131,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,288965,[Clostridium] clariflavum,0.431548,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1161942,Ruminococcus champanellensis,0.372024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,46506,Bacteroides stercoris,0.349702,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29375,[Clostridium] xylanolyticum,0.327381,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,169435,Anaerotruncus colihominis,0.297619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1465754,Alistipes timonensis,0.297619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1755629,Victivallis sp. MC_44,0.267857,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84030,[Clostridium] saccharolyticum,0.223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1732,Eubacterium oxidoreducens,0.215774,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29355,[Clostridium] cellobioparum,0.208333,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1735,Holdemanella biformis,0.208333,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328813,Alistipes onderdonkii,0.193452,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,45851,Butyrivibrio crossotus,0.178571,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39497,Eubacterium xylanophilum,0.178571,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,821,Bacteroides vulgatus,0.178571,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,437898,Sutterella parvirubra,0.15625,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39492,[Eubacterium] siraeum,0.141369,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,166486,Roseburia intestinalis,0.141369,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,204516,Bacteroides massiliensis,0.126488,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,44749,Sporobacter termitidis,0.119048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1535,[Clostridium] leptum,0.119048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,47678,Bacteroides caccae,0.111607,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1512,[Clostridium] symbiosum,0.104167,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,410072,Coprococcus comes,0.104167,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,589436,Prevotella fusca,0.104167,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,371601,Bacteroides xylanisolvens,0.0967262,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1630,Kandleria vitulina,0.0967262,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,185294,Prevotella paludivivens,0.0892857,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,328812,Parabacteroides goldsteinii,0.0818452,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,310297,Bacteroides plebeius,0.0818452,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,357276,Bacteroides dorei,0.0818452,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,228603,Prevotella shahii,0.0669643,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39486,Dorea formicigenerans,0.0595238,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40520,Blautia obeum,0.0595238,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39778,Veillonella dispar,0.0520833,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1303,Streptococcus oralis,0.0520833,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,77098,Halomonas pacifica,0.0520833,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,36847,[Clostridium] neopropionicum,0.0446429,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,309120,Dialister micraerophilus,0.0446429,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,823,Parabacteroides distasonis,0.0446429,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39496,Eubacterium ventriosum,0.0372024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,626932,Alistipes indistinctus,0.0372024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,291645,Bacteroides nordii,0.0372024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39488,[Eubacterium] hallii,0.0297619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,650643,Alistipes sp. RMA 9912,0.0297619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,61171,Holdemania filiformis,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,301301,Roseburia hominis,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1358,Lactococcus lactis,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,729,Haemophilus parainfluenzae,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,187327,Acidaminococcus intestini,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84026,[Clostridium] methylpentosum,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1304,Streptococcus salivarius,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,487175,Parasutterella excrementihominis,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,74426,Collinsella aerofaciens,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1559,Clostridium tertium,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,52226,Mitsuokella multacida,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28446,[Clostridium] propionicum,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39484,Eubacterium desmolans,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1680,Bifidobacterium adolescentis,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,38313,Shewanella algae,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1113696,Halomonas sp. NBRC 100990,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28129,Prevotella denticola,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29370,[Clostridium] sphenoides,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,714549,Hydrotalea flava,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84031,Clostridium sartagoforme,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,626937,Christensenella minuta,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1308,Streptococcus thermophilus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,395922,Coraliomargarita akajimensis,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1495,Clostridium cylindrosporum,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29448,Bradyrhizobium elkanii,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1623,Lactobacillus ruminis,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1539,Clostridium malenominatum,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,44933,Halomonas cupida,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,84109,Slackia exigua,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1264,Ruminococcus albus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,89153,[Clostridium] hylemonae,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28037,Streptococcus mitis,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,349096,Pectinatus haikarae,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,29466,Veillonella parvula,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,35833,Bilophila wadsworthia,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,202956,Acinetobacter towneri,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,1755607,Bacteroides sp. MC_16,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,208479,[Clostridium] bolteae,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,39490,Eubacterium ramulus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,40519,Ruminococcus callidus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,28161,Bisgaard Taxon 7,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,52787,Anaerofilum pentosovorans,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,35517,[Eubacterium] brachy,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,species,-1,Unknown,39.6429,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,816,Bacteroides,12.7009,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,239759,Alistipes,11.1533,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1730,Eubacterium,9.11458,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,375288,Parabacteroides,7.32143,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,838,Prevotella,5.15625,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1506553,Lachnoclostridium,2.92411,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1508657,Ruminiclostridium,2.29911,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,283168,Odoribacter,1.70387,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1505663,Erysipelatoclostridium,1.24256,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,216851,Faecalibacterium,1.22024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,459786,Oscillibacter,1.02679,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,397864,Barnesiella,0.729167,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,33042,Coprococcus,0.684524,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,39948,Dialister,0.505952,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1263,Ruminococcus,0.386905,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,244127,Anaerotruncus,0.297619,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,172900,Victivallis,0.267857,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1573535,Holdemanella,0.208333,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,830,Butyrivibrio,0.178571,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,841,Roseburia,0.16369,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,40544,Sutterella,0.15625,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,44748,Sporobacter,0.119048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1279388,Kandleria,0.0967262,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1301,Streptococcus,0.0818452,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,2745,Halomonas,0.0744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,572511,Blautia,0.0595238,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,29465,Veillonella,0.0595238,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,189330,Dorea,0.0595238,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1485,Clostridium,0.0372024,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,904,Acidaminococcus,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,724,Haemophilus,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1357,Lactococcus,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,61170,Holdemania,0.0223214,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,577310,Parasutterella,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,102106,Collinsella,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,52225,Mitsuokella,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1678,Bifidobacterium,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,22,Shewanella,0.014881,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1578,Lactobacillus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,990721,Christensenella,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,52784,Anaerofilum,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,469,Acinetobacter,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,374,Bradyrhizobium,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,84108,Slackia,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,1004300,Hydrotalea,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,442430,Coraliomargarita,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,864,Pectinatus,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,35832,Bilophila,0.00744048,SRR5942124,,,25,Female,Gingivitis
+D005891,Gingivitis,genus,-1,Unknown,39.6503,SRR5942124,,,25,Female,Gingivitis

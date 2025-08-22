@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GutMLC - Gut Microbiome Disease Classifier</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .main-container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+            border: 1px solid rgba(255, 255, 255, 0.18);
+        }
+        
+        .header {
+            background: linear-gradient(45deg, #2196F3, #21CBF3);
+            color: white;
+            border-radius: 15px 15px 0 0;
+            padding: 2rem;
+        }
+        
+        .upload-area {
+            border: 3px dashed #ccc;
+            border-radius: 10px;
+            padding: 40px;
+            text-align: center;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .upload-area:hover {
+            border-color: #007bff;
+            background-color: #f8f9fa;
+        }
+        
+        .upload-area.dragover {
+            border-color: #28a745;
+            background-color: #e8f5e9;
+        }
+        
+        .prediction-card {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+            margin-bottom: 1rem;
+        }
+        
+        .prediction-card:hover {
+            transform: translateY(-2px);
+        }
+        
+        .disease-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .disease-item:last-child {
+            border-bottom: none;
+        }
+        
+        .probability-bar {
+            height: 8px;
+            background: linear-gradient(90deg, #FF6B6B, #4ECDC4);
+            border-radius: 4px;
+            margin-top: 5px;
+        }
+        
+        .loading {
+            display: none;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(45deg, #2196F3, #21CBF3);
+            border: none;
+            border-radius: 25px;
+            padding: 12px 30px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .btn-success {
+            background: linear-gradient(45deg, #4CAF50, #45a049);
+            border: none;
+            border-radius: 25px;
+        }
+        
+        .feature-info {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+        
+        .microbe-icon {
+            color: #4ECDC4;
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xl-8">
+                <div class="main-container">
+                    <!-- Header -->
+                    <div class="header text-center">
+                        <div class="microbe-icon">
+                            <i class="fas fa-dna"></i>
+                        </div>
+                        <h1 class="mb-0">🧬 GutMLC Classifier</h1>
+                        <p class="mt-2 mb-0">Predict diseases from gut microbiome data using deep learning</p>
+                    </div>
+                    
+                    <!-- Content -->
+                    <div class="p-4">
+                        <!-- Info Section -->
+                        <div class="feature-info">
+                            <h5><i class="fas fa-info-circle text-primary"></i> How it works</h5>
+                            <p class="mb-2">This tool uses a Convolutional Neural Network to predict potential diseases based on gut microbiome composition data.</p>
+                            <ul class="mb-0">
+                                <li>Upload a CSV file with microbiome abundance data</li>
+                                <li>Or manually enter 100 comma-separated abundance values</li>
+                                <li>Get top 5 disease predictions with confidence scores</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- Input Methods -->
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <h4><i class="fas fa-upload text-primary"></i> Upload CSV File</h4>
+                                <div class="upload-area" id="uploadArea">
+                                    <i class="fas fa-cloud-upload-alt fa-3x mb-3 text-muted"></i>
+                                    <h5>Drop your CSV file here or click to browse</h5>
+                                    <p class="text-muted">Supported formats: CSV, TXT</p>
+                                    <input type="file" id="fileInput" accept=".csv,.txt" style="display: none;">
+                                </div>
+                                <div class="mt-3">
+                                    <button class="btn btn-success" onclick="loadSampleData()">
+                                        <i class="fas fa-flask"></i> Use Sample Data
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-6">
+                                <h4><i class="fas fa-keyboard text-primary"></i> Manual Input</h4>
+                                <div class="mb-3">
+                                    <label for="manualInput" class="form-label">Enter 100 abundance values (comma-separated):</label>
+                                    <textarea class="form-control" id="manualInput" rows="8" 
+                                              placeholder="0.1, 0.5, 2.3, 1.1, 0.8, ..."></textarea>
+                                    <small class="form-text text-muted">Enter 100 microbiome abundance values separated by commas</small>
+                                </div>
+                                <button class="btn btn-primary" onclick="predictFromManual()">
+                                    <i class="fas fa-brain"></i> Predict from Manual Input
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <!-- Loading indicator -->
+                        <div class="loading text-center py-4" id="loading">
+                            <div class="spinner-border text-primary" role="status"></div>
+                            <p class="mt-2">Analyzing microbiome data...</p>
+                        </div>
+                        
+                        <!-- Results Section -->
+                        <div id="results" class="mt-4" style="display: none;">
+                            <h4><i class="fas fa-chart-bar text-success"></i> Prediction Results</h4>
+                            <div id="resultsContainer"></div>
+                        </div>
+                        
+                        <!-- Disease Classes Info -->
+                        <div class="mt-4">
+                            <h5><i class="fas fa-list text-info"></i> Supported Diseases ({{ disease_classes|length }})</h5>
+                            <div class="row">
+                                {% for disease in disease_classes[:20] %}
+                                <div class="col-md-6 col-lg-4">
+                                    <small class="text-muted">• {{ disease }}</small>
+                                </div>
+                                {% endfor %}
+                                {% if disease_classes|length > 20 %}
+                                <div class="col-12">
+                                    <small class="text-muted">... and {{ disease_classes|length - 20 }} more</small>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // File upload handling
+        const uploadArea = document.getElementById('uploadArea');
+        const fileInput = document.getElementById('fileInput');
+        
+        uploadArea.addEventListener('click', () => fileInput.click());
+        
+        uploadArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            uploadArea.classList.add('dragover');
+        });
+        
+        uploadArea.addEventListener('dragleave', () => {
+            uploadArea.classList.remove('dragover');
+        });
+        
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            const files = e.dataTransfer.files;
+            if (files.length > 0) {
+                handleFile(files[0]);
+            }
+        });
+        
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFile(e.target.files[0]);
+            }
+        });
+        
+        function handleFile(file) {
+            if (!file.name.match(/\.(csv|txt)$/)) {
+                alert('Please upload a CSV or TXT file');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            showLoading();
+            
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                hideLoading();
+                if (data.error) {
+                    alert('Error: ' + data.error);
+                } else {
+                    displayResults(data.results);
+                }
+            })
+            .catch(error => {
+                hideLoading();
+                alert('Error: ' + error.message);
+            });
+        }
+        
+        function predictFromManual() {
+            const manualInput = document.getElementById('manualInput').value.trim();
+            if (!manualInput) {
+                alert('Please enter abundance values');
+                return;
+            }
+            
+            const formData = new FormData();
+            formData.append('manual_input', manualInput);
+            
+            showLoading();
+            
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                hideLoading();
+                if (data.error) {
+                    alert('Error: ' + data.error);
+                } else {
+                    displayResults(data.results);
+                }
+            })
+            .catch(error => {
+                hideLoading();
+                alert('Error: ' + error.message);
+            });
+        }
+        
+        function loadSampleData() {
+            fetch('/sample_data')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('manualInput').value = data.sample_data.join(', ');
+                alert('Sample data loaded! You can now click "Predict from Manual Input"');
+            })
+            .catch(error => {
+                alert('Error loading sample data: ' + error.message);
+            });
+        }
+        
+        function showLoading() {
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+        }
+        
+        function hideLoading() {
+            document.getElementById('loading').style.display = 'none';
+        }
+        
+        function displayResults(results) {
+            const container = document.getElementById('resultsContainer');
+            container.innerHTML = '';
+            
+            results.forEach((result, index) => {
+                const card = document.createElement('div');
+                card.className = 'prediction-card p-3';
+                
+                let html = `<h6><i class="fas fa-microscope"></i> Sample ${result.sample_id}</h6>`;
+                
+                result.predictions.forEach(pred => {
+                    html += `
+                        <div class="disease-item">
+                            <div class="flex-grow-1">
+                                <strong>${pred.disease}</strong>
+                                <div class="probability-bar" style="width: ${pred.probability}%"></div>
+                            </div>
+                            <span class="badge bg-primary ms-3">${pred.probability}%</span>
+                        </div>
+                    `;
+                });
+                
+                card.innerHTML = html;
+                container.appendChild(card);
+            });
+            
+            document.getElementById('results').style.display = 'block';
+        }
+        
+        // Check model status on load
+        fetch('/health')
+        .then(response => response.json())
+        .then(data => {
+            if (!data.model_loaded) {
+                document.body.insertAdjacentHTML('afterbegin', `
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <strong>Model not loaded!</strong> Please train the model first using: <code>python run_gutmlc.py --mode quick</code>
+                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                    </div>
+                `);
+            }
+        })
+        .catch(error => console.log('Health check failed:', error));
+    </script>
+</body>
+</html>
